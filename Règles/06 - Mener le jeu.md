@@ -58,8 +58,6 @@ Il peut s’avérer utile de préparer (ou de faire sa « prep », selon le jarg
 - des descriptions de lieux fantastiques
 - quelques récompenses.
 
-Si vous souhaitez obtenir davantage de conseils sur la préparation d’une séance, consultez la page 63.
-
 Si vous préférez improviser, le simple fait de savoir que ces éléments sont essentiels à la création d’une aventure vous aidera à les imaginer sur le vif.
 ## Jouer pour découvrir ce qui va se passer
 

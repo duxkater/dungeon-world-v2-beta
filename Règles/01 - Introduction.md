@@ -46,7 +46,7 @@ En d’autres termes, chacun est également responsable de :
 - Se poser des questions intéressantes, que ce soit dans la peau du personnage ou en dehors
 # Les joueureuses
 
-Au début de la première séance de jeu, chaque joueur crée son personnage-joueur (PJ) en suivant la procédure de création de personnage (voir page 17), ou choisit un personnage prédéfini sur notre site https://www.dungeon-world.com/beta/. Au cours de cette étape, les joueurs sont encouragés à se poser des questions, à échanger et à étoffer leurs idées, ainsi qu'à ajouter des détails intéressants au jeu.
+Au début de la première séance de jeu, chaque joueur crée son personnage-joueur (PJ) en suivant la procédure de création de personnage, ou choisit un personnage prédéfini sur notre site https://www.dungeon-world.com/beta/. Au cours de cette étape, les joueurs sont encouragés à se poser des questions, à échanger et à étoffer leurs idées, ainsi qu'à ajouter des détails intéressants au jeu.
 
 Chaque joueur est responsable de :
 - Se rappeler les Manœuvres auxquelles il a accès (de base et de classe)
@@ -61,7 +61,7 @@ Le MJ est responsable de :
 - Gérer le rythme de la partie et la mise en avant des PJ
 - Décrire l’univers aux joueurs
 - Déclencher les conséquences
-- Effectuer des Manœuvres de MJ conformes à l’Agenda et aux Principes du jeu (voir page 58)
+- Effectuer des Manœuvres de MJ conformes à l’Agenda et aux Principes du jeu 
 - Avoir une compréhension raisonnable des règles du jeu et prendre des décisions équitables si nécessaire
 # Outils de sécurité
 
