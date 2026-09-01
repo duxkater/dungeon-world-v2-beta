@@ -253,9 +253,7 @@ Une fois que vous tenez un bon point de départ, vous pouvez dresser une liste s
 Lors de la préparation, il est préférable d'ébaucher les PNJ les plus cruciaux pour la séance, en se concentrant sur leur nom et leur lien avec la fiction, et en définissant leurs caractéristiques si nécessaire. De nombreux autres PNJ — voire la plupart d'entre eux — peuvent être improvisés directement autour de la table.
 ## Élaborer des lieux fantastiques
 
-D’après notre expérience, la création de lieux évocateurs
-ne s’improvise pas aisément. Il est donc utile de consacrer
-du temps à concevoir quelques lieux fantastiques que les personnages pourraient découvrir et explorer au cours de la partie. Chaque lieu peut être envisagé comme un décor, une salle ou une toile de fond pour une scène unique de la séance. Décrivez chaque lieu par un titre court et évocateur, tel que « La Citadelle perdue ».
+D’après notre expérience, la création de lieux évocateurs ne s’improvise pas aisément. Il est donc utile de consacrer du temps à concevoir quelques lieux fantastiques que les personnages pourraient découvrir et explorer au cours de la partie. Chaque lieu peut être envisagé comme un décor, une salle ou une toile de fond pour une scène unique de la séance. Décrivez chaque lieu par un titre court et évocateur, tel que « La Citadelle perdue ».
 
 Indiquez ensuite trois caractéristiques descriptives, comme : une odeur de stagnation et de lente décomposition ; une pierre aussi ancienne que les montagnes ; d’étranges échos de tristesse et de misère.
 
