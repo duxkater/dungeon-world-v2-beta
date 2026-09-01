@@ -33,7 +33,7 @@ Autrefois, j'étais ........
 # Manoeuvre de départ
 ## Ficelles du métier
 
-Lorsque vous bravez le danger ou vous faufilez en utilisant l'une de vos compétences de Crapule, lancez 1d8 + 1d6 (au lieu de 2d6).
+Lorsque vous Défiez le danger ou vous Faufilez en utilisant l'une de vos compétences de Crapule, lancez 1d8 + 1d6 (au lieu de 2d6).
 
 Vous commencez avec les compétences de Crapule suivantes :
 - déceler des bruits

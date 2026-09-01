@@ -64,3 +64,40 @@ Le MJ est responsable de :
 - Effectuer des Manœuvres de MJ conformes à l’Agenda et aux Principes du jeu (voir page 58)
 - Avoir une compréhension raisonnable des règles du jeu et prendre des décisions équitables si nécessaire
 # Outils de sécurité
+
+Il est essentiel de reconnaître que chacun a ses propres préférences quant à ce qui peut être agréable dans un jeu — et ce qui peut être dérangeant. C’est pourquoi il est important de discuter du jeu au préalable pour s’assurer que tout le monde est sur la même longueur d’onde, notamment en ce qui concerne les thèmes ou sujets délicats. Par ailleurs, même après une discussion approfondie en amont, il est toujours possible qu’un imprévu survienne en cours de partie et vienne gâcher le plaisir de l’un des participants. Dans cette optique, la section consacrée à la « Session Zéro » présente divers outils de sécurité visant à permettre à tous les participants de profiter du jeu en toute sérénité.
+
+- Les outils présentés ici ne fonctionnent que si chacun les aborde dans un esprit de bienveillance et d'empathie. Ils ne permettront pas de remédier à des comportements délibérément malveillants ou indifférents.
+- Personne ne peut lire dans vos pensées, et vous ne pouvez pas lire dans celles des autres. Exprimez honnêtement et respectueusement ce qui vous ferait plaisir, et veillez à ce que chacun ait la possibilité de s'exprimer.
+- Il ne doit pas s'agir d'un vote à la majorité ; un seul « non » doit l'emporter sur plusieurs « oui ». Collaborez pour faire une place à chacun et efforcez-vous de respecter et de prendre en compte la sensibilité de tous.
+
+Cependant, même avec des dispositifs de sécurité en place, il peut parfois subsister des incompatibilités insurmontables. Ce n’est pas grave : mieux vaut ne pas jouer du tout que de vivre une mauvaise expérience de jeu. Il n’y a aucune honte à quitter la partie, à demander à quelqu’un d’autre de le faire, ou à jouer à autre chose — et/ou avec d’autres personnes — tout simplement.
+## Outils de sécurité et termes associés
+
+**Les « lignes et les voiles »** (concept initié par Ron Edwards) servent à définir des limites concernant le contenu autorisé dans une partie.
+**Les lignes représentent des limites strictes** : il s’agit d’éléments que ni les joueurs ni le meneur de jeu (MJ) ne souhaitent voir abordés. Établir une ligne signifie que le contenu concerné n’apparaîtra jamais dans la partie. **Les voiles constituent des limites plus souples** : ils désignent des éléments acceptables s’ils restent « derrière le rideau » ou si, lorsqu’ils surviennent, la narration « coupe au noir ». Établir un voile signifie que le contenu peut être présent dans la partie, mais sans être mis en avant ni décrit en détail. Les lignes et les voiles peuvent être ajustés à tout moment en cours de jeu.
+
+**La technique de la « porte ouverte »**, conçue par Eirik Fatland, garantit à chacun la possibilité de quitter la partie ou de faire une pause pour préserver sa sécurité et son bien-être, sans être jugé. Il convient de mentionner ce principe au début de la séance, puis de le rappeler régulièrement.
+
+Le phénomène de **« débordement émotionnel »** (ou *bleed*) survient lorsque les émotions et le stress liés au jeu et aux personnages provoquent une véritable détresse chez le MJ ou les joueurs. Si la situation n’est pas gérée correctement, cela peut nuire au plaisir de jouer ainsi qu’aux relations entre les participants en dehors du jeu. Communiquer ouvertement et honnêtement sur les frontières du jeu, et savoir distinguer les sentiments issus de situations réelles de ceux provoqués par le jeu de rôle, permet d’atténuer considérablement ces effets.
+## Cartes X, N et O
+
+Ces cartes sont des outils de vérification. Elles peuvent être utilisées en montrant une carte physique, en tapant la lettre dans le chat ou en faisant un signe de la main. Avant le début de la partie, rappelez à tout le monde qu'elles sont disponibles et expliquez comment les utiliser.
+
+La carte X, créée par John Stavropoulos, peut être utilisée à tout moment si un participant se sent mal à l'aise face au contenu en cours de jeu. Lorsqu'un joueur demande la carte X, le MJ interrompt la partie et s'assure de comprendre ce qui a déclenché cette demande. Il ajoute ensuite une « Ligne » (si le système de Lignes et Voiles est utilisé) ou note le contenu à éviter. Lorsque la carte X est utilisée, le groupe peut modifier, revenir en arrière ou passer le contenu en question.
+
+La carte N (de Mysty Vander et Adam Cleaver) peut être utilisée à tout moment si un participant a l'impression que la situation évolue vers quelque chose qui nécessiterait une carte X. Lorsque la carte N est utilisée, le groupe peut modifier le contenu ou faire en sorte que la scène se termine par une « transition au noir ».
+
+La carte O, conçue par Kira Magrann, peut être utilisée à tout moment si quelqu'un souhaite poursuivre le contenu actuel et vérifier auprès du reste de la table si tout le monde est d'accord pour continuer. On peut aussi solliciter régulièrement cet avis en demandant « O ? » à voix haute ou dans le chat pour s'assurer que tout va bien pour tout le monde.
+## Boîte à outils pour modifier le jeu
+
+Voici un ensemble de termes inspirés du cinéma permettant d'ajuster le jeu et son contenu selon les besoins.
+
+« Retour en arrière » (Rewind) : s'utilise lorsqu'un élément du jeu met un participant mal à l'aise. Lorsque cette option est choisie, précisez quel contenu doit être modifié, revenez à un moment antérieur à l'événement en question et reprenez le jeu.
+
+« Avance rapide » (Fast Forward) : s'utilise pour passer outre un contenu gênant ou pour avancer vers la partie suivante de la fiction. Dans ce cas, passez à un nouveau moment de l'histoire convenu par tous les participants.
+
+« Pause » : s'utilise lorsque la situation devient trop intense, tout en souhaitant poursuivre la scène. Cette option permet de faire une pause et/ou de discuter du contenu si nécessaire. Vous pouvez ensuite reprendre le jeu ou utiliser les options « Retour en arrière » ou « Avance rapide ».
+## Autres outils
+
+Consultez le site ttrpgsafetytoolkit.com pour découvrir d'autres outils au-delà de ceux présentés ici.
