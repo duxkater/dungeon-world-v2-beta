@@ -18,3 +18,17 @@ Il existe plusieurs façons de gérer la reconnaissance et l'apprentissage de l'
 - **Lorsque vous « Établissez le campement »**, vous en apprenez automatiquement le fonctionnement ; vous consacrez peut-être une partie de votre pause à l'expérimenter et à l'étudier. Cela incite davantage les groupes réticents à opter pour l'action « Établir le camp » et peut rendre plus intéressant le choix du moment opportun pour le faire.
 - **Lorsque vous le prenez en main pour la première fois.** Peut-être transmet-il des connaissances à son détenteur, communique-t-il directement, porte-t-il des instructions écrites, ou son utilisation est-elle tout simplement évidente.
 - **Lorsque vous faites appel à un spécialiste pour le révéler ou le déverrouiller.** Il se peut que cet objet magique soit protégé par un sortilège devant être brisé avant qu'une nouvelle personne ne puisse l'utiliser, ou que le décryptage des objets magiques soit un processus complexe et périlleux, nécessitant une profession dédiée dans votre univers.
+
+# Objets magiques
+## Armure en adamantite
+
+Utilisations OOO
+
+Cette armure métallique (intermédiaire ou lourde) est renforcée à l'adamantite, l'une des substances les plus dures qui soient.
+Lorsque vous la portez, si vous devriez subir des dégâts maximaux, on lance les dés avec avantage à la place.
+## Bouclier animé
+
+Utilisations O
+
+Ce bouclier a été enchanté pour suivre son propriétaire et le protéger. Il fait parfois preuve d'un zèle excessif dans l'accomplissement de sa tâche.
+Ce bouclier flotte près de vous et vous protège de sa propre initiative, sans que vous ayez besoin de le tenir ou de le porter. Cochez une utilisation pour ignorer tous les dégâts d'une attaque.

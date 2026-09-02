@@ -43,13 +43,9 @@ Alors que les Relations et leur Profondeur sont gérées individuellement, les L
 - « Votre partenaire de lien » désigne l’autre PJ qui ne déclenche pas la capacité, mais qui partage ce Lien avec vous. Certains liens peuvent utiliser des termes spécifiques comme rival, mentor, protégé ou autre
 - « L’un de vous » signifie vous ou votre partenaire de lien
 - « Vous deux » et les expressions similaires désignent les deux PJ liés
-
-Voici un exemple de Lien pouvant être choisi dans DW2 : Conviction mutuelle. D’autres seront ajoutés ultérieurement sur dungeon-world.com
 # Conflits
 
 Les Conflits sont des éléments narratifs forts auxquels un personnage se confronte tout au long de la partie. Au fond, tout Conflit soulève une question sur l'identité du PJ, ce qui compte pour lui et les choix qu'il est prêt à faire. Chaque PJ ne peut avoir qu'un seul Conflit à la fois.
-
-Voici un exemple de Conflit utilisable dans DW2. Tout comme pour les Liens, d'autres seront ajoutés ultérieurement sur dungeon-world.com.
 # Trésor et Richesse
 
 Cette section ne concerne que les campagnes. Pour une partie unique de Dungeon World 2, vous n’avez pas à vous soucier du Trésor ou de la Richesse.

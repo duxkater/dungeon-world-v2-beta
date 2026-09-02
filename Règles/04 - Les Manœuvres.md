@@ -30,11 +30,12 @@ La magnitude (mag) représente l'ampleur et la puissance d'un sort. Le MJ a le d
 
 Lorsque vous faites face à un risque, une menace ou un obstacle — et qu'aucune autre manœuvre ne convient mieux —, décrivez comment vous vous y prenez, puis le MJ choisit une option :
 
-- +FOR si vous forcez le passage, encaissez physiquement le choc ou brisez l'obstacle
-- +DEX si vous esquivez, prenez de vitesse ou visez avec précision
-- +INT si vous analysez, remarquez ou déjouez la menace par la ruse
-- +SAG si vous scrutez, faites preuve d'empathie ou résistez avec détermination
-- +CHA si vous charmez, dupez, impressionnez ou provoquez
+- Options :
+	- +FOR si vous forcez le passage, encaissez physiquement le choc ou brisez l'obstacle
+	- +DEX si vous esquivez, prenez de vitesse ou visez avec précision
+	- +INT si vous analysez, remarquez ou déjouez la menace par la ruse
+	- +SAG si vous scrutez, faites preuve d'empathie ou résistez avec détermination
+	- +CHA si vous charmez, dupez, impressionnez ou provoquez
 
 - Sur un 10+, vous le surmontez sans accroc.
 - Sur un 7-9, vous l'emportez, mais choisissez une option ci-dessous :
