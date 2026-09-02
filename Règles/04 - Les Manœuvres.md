@@ -30,7 +30,7 @@ La magnitude (mag) représente l'ampleur et la puissance d'un sort. Le MJ a le d
 
 Lorsque vous faites face à un risque, une menace ou un obstacle — et qu'aucune autre manœuvre ne convient mieux —, décrivez comment vous vous y prenez, puis le MJ choisit une option :
 
-- Options :
+- Bonus au jet :
 	- +FOR si vous forcez le passage, encaissez physiquement le choc ou brisez l'obstacle
 	- +DEX si vous esquivez, prenez de vitesse ou visez avec précision
 	- +INT si vous analysez, remarquez ou déjouez la menace par la ruse
@@ -53,9 +53,10 @@ Lorsque vous faites face à un risque, une menace ou un obstacle — et qu'aucun
 
 Lorsque vous amenez un PNJ à agir selon vos désirs, choisissez une approche parmi celles ci-dessous et lancez les dés +CHA :
 
-- Si vous le trompez par des paroles ou des actes mensongers, il pourrait chercher à découvrir la vérité ou apprendre un secret vous concernant.
-- Si vous le persuadez ouvertement et honnêtement, il pourrait exiger une promesse et/ou un paiement, ou ne s'exécuter que partiellement.
-- Si vous menacez sa sécurité ou ses intérêts, il pourrait envenimer le conflit sur-le-champ, ou bien fuir ou vous trahir plus tard.
+- Approche :
+	- Si vous le trompez par des paroles ou des actes mensongers, il pourrait chercher à découvrir la vérité ou apprendre un secret vous concernant.
+	- Si vous le persuadez ouvertement et honnêtement, il pourrait exiger une promesse et/ou un paiement, ou ne s'exécuter que partiellement.
+	- Si vous menacez sa sécurité ou ses intérêts, il pourrait envenimer le conflit sur-le-champ, ou bien fuir ou vous trahir plus tard.
 
 - Sur un 10+, il s'exécute du mieux qu'il peut.
 - Sur un 7-9, il essaie, mais le MJ ajoute une complication liée à votre approche.
@@ -96,9 +97,10 @@ Lorsque vous tentez de passer inaperçu, lancez +DEX.
 
 Lorsque vous fouillez votre mémoire pour obtenir des informations sur un sujet précis, posez une question à ce sujet au MJ, répondez aux questions ci-dessous, puis lancez les dés avec un bonus de +1 pour chaque « Oui » :
 
-- Avez-vous accès à un livre ou à une source d'information équivalente sur ce sujet ?
-- Ce sujet est-il lié à vos Origines ?
-- Ce sujet est-il pertinent pour votre Conflit ?
+- Questions :
+	- Avez-vous accès à un livre ou à une source d'information équivalente sur ce sujet ?
+	- Ce sujet est-il lié à vos Origines ?
+	- Ce sujet est-il pertinent pour votre Conflit ?
 
 - Sur un 10+, le MJ répond généreusement, et vous ou un allié bénéficiez également d'un avantage la première fois que quelqu'un agit en fonction de cette réponse.
 - Sur un 7-9, le MJ répond simplement de manière généreuse.
