@@ -17,9 +17,9 @@ Comme on peut s'y attendre, la structure de la conversation suit généralement 
 - Un ou plusieurs joueurs, en tenant compte de ce que leur PJ ferait dans une telle situation (ce qu'on appelle le « jeu de rôle »), soit s'expriment (à la première ou à la troisième personne, par ex. « Je pense que... » ou « Mon personnage pense que... »), soit proposent une Manœuvre (« J'essaie de crocheter la serrure... » ou « Mon personnage/Slick essaie de crocheter la serrure »).
 - Le MJ détermine si le recours à une règle du jeu est nécessaire. C'est généralement le cas lorsque l'issue de la Manœuvre proposée est incertaine (la compétence de crochetage de Slick permet-elle de venir à bout de la serrure de la porte ?).
 - Lorsqu'une règle de jeu est nécessaire — comme c'est le cas pour DW2 et les jeux du même type (système *Powered by the Apocalypse* ou PbtA, pour les curieux) — il s'agit généralement d'une Manœuvre.
-- Dans ce cas, le MJ estime que la Manœuvre proposée par le joueur correspond aux critères requis ; il se souvient aussitôt que Slick, en tant que Voleur, a accès à la Manœuvre « Tours du métier » (*Tricks of the Trade*), laquelle inclut diverses compétences de voleur, dont le « crochetage ».
+- Dans ce cas, le MJ estime que la Manœuvre proposée par le joueur correspond aux critères requis ; il se souvient aussitôt que Slick, en tant que Crapule, a accès à la Manœuvre « Ficelles du métier », laquelle inclut diverses compétences de Crapule, dont le « crochetage ».
 
-	- Fort de ce constat, le MJ dit au joueur de Slick : « On dirait bien que tu tentes de crocheter la serrure ; cela déclenche donc ta Manœuvre "Tours du métier", n'est-ce pas ? »
+	- Fort de ce constat, le MJ dit au joueur de Slick : « On dirait bien que tu tentes de crocheter la serrure ; cela déclenche donc ta Manœuvre "Ficelels du métier", n'est-ce pas ? »
 	- Le joueur confirme, alors le MJ enchaîne : « Dans ce cas, tu dois lancer les dés et ajouter ton bonus de Dextérité (DEX). »
 	- Le joueur lance les dés et, selon le résultat, le MJ intègre l'issue de la Manœuvre au récit. Pour les besoins de cet exemple, imaginons que le joueur de Slick obtienne un score suffisant pour réussir le crochetage.
 	- La porte étant désormais déverrouillée, les joueurs décident de l'ouvrir et d'avancer ; le MJ doit alors décrire la nouvelle situation… Ce qui nous ramène au point de départ.

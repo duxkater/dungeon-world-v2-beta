@@ -6,17 +6,20 @@ Lorsque vous aidez un autre PJ, celui-ci bénéficie d'un avantage sur ses jets.
 >« S'exposer aux mêmes risques et conséquences » signifie que ces conséquences s'appliquent intégralement aux deux PJ (celui qui aide et celui qui est aidé), plutôt que d'être partagées entre eux. Par exemple, si le PJ aidé subit des dégâts, le PJ qui l'aide en subit autant. Si l'un est pris et capturé, l'autre l'est aussi.
 ## Lancer un sort (+Variable)
 
-Lorsque vous invoquez une magie que vous maîtrisez, décrivez l'effet souhaité et lancez les dés en ajoutant la caractéristique correspondante (voir votre Classe ou vos Voies), avec un malus égal à la puissance magique du sort (à l'appréciation du MJ).
+Lorsque vous invoquez la magie, décrivez l'effet souhaité ; le MJ vous indiquera la puissance (Mag) de cet effet, que vous comparerez ensuite à votre caractéristique d'Incantation (voir la Classe ou la Voie correspondant à la source de votre magie).
 
-- Sur un résultat de 10+, le sort est lancé avec succès.
-- Sur un 7-9, le sort fonctionne, mais choisissez une option :
-	- Une option unique liée à la source de votre magie (voir votre Classe ou vos Voies)
-	- L'effort est épuisant ; cochez un nombre d'états égal à la puissance magique du sort
-	- Il y a une complication ; le MJ ajoute un « et » ou un « mais » à l'effet du sort
-- Sur un 6-, quelque chose tourne très mal ; cochez 1 PX et le MJ effectue une Manœuvre.
+- Si la puissance dépasse votre caractéristique d'Incantation, le sort vous dépasse : négociez un effet moindre ou accomplissez un rituel pour y parvenir.
+- Si la puissance est égale à votre caractéristique d'Incantation, lancez les dés + caractéristique d'Incantation avec un désavantage.
+- Si la puissance est inférieure à votre caractéristique d'Incantation, lancez les dés + caractéristique d'Incantation.
+
+- Sur un 10+, l'effet se produit comme prévu.
+- Sur un 7-9, l'effet se produit, mais choisissez une option :
+	- Une option unique liée à la source de votre magie
+	- L'effort est épuisant ; cochez une Condition
+	- Il y a un imprévu ; le MJ ajoute un « et » ou un « mais » à l'effet
+- Sur un 6-, les choses tournent très mal ; cochez 1 PX et le MJ effectue une Manœuvre.
 
 >La « magie que vous maîtrisez » provient généralement d'une Manœuvre de départ de Classe ou d'une Manœuvre de Voie, mais certains objets magiques ou artefacts peuvent également vous permettre de Lancer un sort. Ces options (et d'autres) préciseront toujours clairement que vous avez la possibilité de Lancer un sort.
-
 ### Magnitude (MAG)
 
 La magnitude (mag) représente l'ampleur et la puissance d'un sort. Le MJ a le dernier mot concernant la magnitude d'un sort, mais les indications ci-dessous devraient vous aider :
@@ -26,6 +29,25 @@ La magnitude (mag) représente l'ampleur et la puissance d'un sort. Le MJ a le d
 - mag 2 — Exemples d'effets : une boule de feu explosive (1d10 dégâts) ; communiquer avec un fantôme ou un esprit ; fabriquer instantanément un objet ordinaire fini à partir d'un tas de matières premières ; se transformer, soi-même et son équipement, en un nuage de fumée
 - mag 3 — Exemples d'effets : vomir un nuage de poison qui inflige des dégâts à quiconque respire le gaz (1d12 dégâts) ; créer une porte vers une autre dimension ; métamorphoser quelqu'un en une autre créature naturelle de taille égale ou inférieure ; soulever une créature ou un objet pesant jusqu'à 450 kg, le déplacer vers un lieu à portée « proche » et le maintenir en place
 - mag 4 — Exemples d'effets : prononcer un mot de pouvoir interdit qui tue quiconque est plus faible que vous ou inflige (1d8+1d6 dégâts) si la cible est plus forte ; invoquer ou paralyser une créature monstrueuse ; formuler un vœu unique (sans pouvoir en demander d'autres) ; se téléporter, soi-même et ses alliés, vers n'importe quel lieu de la même dimension ;
+## Réconforter et soutenir
+
+Une fois par séance, après avoir offert réconfort ou soutien à un autre personnage-joueur, répondez aux questions suivantes :
+- Avez-vous exploré, modifié ou réaffirmé une relation ou un lien ?
+- Cette personne s’est-elle confiée à vous en retour ?
+- L’un de vous a-t-il révélé quelque chose de nouveau concernant son conflit ?
+
+Pour chaque réponse affirmative, la personne réconfortée peut choisir soit
+- d’effacer un état marqué, 
+- soit d’augmenter de 1 le niveau de sa relation avec la personne qui a apporté son soutien, 
+- soit de faire effacer un état marqué chez cette dernière. 
+
+La personne réconfortée peut choisir une même option plusieurs fois.
+
+>Si l'un des PJ (ou les deux) n'entretient pas encore de relation avec l'autre, les joueurs ont la possibilité d'en créer une maintenant dans le cadre de cette action et de répondre « Oui » à la première question.
+
+>L'action « Réconforter et soutenir » peut prendre des formes très variées. Vous pouvez jouer de la musique pour l'autre, cuisiner ensemble, vous affronter en duel pour vous défouler, simplement discuter ou rester assis tranquillement à ses côtés.
+
+>C'est le principal moyen pour les PJ de se débarrasser de leurs états et de renforcer leurs liens. Chaque PJ ne peut utiliser cette action qu'une seule fois par séance (le réconfort a ses limites), mais plusieurs PJ peuvent réconforter et soutenir un même PJ s'ils le souhaitent, même simultanément.
 ## Défier le danger (+Variable)
 
 Lorsque vous faites face à un risque, une menace ou un obstacle — et qu'aucune autre manœuvre ne convient mieux —, décrivez comment vous vous y prenez, puis le MJ choisit une option :
@@ -147,25 +169,6 @@ Quel que soit le résultat, vous découvrez toujours quelque chose ; le MJ vous 
 # Manœuvres spéciales
 
 Il s’agit de Manœuvres généralement déclenchées moins souvent que les Manœuvres de base, et qui dépendent fortement du déroulement de chaque campagne et de chaque groupe de jeu. Leur fréquence d’utilisation en cours de partie peut même varier d’une séance à l’autre.
-## Réconforter et soutenir
-
-Une fois par séance, après avoir offert réconfort ou soutien à un autre personnage-joueur, répondez aux questions suivantes :
-- Avez-vous exploré, modifié ou réaffirmé une relation ou un lien ?
-- Cette personne s’est-elle confiée à vous en retour ?
-- L’un de vous a-t-il révélé quelque chose de nouveau concernant son conflit ?
-
-Pour chaque réponse affirmative, la personne réconfortée peut choisir soit
-- d’effacer un état marqué, 
-- soit d’augmenter de 1 le niveau de sa relation avec la personne qui a apporté son soutien, 
-- soit de faire effacer un état marqué chez cette dernière. 
-
-La personne réconfortée peut choisir une même option plusieurs fois.
-
->Si l'un des PJ (ou les deux) n'entretient pas encore de relation avec l'autre, les joueurs ont la possibilité d'en créer une maintenant dans le cadre de cette action et de répondre « Oui » à la première question.
-
->L'action « Réconforter et soutenir » peut prendre des formes très variées. Vous pouvez jouer de la musique pour l'autre, cuisiner ensemble, vous affronter en duel pour vous défouler, simplement discuter ou rester assis tranquillement à ses côtés.
-
->C'est le principal moyen pour les PJ de se débarrasser de leurs états et de renforcer leurs liens. Chaque PJ ne peut utiliser cette action qu'une seule fois par séance (le réconfort a ses limites), mais plusieurs PJ peuvent réconforter et soutenir un même PJ s'ils le souhaitent, même simultanément.
 ## Fin de séance
 
 À la fin d’une séance, répondez collectivement aux questions suivantes :
@@ -200,7 +203,7 @@ Lorsque vous cochez la dernière case de la piste d’expérience de votre perso
 ## Établir le campement
 
 Une fois par session, lorsque vous passez quelques heures à vous reposer (même en pleine aventure), décrivez en collaboration ce que fait chaque PJ. La situation dans le monde empire à chaque fois que vous établissez le campement.
-Une fois l'action terminée, chaque PJ récupère la moitié de ses PV perdus (arrondie à l'inférieur) et décoche un état marqué.
+Une fois l'action terminée, chaque PJ récupère la totalité de ses PV et décoche un état marqué.
 
 >N'hésitez pas à discuter des situations, des événements ou des émotions pendant que vous établissez le campement. Les conversations ne doivent pas nécessairement impliquer tout le groupe ; un personnage peut s'isoler ou prendre un allié à part pour une discussion en tête-à-tête. D'autres actions peuvent survenir durant cette phase, comme « Réconforter et soutenir » ou « Percer à jour ».
 
@@ -209,7 +212,7 @@ Une fois l'action terminée, chaque PJ récupère la moitié de ses PV perdus (a
 >Si l'action est interrompue, vous devez la reprendre et la mener à son terme pour en obtenir les bénéfices.
 ## Accomplir un rituel
 
-Lorsque vous puisez dans une source de puissance magique (objet, personne ou lieu) pour créer un effet, dites au MJ ce que vous cherchez à accomplir. Le MJ vous imposera un nombre de conditions égal à la Magnitude de l'effet (minimum 1) parmi les éléments suivants (en complétant les blancs ou en faisant des choix si nécessaire) :
+Lorsque vous puisez dans une source de puissance magique (objet, personne ou lieu) pour créer un effet, dites au MJ ce que vous cherchez à accomplir. Le MJ vous imposera un nombre de conditions égal ou inférieur à la Magnitude de l'effet (minimum 1) parmi les éléments suivants (en complétant les blancs ou en faisant des choix si nécessaire) :
 
 - Vous devez d’abord ..........
 - Cela prendra des jours/semaines/mois
@@ -225,13 +228,14 @@ Une fois toutes les conditions remplies, le rituel est achevé et l’effet magi
 ## Atteindre vos limites
 
 Lorsque vous cochez votre dernier État, décochez tous vos États cochés, puis choisissez et jouez l'une des réactions impulsives suivantes :
+
 - **Colérique** — Vous en prenez à vos alliés ou brisez un objet important
 - **Distrait** — Vous vous éloignez seul ou passez à côté d'un élément crucial
 - **Épuisé** — Vous vous effondrez ou baissez les bras au moment décisif
 - **Effrayé** — Vous vous cachez ou fuyez le danger
 - **Insecure** — Vous compensez à l'excès ou critiquez durement quelqu'un
 
-Après cette réaction, verrouillez l'État choisi.
+Si votre emportement n'est pas assez extrême, le MJ pourrait vous demander d'aller plus loin. Après cette réaction, verrouillez l'État choisi.
 
 >Atteindre vos limites est un excellent moyen d'effacer vos États, à condition d'accepter les conséquences de votre réaction impulsive (ainsi que le fait de vous retrouver avec un État verrouillé par la suite).
 

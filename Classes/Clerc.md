@@ -35,14 +35,24 @@ Autrefois, j'étais ........
 
 Vous entretenez un lien étroit avec une divinité qui vous donne le pouvoir de répandre ses idéaux. Donnez-lui un nom et des pronoms, puis choisissez une option par ligne ci-dessous (ou rédigez la vôtre) :
 
-- Domaine : ☐ Artisanat ☐ Lumière ☐ Nature ☐ Ordre ☐ Voyage
+- Domaine : ☐ Artisanat ☐ Lumière ☐ Nature ☐ Loi ☐ Voyage
 - Fidèles : ☐ artistes ☐ explorateurs ☐ agriculteurs ☐ marchands ☐ nobles
 - Ennemis : ☐ bandits ☐ industriels ☐ monstres nocturnes ☐ rebelles ☐ morts-vivants
 
 Vous pouvez Lancer un sort +SAG pour produire tout effet relevant du ou des domaines de votre divinité. Pour lancer un sort, vous devez invoquer le nom de votre divinité à voix haute. Définissez une relation de niveau 2 avec elle.
 
-Lorsque vous Lancez un sort,
-- Sur un résultat de 7 à 9, vous pouvez réduire de 1 le niveau de votre relation avec la divinité au lieu de choisir les autres options. Vous pouvez augmenter ce niveau en protégeant les fidèles de la divinité, en répandant sa foi et en terrassant ses ennemis (à l’appréciation du MJ).
+Lorsque vous lancez un sort de cette manière, votre option unique pour un résultat de 7 à 9 est :
+- votre divinité désapprouve ; effacez 1 point de Profondeur avec elle.
+
+Vous pouvez accroître votre Profondeur auprès de votre divinité en protégeant ses fidèles, en propageant sa foi et en terrassant ses ennemis (à la discrétion du MJ).
+
+L'expression « tout effet relevant du ou des domaines de votre divinité » est volontairement large. Voici quelques exemples pour chaque domaine :
+
+- Loi — ordonner quelque chose à quelqu'un, détecter la tromperie, invoquer des agents chargés de faire respecter la loi
+- Lumière — illuminer une pièce, créer des illusions lumineuses, faire tomber une lumière brûlante du ciel
+- Artisanat — assembler ou créer des objets, démonter des objets façonnés, savoir qui a créé un objet
+- Nature — faire croître rapidement la végétation, invoquer des animaux pour vous aider, modifier la météo
+- Voyage — trouver ou créer un abri, se frayer un chemin à travers un danger ou un obstacle, se téléporter quelque part
 # Equipement et apparence
 
 - Choisissez une arme (ou créez en une avec le MJ) :
@@ -101,18 +111,23 @@ A partir du niveau 10, vous pouvez également choisir parmi :
 À quoi sert une foi qui ne rend pas le monde entier ?
 ### Le plus grand miracle — Nom (pronom(s)) : _____________
 
-Vous pouvez Lancer un sort +SAG avec un effet relevant du Domaine de la Vie, conféré par une divinité. Pour plus de détails, consultez la capacité de départ du Clerc : Invoquer le divin.
+Vous obtenez la capacité de départ du Clerc « Invoquer le divin » si vous ne la possédez pas déjà, mais le domaine de votre divinité est la Vie. Choisissez les fidèles et les ennemis de votre divinité comme indiqué dans la description de la capacité.
 
-Si vous êtes Clerc, vous pouvez ajouter ☐ Vie (ou un autre Domaine issu d'Invoquer le divin) aux Domaines de votre divinité.
-Chaque fois que vous tentez de Lancer un sort pour restaurer les PV d'une personne, augmentez d'un cran la taille du dé lancé.
+Si vous possédez déjà « Invoquer le divin », ajoutez le domaine de la Vie à ceux de votre divinité. S'agit-il d'un nouvel aspect de votre divinité, du fruit de votre lien unique avec elle, ou de tout autre chose ?
+
+- Médecin de combat — Une fois par séance, lorsque vous vous mettez en danger pour protéger ou soigner quelqu'un, vous gagnez 1 point de Profondeur auprès de votre divinité.
+
+- Soigner les blessures — Chaque fois que vous lancez un sort pour soigner quelqu'un (par exemple, pour restaurer des PV, guérir une maladie, etc.), considérez que le niveau du sort est inférieur de 1 lorsque vous le comparez à votre caractéristique d'incantation.
 ### Éveille-toi ! L'ombre s'est dissipée
 
-Lorsque quelqu'un d'autre affronte la Mort en votre présence, vous pouvez négocier avec elle et offrir au personnage agonisant l'option suivante :
-- Ressuscité — Vous n'êtes plus sans défense et vous récupérez la moitié de vos PV maximum.
-S'il choisit cette option, vous ne pourrez plus utiliser cette capacité tant que vous n'aurez pas honoré votre marché avec la Mort.
-### Transfert émotionnel
+Lorsque quelqu'un d'autre affronte la Mort en votre présence, vous pouvez négocier avec elle et offrir à l'autre personnage-joueur l'option suivante :
+- Réanimé — Vous n'êtes plus sans défense et vous récupérez la moitié de vos PV maximum. Vous conservez toutefois un état après avoir affronté la Mort.
+S'il choisit cette option, vous ne pouvez plus utiliser cette technique tant que vous n'avez pas honoré votre marché avec la Mort.
+### Je le porte pour toi
 
-Lorsque vous touchez une autre personne et vous offrez en sacrifice, effacez 1 point de Profondeur auprès de votre divinité afin qu'elle dissipe des États à hauteur de votre valeur de SAG. Pour chaque État dissipé, vous en cochez un.
+Lorsque vous touchez une autre personne et vous offrez en sacrifice, réduisez de 1 la Profondeur auprès de votre divinité, puis effectuez l'une ou les deux actions suivantes :
+- Choisissez des États dont cette personne souffre ; elle les dissipe et vous les cochez.
+- Choisissez une quantité de PV qui lui manquent ; elle les récupère et vous les perdez.
 ### Visage d'ange
 
 Personne ne vous attaquera directement et sans provocation, à moins de vous avoir vu vous battre ou d'avoir un compte à régler avec vous.
@@ -120,31 +135,33 @@ Lorsque vous « Tirez les ficelles », vous avez accès à l'approche suivante :
 - Si vous les implorez de renoncer à la violence, ils pourraient s'en aller sur-le-champ ou changer d'avis plus tard.
 ### Soins de groupe
 
-Lorsque vous proclamez votre foi, effacez 1 point de Profondeur auprès de votre divinité pour restaurer la moitié des PV perdus de vos alliés proches ainsi que les vôtres (arrondi à l'inférieur).
+Lorsque vous proclamez votre foi, effacez 1 point de Profondeur auprès de votre divinité pour restaurer la totalité des PV perdus de vos alliés proches ainsi que les vôtres (arrondi à l'inférieur).
 ## Oracle
 
 Ce qui fut, ce qui est et ce qui pourrait encore advenir
 ### Visions d’en haut — Nom (pronom(s)) : _____________
 
-Si vous n’êtes pas Clerc, vous pouvez désormais Lancer un sort +SAG avec un effet relevant du Domaine du Savoir, conféré par une divinité. Pour plus de détails, consultez la capacité de départ du Clerc : Invoquer le divin.
+Vous obtenez la capacité de départ du Clerc « Invoquer le divin » si vous ne la possédez pas déjà, mais le domaine de votre divinité est le Savoir. Choisissez les fidèles et les ennemis de votre divinité comme indiqué dans la description de la capacité.
 
-Si vous êtes Clerc, vous pouvez ajouter ☐ Savoir (ou un autre Domaine issu d’Invoquer le divin) aux Domaines de votre divinité.
+Si vous possédez déjà « Invoquer le divin », ajoutez le Savoir aux domaines de votre divinité. S'agit-il d'un nouvel aspect de votre divinité, du fruit de votre lien unique avec elle, ou de tout autre chose ?
 
-Au début de chaque séance, lancez 1d6 pour déterminer votre Dé du destin et conservez le résultat. Après un jet effectué par quelqu’un, vous pouvez échanger l’un des dés avec votre Dé du destin. Le dé ainsi remplacé devient votre nouveau Dé du destin.
+- Guidance — Dès maintenant et au début de chaque session, lancez 1d6 pour déterminer votre Dé du Destin et conservez le résultat obtenu. Une fois par scène, après qu'un personnage a lancé les dés pour une Manoeuvre (hors jets de dégâts ou assimilés), vous pouvez échanger l'un de ces dés avec votre Dé du Destin. Le dé ainsi remplacé devient votre nouveau Dé du Destin.
+### Comme un papillon vers la flamme sacrée
+
+Lorsque vous vous exposez volontairement à une attaque ennemie, lancez +CHA ; si vous êtes vulnérable au moment de le faire, ,lancez les dés avec avantage.
+
+- Sur un 10+, ils se vantent et jacassent ; vous pouvez poser deux questions à leur sujet ou au sujet de leurs supérieurs.
+- Sur un 7-9, vous pouvez poser une question, mais après avoir répondu, ils passeront à l'attaque.
+- Sur un 6-, ils sont bien plus rusés ou puissants qu'ils n'en ont l'air (au choix du MJ) ; cochez 1 PX et le MJ effectue une manœuvre.
 ### Haruspicine
 
 Lorsque vous sacrifiez rituellement un objet ou un être important, posez à votre divinité une question concernant ce sacrifice ou un élément qui y est lié (propriétaires, proches, histoire, etc.) et jetez +SAG.
 - Sur un 10+, votre divinité vous montre une vision saisissante qui répond pleinement à votre question.
 - Sur un 7-9, la vision est énigmatique et devra être déchiffrée
 - Sur un 6-, votre vision contient un présage funeste ; cochez 1 PX et le MJ effectue une manœuvre.
-### Saint vivant
+### Vérité sacrée
 
-Vous entretenez un lien profond avec le divin. Lorsque vous choisissez cette capacité, verrouillez un État pour refléter ce lien et forgez le lien de « Vase mystique » (voir XX) avec votre divinité.
-Si vous veniez à effacer cet État ou à rompre le lien, cette union profonde avec le divin se dissiperait. Le cas échéant, perdez cette capacité et choisissez-en immédiatement une autre pour la remplacer.
-### Ca n'est pas fini
-
-Lorsque vous affrontez la mort, vous avez également accès à l'option suivante :
-- Intervention divine. Votre divinité vous sauve miraculeusement la vie, écarte un danger, un ennemi ou un obstacle, puis restaure tous vos PV. Vous n'êtes plus sans défense.
+Une fois par séance, lorsque vous révélez publiquement la vérité sur un secret ou un mystère, vous gagnez 1 point de Profondeur auprès de votre divinité. Si une personne présente ne souhaite pas que cette vérité soit connue, vous bénéficiez également de l'avantage sur votre prochaine action lancée à son encontre.
 ### Vraies couleurs
 
 Lorsque vous utilisez l'action « Percer à jour », vous pouvez également poser l'une des questions suivantes, même sur un résultat de 6 ou moins :
@@ -156,30 +173,29 @@ Lorsque vous utilisez l'action « Percer à jour », vous pouvez également pose
 Le mal ne doit pas pouvoir subsister.
 ### Châtiment divin — Nom (pronom) : _____________
 
-Vous pouvez Lancer un sort (+SAG) produisant un effet relevant du Domaine de la Guerre, conféré par votre divinité. Pour plus de détails, consultez la capacité de départ du Clerc : Invoquer le divin.
+Vous obtenez la capacité de départ du Clerc « Invoquer le divin » si vous ne la possédez pas déjà, mais le domaine de votre divinité est la Guerre. Choisissez les fidèles et les ennemis de votre divinité comme indiqué dans la description de la capacité.
 
-Si vous êtes Clerc, vous pouvez ajouter ☐ Guerre (ou un autre Domaine issu de la capacité Invoquer le divin) aux Domaines de votre divinité.
+Si vous possédez déjà « Invoquer le divin », ajoutez la Guerre aux domaines de votre divinité. S'agit-il d'un nouvel aspect de votre divinité, du fruit de votre lien unique avec elle, ou de tout autre chose ?
 
-Vous pouvez porter une armure lourde (réduction de dégâts de 3 [réduit les dégâts subis de 3, jusqu'à un minimum de 1] ; nécessite un score de FOR de +2 minimum pour une utilisation optimale) en ignorant la condition de FOR, et manier des armes autres que contondantes. Vous pouvez effacer 1 point de Profondeur de lien avec votre divinité pour obtenir l'avantage sur l'action Échanger des coups pendant une scène. Si vous affrontez des ennemis de votre divinité, vous bénéficiez de l'avantage sur les jets de dégâts.
-### Comme un papillon vers la flamme sacrée
-
-Lorsque vous vous exposez volontairement à une attaque ennemie, lancez +CHA ; si vous êtes vulnérable au moment de le faire, ,lancez les dés avec avantage.
-
-- Sur un 10+, ils se vantent et jacassent ; vous pouvez poser deux questions à leur sujet ou au sujet de leurs supérieurs.
-- Sur un 7-9, vous pouvez poser une question, mais après avoir répondu, ils passeront à l'attaque.
-- Sur un 6-, ils sont bien plus rusés ou puissants qu'ils n'en ont l'air (au choix du MJ) ; cochez 1 PX et le MJ effectue une manœuvre.
-### Cercle de protection
-
-Lorsque vous tracez un cercle sacré sur le sol, effacez 1 point de Profondeur auprès de votre divinité et lancez les dés +SAG.
-- Sur un 10+, il retient les esprits, les fantômes et les créatures d'outre-monde à l'intérieur ou à l'extérieur jusqu'à ce que quelqu'un d'autre le brise.
-- Sur un 7-9, il les retient momentanément, mais pas pour longtemps.
-- Sur un 6-, les ennemis de votre divinité sont plus proches que vous ne le pensez ; cochez 1 PX et le MJ effectue une manœuvre.
+- Bouclier divin — Une fois par scène, lorsque vous subissez des dégâts, vous pouvez effacer 1 point de Profondeur avec votre divinité pour les ignorer, même s'ils sont de type #perforant .
+- Réprimande — Une fois par session, lorsque vous condamnez quelqu'un pour ses agissements maléfiques, vous gagnez 1 point de Profondeur avec votre divinité.
 ### Intuition divine
 
-Lorsque vous rencontrez une créature, une manifestation ou un pouvoir provenant d'un autre plan d'existence, vous pouvez effacer 1 point de Profondeur auprès de votre divinité pour poser au MJ un nombre de questions égal à votre valeur de SAG. Vous bénéficiez de l'avantage sur votre premier jet lié à la ou aux réponses obtenues.
-### Renvoyer les impies
+Lorsque vous rencontrez pour la première fois un ennemi de votre divinité, vous pouvez poser au MJ un nombre de questions à son sujet égal à votre score de Sagesse. Vous bénéficiez de l'avantage sur votre premier jet lié à la ou aux réponses obtenues.
+### Boire à la coupe de la colère
 
-Lorsque vous hurlez le nom de votre divinité comme un cri de guerre, effacez 1 point de Profondeur lié à celle-ci et lancez les dés +CHA. Si vous affrontez des ennemis de votre divinité, vous n’avez pas besoin d’effacer ce point de Profondeur.
-- Sur un 10+, vos adversaires sont étourdis ou prennent la fuite (au choix du MJ).
-- Sur un 7-9, ils cochent une État mais tiennent bon.
-- Sur un 6-, votre cri reste sans effet ; cochez 1 PX et le MJ effectue une manœuvre.
+Lorsque vous condamnez quelqu'un pour ses agissements maléfiques, au lieu de gagner 1 point de Profondeur auprès de votre divinité, vous pouvez faire de la personne condamnée un ennemi de votre divinité (si ce n'est pas déjà le cas).
+
+Lorsque vous implorez votre divinité de nuire à un ennemi collectif ou de le maudire (par exemple une faction, un type de créature, les habitants d'un lieu, etc.), considérez l'action comme « Accomplir un rituel » ; toutefois, une fois que le MJ vous a communiqué les conditions requises, vous pouvez effacer des points de Profondeur auprès de votre divinité (selon un rapport de 1 pour 1) pour les satisfaire miraculeusement.
+### Ce n'est pas la fin
+
+Lorsque vous Affrontez la mort, vous pouvez également choisir l'option suivante :
+- Intervention divine. Votre divinité vous sauve miraculeusement la vie, écarte un danger, un ennemi ou un obstacle, puis restaure tous vos PV. Vous n'êtes plus sans défense. Vous subissez tout de même un État après avoir Affronté la mort.
+### Arme spirituelle
+
+Lorsque vous hurlez le nom de votre divinité comme un cri de guerre, sa puissance
+imprègne l'arme que vous maniez jusqu'à la fin de la scène. Choisissez une
+bénédiction ci-dessous, ou effacez 1 point de Profondeur auprès de votre divinité pour en choisir deux.
+- Ajoutez +1 aux dégâts qu'elle inflige
+- Elle #perforant  l'armure des ennemis de votre divinité
+- Elle peut léviter et combattre seule, tel un prolongement de votre volonté ; considérez-la comme un PNJ loyal. Si elle subit des dégâts, elle perd cet avantage à moins que vous ne l'alimentiez avec votre propre force vitale pour la maintenir active (perdez 1 PV).

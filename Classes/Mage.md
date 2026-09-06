@@ -31,21 +31,21 @@ Autrefois, j'étais ........
 # Manoeuvre de départ
 ## Tisser les arcanes
 
-Éther ☐ ☐ ☐
+Vous commencez avec 3 Écoles de magie préparées ; cochez-les dès maintenant. Lorsque vous terminez l'action « Établir le campement », vous pouvez changer les Écoles que vous avez préparées.
 
-Vous pouvez lancer un sort (Jet d'INT) en combinant un verbe et une substance issus des huit grandes écoles de magie :
-- **Abjuration** (substance : la magie elle-même ; verbes : désactiver temporairement ; protéger contre)
-- **Conjuration** (substance : objets ou entités extérieures ; verbes : créer brièvement ; invoquer momentanément)
-- **Divination** (substance : visions du passé, du présent et de l'avenir ; verbes : transmettre ; discerner)
-- **Enchantement** (substance : êtres doués de raison ; verbes : modifier les émotions ; charmer temporairement)
-- **Évocation** (substance : énergies élémentaires ; verbes : sculpter légèrement ; canaliser brièvement)
-- **Illusion** (substance : vue et/ou sons ; verbes : dissimuler ; déguiser)
-- **Nécromancie** (substance : non-vie ; verbes : conférer brièvement ; irradier)
-- **Transmutation** (substance : matière ; verbes : altérer momentanément ; réparer)
+- [ ] **Abjuration** (substance : la magie elle-même ; verbes : désactiver temporairement ; protéger de)
+- [ ] **Conjuration** (substance : objets ou entités d'autres plans ; verbes : créer brièvement ; invoquer momentanément)
+- [ ] **Divination** (substance : visions du passé, du présent et du futur ; verbes : transmettre ; discerner)
+- [ ] **Enchantement** (substance : êtres doués de raison ; verbes : modifier les émotions ; charmer temporairement)
+- [ ] **Évocation** (substance : énergies élémentaires ; verbes : sculpter (effet mineur) ; canaliser (effet mineur))
+- [ ] **Illusion** (substance : vue et/ou sons ; verbes : dissimuler ; déguiser)
+- [ ] **Nécromancie** (substance : non-vie ; verbes : conférer brièvement ; irradier)
+- [ ] **Transmutation** (substance : matière ; verbes : altérer momentanément ; réparer)
 
-Vous pouvez combiner des verbes et des substances provenant d'écoles différentes. Pour lancer un sort, vous devez disposer de votre focaliseur arcanique, avoir les deux mains libres et être capable de parler à voix haute.
+Vous pouvez « Lancer un sort » (+INT) en combinant un verbe et une substance issus de vos Écoles préparées pour créer un effet, à condition de disposer de votre focaliseur arcanique, d'avoir les deux mains libres et de pouvoir parler à voix haute. Vous pouvez combiner des verbes et des substances provenant d'Écoles préparées différentes.
 
-Au début de chaque scène, vous disposez d'une réserve d'Éther égale à votre valeur d'INT. Lorsque vous lancez un sort, sur un résultat de 7 à 9, vous pouvez dépenser une quantité d'Éther égale à la puissance magique du sort au lieu de choisir les autres options.
+Lorsque vous lancez un sort de cette manière, votre option unique pour un résultat de 7-9 est :
+- oublier une École préparée jusqu'à ce que vous établissiez à nouveau le campement
 # Equipement et apparence
 
 - Choisissez un focalisateur arcanique (ou créez-en un nouveau avec le MJ) :
@@ -100,117 +100,88 @@ A partir du niveau 10, vous pouvez également choisir parmi :
 # Voies
 ## Évocateur
 Il y a une beauté simple dans la destruction totale.
-### Magie d’évocation
+### Magie d'évocation
 
-Éther ☐ ☐ ☐
+Vous gagnez la Manoeuvre de départ du Mage « Tisser les arcanes », mais vous n'avez accès qu'à l'Évocation (substance : énergies élémentaires ; verbes : façonner (moindre), canaliser (mineur)).
 
-Si vous n’êtes pas Magicien, vous pouvez Lancer un sort +INT en combinant un verbe et une substance issus de l’école de magie de l’Évocation (substance : énergies élémentaires ; verbes : sculpter moindre, canaliser mineur). Au début de chaque séance, vous obtenez une quantité d’Éther égale à votre INT. Pour plus de détails, consultez la capacité de départ du Magicien, « Tisser les arcanes ».
+Si vous possédez déjà cette Manoeuvre, ajoutez plutôt les verbes « faire détoner » et « amplifier » au répertoire de l'école d'Évocation ; de plus, lorsque vous campez, vous pouvez toujours cocher Évocation en plus de vos écoles préparées habituelles.
 
-Si vous êtes Magicien, ajoutez les verbes suivants à votre répertoire : faire détoner, amplifier.
-Vous pouvez cocher 1 à 3 États pour récupérer une quantité équivalente d’Éther.
-### Imprévu
+Réserves mentales — Vous pouvez cocher un état pour préparer instantanément une école de magie, dans la limite de votre quota habituel.
+### Contingence
 
-Dépensez 1 à 3 points d'Éther, puis choisissez un sort ou une manœuvre auxquels vous avez accès et que vous pourriez raisonnablement préparer à l'avance. Définissez également une circonstance précise. Lorsque cette circonstance survient, lancez les dés en ajoutant le montant d'Éther dépensé ; utilisez le résultat pour résoudre le sort ou la manœuvre.
-### Cape élémentaire
+Cochez 1 à 3 états, puis choisissez un sort ou une capacité auxquels vous avez accès et que vous pourriez raisonnablement préparer à l'avance. Définissez également une circonstance précise. Lorsque cette circonstance survient, lancez les dés + les états cochés ; utilisez le résultat pour résoudre le sort ou la capacité.
+### Manteau élémentaire
 
-Dépensez 1 à 3 points d'Éther pour invoquer une cape composée de l'un des éléments suivants. Remplacez X par la quantité d'Éther dépensée :
-- flammes jaillissantes — Jusqu'à X adversaires vous infligeant des dégâts subissent Xd6 dégâts
+Cochez 1 à 3 états pour invoquer un manteau composé de l'un des éléments suivants. Remplacez X par le nombre d'états cochés :
+- flammes en cascade — Jusqu'à X adversaires vous infligeant des dégâts subissent Xd6 dégâts
+- vêtements de glace — Jusqu'à X adversaires vous infligeant des dégâts subissent un désavantage sur leurs jets de dégâts
 - protubérances rocheuses — Ajoutez +X à votre armure pour X attaques
-- tentacules d'eau — Jusqu'à X adversaires vous infligeant des dégâts subissent un désavantage sur leurs jets de dégâts
-- rafale sauvage — Vous pouvez vous déplacer sans entrave jusqu'à portée « proche », X fois
+- bourrasque sauvage — Vous pouvez vous déplacer sans entrave jusqu'à une portée « proche », X fois
 ### Boule de feu instantanée !
 
-Dépensez 1 à 3 points d'Éther, puis choisissez une cible à portée #proche ; toutes les personnes à portée #immédiate de celle-ci subissent Xd6 dégâts de type #perforant, où X correspond à la quantité d'Éther dépensée.
-### Arme élémentaire
+Cochez 1 à 3 états, puis choisissez une cible à portée « proche » ; la cible et tous ceux à portée « contact » d'elle subissent Xd6 dégâts de type #perforant , où X est le nombre d'états cochés.
+### Arme de puissance
 
-Lorsque vous façonnez une énergie élémentaire sous la forme d'une arme, dépensez 1 à 3 points d'Éther et lancez les dés + Éther dépensé.
+Lorsque vous façonnez une énergie élémentaire sous la forme d'une arme, cochez 1 à 3 états et lancez les dés + les états cochés.
+
 - Sur un 10+, choisissez deux des étiquettes suivantes.
 - Sur un 7-9, une seule :
+	- #contact,
+	- #perforant .
+- Sur un 6-, l'élément se libère ; cochez 1 PX et le MJ effectue une Manoeuvre.
 
-#contact #perçant
-
-Par défaut, l'arme inflige 1d6 dégâts, possède l'étiquette #main et dispose de ○ ○ ○ utilisations. Lorsque vous Échangez des coups avec cette arme, lancez les dés + INT (au lieu de +FOR ou +DEX) et cochez une utilisation.
-
-- Sur un 6-, l'élément se libère ; cochez 1 PX et le MJ effectue une Manœuvre.
+Par défaut, l'arme inflige 1d6 dégâts, possède l'étiquette #main et dispose de OOO utilisations. Lorsque vous échangez des coups avec cette arme, lancez les dés +Int (au lieu de +For ou +Dex) et cochez une utilisation.
 ## Illusionniste
 Comment définissez-vous le « réel » ?
-### Magie de l’illusion
+### Magie de l'illusion
 
-Éther ☐ ☐ ☐
+Vous gagnez la Manoeuvre de départ du Mage Tisser les arcanes, mais vous n'avez accès qu'à l'Illusion (substance : images et/ou sons ; verbes : dissimuler ; déguiser).
 
-Si vous n’êtes pas Magicien, vous pouvez Lancer un sort +INT en combinant un verbe et une substance issus de l’école de magie de l’Illusion (substance : vue et/ou sons ; verbes : dissimuler, déguiser). Au début de chaque session, vous recevez une quantité d’Éther égale à votre INT. Pour plus de détails, consultez la capacité de départ du Magicien, « Tisser les arcanes ».
-Si vous êtes Magicien, ajoutez les verbes suivants à votre répertoire : rendre permanent, matérialiser.
-Une fois par scène, lorsqu’une personne croit à l’une de vos illusions, effacez un état.
+Si vous possédez déjà cette capacité, ajoutez plutôt les verbes « rendre permanent » et « matérialiser » au répertoire de l'école d'Illusion ; de plus, lorsque vous « Établissez le camp », vous pouvez toujours cocher Illusion en plus de vos écoles préparées habituelles.
+
+Farceur — Une fois par scène, lorsqu'une personne croit à un mensonge dû à l'une de vos illusions, effacez un État.
 ### Altération de la perception
 
-Lorsque vous touchez une personne ou un objet, dépensez 1 Éther pour modifier l'un de ses aspects perceptibles. Par exemple, vous pouvez donner l'impression qu'elle appartient à une autre ascendance, ou faire passer un objet ordinaire pour un objet magique (et inversement). Cet effet perdure jusqu'à ce que vous y mettiez fin ou jusqu'à la fin de la scène.
+Lorsque vous touchez quelqu'un ou quelque chose, vous pouvez modifier l'un de ses aspects perceptibles sans lancer de sort ; cochez un État si la cible s'y oppose. Par exemple, vous pouvez changer l'ascendance, la tenue ou l'accent perçus d'une personne, ou faire paraître un objet magique, flambant neuf ou composé d'une autre matière. Cet effet dure jusqu'à ce que vous y mettiez fin ou jusqu'à la fin de la scène.
 ### Image miroir
 
-Lorsque vous êtes sur le point de subir des dégâts, vous pouvez dépenser 1 Éther pour révéler que vous étiez une illusion et annuler tous les dégâts ; indiquez où vous vous trouvez réellement à proximité.
-### Gerbe de couleurs
+Lorsque vous êtes sur le point de subir des dégâts, vous pouvez cocher un État pour révéler que vous n'étiez qu'une illusion ; annulez tous les dégâts et indiquez où vous vous trouvez réellement à proximité.
+### Le miroir vous fixe en retour
 
-Lorsque vous projetez depuis vos mains une gerbe de lumières colorées et scintillantes, dépensez 1 Éther et lancez les dés +DEX.
-- Sur un 10+, un groupe de PNJ à portée de corps-à-corps est hébété pour un certain temps. Vous et vos alliés bénéficiez de l'avantage sur votre prochain jet contre eux.
-- Sur un 7-9, ils ne sont hébétés que brièvement.
-- Sur un 6-, la magie est contrée ou se retourne contre vous ; cochez 1 PX et le MJ effectue une Manœuvre.
-### Expérience de mort imminente
+La première fois qu'un PNJ se laisse prendre à l'une de vos illusions, vous pouvez lui poser une question comme si vous aviez Percé à jour.
 
-Lorsque vous ou un allié êtes sur le point de tuer un PNJ, dépensez 1 Éther pour faire en sorte que le coup fatal ne soit qu'une illusion. La cible ressent toute la douleur et le traumatisme, mais rien de tout cela n'était réel. Elle survit, profondément ébranlée ; l'auteur du coup manqué obtient l'avantage pour la Manipuler en menaçant sa sécurité ou ses intérêts.
+Lorsque vous lancez un sort pour créer une copie illusoire d'une personne, vous pouvez également cocher un État pour surcharger le sort. Si vous le faites, la copie imite parfaitement l'original, persiste indéfiniment et commence par être loyale, mais gagne peu à peu en autonomie. Vous ne pouvez pas dissiper une copie illusoire surchargée.
+### Trompé une fois...
+
+Lorsque vous dupez quelqu'un grâce à une illusion, la prochaine fois que vous la Manipulez, vous bénéficiez d'un avantage et pouvez lancer les dés avec +Int (au lieu de +Cha), même si elle découvre qu'il s'agissait d'une illusion. Vous pouvez partager ces avantages avec les autres PJ ayant participé à l'illusion.
 ## Nécromancien
 Le plus grand tabou parmi les pratiquants de magie — et ce, pour une bonne raison.
 ### Magie nécromantique
 
-Éther ☐ ☐ ☐
+Vous gagnez la Manoeuvre de départ du Mage Tisser les arcanes, mais vous n'avez accès qu'à la Nécromancie (substance : non-vie ; verbes : conférer brièvement, irradier).
 
-Si vous n’êtes pas Magicien, vous pouvez Lancer un sort +INT en combinant un verbe et une substance issus de l’école de magie de la Nécromancie (substance : non-vie ; verbes : conférer brièvement, irradier). Au début de chaque session, vous obtenez une quantité d’Éther égale à votre INT. Pour plus de détails, consultez la capacité de départ du Magicien, « Tisser les arcanes ».
-Si vous êtes Magicien, ajoutez la substance « vie » ainsi que les verbes « corrompre » et « drainer » à votre répertoire.
-Lorsque vous tuez quelqu’un avec un sort, la victime se relève sous la forme d’un mort-vivant corporel (goule, squelette, zombie) placé sous vos ordres (3 PV, inflige 1 dégât).
+Si vous possédez déjà cette capacité, ajoutez plutôt les verbes « corrompre » et « drainer » au répertoire de l'école de Nécromancie ; de plus, lorsque vous « Établissez le campement », vous pouvez toujours cocher la Nécromancie en plus de vos écoles préparées habituelles.
+
+Se relever et servir — Lorsque vous tuez une créature vivante avec un sort, vous pouvez créer une goule, un squelette ou un zombie à partir de son cadavre (2 PV, inflige 1 dégât). Les morts-vivants que vous créez vous sont loyaux et obéissent à vos ordres, bien que seuls ceux dotés d'une intelligence (ce qui n'est pas le cas de ceux-ci) puissent comprendre des tâches complexes.
 ### Un fantôme au festin
 
-Vous pouvez dépenser 1 Éther pour voir dans la Dimension éthérée, où résident fantômes et esprits.
-Lorsque vous tuez quelqu'un avec un sort, vous pouvez choisir de créer à la place un mort-vivant incorporel, tel qu'un fantôme, une ombre ou un spectre (1 PV, inflige 2 dégâts #perçant | #invisible #immatériel).
-### Consommer la non-vie
+Lorsque vous tuez une créature vivante avec un sort, au lieu de créer quelque chose à partir de son cadavre, vous pouvez créer un fantôme, une ombre ou un spectre à partir de son âme (1 PV, inflige 2 dégâts #perforant  | #invisible #immatériel). Si vous cochez un état, vous pouvez créer deux morts-vivants : l'un à partir du corps et l'autre à partir de l'âme.
+### L'énergie vitale est une ressource
 
-Dépensez 1 Éther pour sacrifier un ou plusieurs morts-vivants sous votre commandement afin de récupérer des PV égaux à leurs PV actuels.
-### Horde de morts-vivants
+Lorsque vous Lancez un sort, sur un résultat de 7-9, vous pouvez choisir ceci à la place :
+- cela draine votre énergie vitale ; subissez 1 dégât #perforant .
 
-- [ ] .
-- [ ] .
-- [ ] .
-- [ ] .
-- [ ] .
-- [ ] .
-- [ ] .
-- [ ] .
-- [ ] .
-- [ ] .
+Lorsque vous vous harmonisez avec les liens éthérés qui soumettent vos morts-vivants à votre volonté, vous pouvez cocher un état, puis redistribuer les PV entre vous et l'un de vos morts-vivants à portée de #main , comme bon vous semble.
+### Sanctuaire de la non-vie
 
-Vous avez levé un groupe de morts-vivants (commence à 5, jusqu'à 10) dotés des tags suivants : #affamé #sans_esprit #lent #mort_vivant. Ils possèdent des PV et infligent des dégâts égaux à leur nombre.
+Lorsque vous entreprenez d'imprégner un lieu d'une puissance impie, considérez l'action comme « Accomplir un rituel », mais vous pouvez sacrifier une personne vivante ou deux de vos propres morts-vivants pour annuler chaque exigence — sauf la dernière.
 
-Choisissez une force :
-- vif (remplacez #lent par #rapide)
-- intelligent (remplacez #sans_esprit par #capable)
-- vicieux (infligent +1 dégât).
+Une fois l'objectif atteint, choisissez un avantage pour chaque exigence initialement fixée par le MJ :
+- Toute créature qui meurt ici se relève automatiquement sous forme de #mort-vivant à votre service
+- Le #pouvoir_sacré est affaibli : il inflige la moitié des dégâts (arrondis à l'inférieur) et ses autres effets sont réduits
+- Le lieu sert de source de puissance pour des rituels encore plus sombres
+- Il attire des fidèles et des adeptes prêts à vous servir
+- La transformation est permanente (à moins d'être activement purifiée en son cœur)
+### Se défaire de son enveloppe mortelle
 
-Choisissez aussi une faiblesse :
-- craintif (la lumière les repousse)
-- bruyant (ajoutez #bruyant)
-- fragile (vous en perdez un à la fin de chaque Scène)
-
-Lorsque vous commandez votre horde de morts-vivants, dépensez 1 Éther et lancez les dés +CHA.
-- Sur un 10+, ils suivent vos ordres au mieux de leurs capacités.
-- Sur un 7-9, ils s'attirent des ennuis ou vous en perdez un (au choix).
-- Sur un 6-, quelqu'un vient vous chercher ; cochez 1 PX et le MJ effectue une Manœuvre.
-### La Créature
-
-Lorsque vous accomplissez un rituel pour assembler une créature à partir de plusieurs cadavres : ELLE EST VIVANTE !
-
-Lancez les dés en fonction des conditions remplies (1 à 4).
-- Sur un 10+, choisissez deux options parmi les suivantes.
-- Sur un 7-9, choisissez-en une seule, et le MJ ajoute un détail :
-	- elle ne vous hait pas
-	- elle est bienveillante
-	- elle est plus qu’un simple automate
-	- elle est robuste (doublez ses PV et bénéficiez de l’avantage aux jets de dégâts).
-La Créature possède 6 PV et inflige 1d8 dégâts.
-- Sur un 6-, elle s’échappe en ne gardant que votre nom et de la rancœur.
+Vous avez percé les secrets de la liche. Vous obtenez un Phylactère (voir la section Artefacts).

@@ -25,7 +25,7 @@ Autrefois, j'étais ........
 - Je ne les trahirais ni ne les abandonnerais jamais... plus jamais
 - Nous avons eu une liaison. C’est compliqué
 - Ils sont fans de mon art — et de moi, bien sûr !
-- Ce sont ma muse
+- Iel est ma muse
 - Ils m’aident dans mes prestations ; avec eux, tout est mieux
 - Ils connaissent un secret lié à mon art ; je dois les convaincre de le partager avec moi
 - Ils pensent que mon art est inutile ; je vais leur prouverle contraire
@@ -36,18 +36,20 @@ Vous vous exprimez et touchez les autres grâce à un talent artistique particul
 
 - Sur un 10+, choisissez trois options parmi celles ci-dessous.
 - Sur un 7-9, choisissez-en deux.
-- Sur un 6-, vous estimez que votre prestation a été désastreuse ; choisissez une option ci-dessous, mais cochez un État. Vous pouvez choisir une même option plusieurs fois.
+- Sur un 6-, vous estimez que votre prestation a été désastreuse ; choisissez une option ci-dessous, mais cochez un État. Vous pouvez choisir une même option plusieurs fois. Une option choisie plus d'une fois doit s'appliquer à un nouveau membre du public.
 
-- Un membre du public décoche un État
-- Un membre du public obtient l'avantage sur son prochain jet
-- Vous récupérez une utilisation de votre Aperçu de votre art
-- Vous bénéficiez de l'avantage la prochaine fois que vous Manipulez un membre du public
+Options :
+
+- Émouvoir — Un membre du public décoche un état marqué.
+- Tisser des liens — Un PJ membre du public marque 1 point de Profondeur avec vous.
+- Créer — Récupérez une utilisation d'Aperçu de votre art.
+- Éblouir — Un PNJ membre du public vous offre un cadeau ou tente de vous rencontrer en privé (au choix du MJ).
 # Equipement et apparence
 
 - Choisissez une arme (ou créez en une avec le MJ) :
-	- arbalète de noble (dégâts 1d10) #munitions #proche #éloigné #précis #perforant  #rechargement #à_deux_mains
-	- canne-épée au tranchant redoutable (dégâts 1d8) #dissimulé  #main #précis #à_deux_mains
-	- épée longue ouvragée (dégâts 1d8) #main + bocle ○ utilisation : cochez pour ignorer la moitié des dégâts (arrondis à l'inférieur) d'une attaque
+	- arbalète de noble (dégâts 1d8) #munitions #proche #éloigné #précis #perforant  #rechargement #à_deux_mains
+	- canne-épée au tranchant redoutable (dégâts 1d6) #dissimulé  #main #précis #à_deux_mains
+	- épée longue ouvragée (dégâts 1d6) #main + bocle ○ utilisation : cochez pour ignorer la moitié des dégâts (arrondis à l'inférieur) d'une attaque
 
 - Choisissez deux objets parmi :
 	- équipement d'aventure ○ ○ ○ utilisations. Cochez pour fouiller et trouver un objet courant utile
@@ -115,33 +117,36 @@ Vous pouvez poser au MJ des questions sur votre sujet actif ; le nombre de quest
 Lorsque vous Établissez le camp, vous pouvez consacrer du temps à étudier ou à raviver vos connaissances pour changer de sujet actif.
 ### Une forme de magie
 
-Éther ☐ ☐ ☐
+Vous pouvez Lancer un sort +INT en combinant un verbe et une substance issus des écoles de Magicien suivantes : 
+☐ Enchantement (substance : êtres doués de raison ; verbes : modifier les émotions, charmer temporairement)
+☐ Illusion (substance : vue et/ou sons ; verbes : dissimuler, déguiser).
 
-Vous pouvez Lancer un sort (+INT) en combinant un verbe et une substance issus des écoles de l'Enchantement du Magicien (substance : êtres doués de raison ; verbes : modifier les émotions, charmer temporairement) ou de l'Illusion (substance : vue
-et/ou sons ; verbes : dissimuler, déguiser).
+Pour lancer un sort de cette manière, vous devez effectuer une prestation, et votre option spécifique pour un résultat de 7 à 9 est la suivante :
+- Votre magie s'épuise ; oubliez l'une des écoles de magie auxquelles vous avez accès jusqu'à ce que vous établissiez votre prochain campement.
 
-Pour lancer un sort, vous devez effectuer une prestation. Au début de chaque séance, vous recevez une quantité d'Éther égale à votre INT.
-
-Lorsque vous lancez un sort :
-- sur un résultat de 7 à 9, vous pouvez dépenser une quantité d'Éther égale à la puissance du sort au lieu de choisir les autres options.
+Si vous aviez déjà accès à ces écoles, collaborez avec le MJ pour créer un nouveau verbe pour chaque école faisant doublon.
 ### Une crapule, un vaurien
 
 Vous accédez aux compétences de Crapule suivantes :
 - escalader des murs
-- déceler des bruits
+- détecter des bruits
 - faire les poches
-- comprendre les langues
-Lorsque vous utilisez l'une de vos compétences de Crapule, Défiez le danger avec INT.
-### Contre-charme
+- comprendre les langues.
 
-Lorsque vous tentez d’entraver un effet influençant l’esprit, lancez +INT.
-- Sur un 10+, l’effet ne vous affecte pas, vous ni vos alliés.
-- Sur un 7-9, vous ou vos alliés n’êtes pas affectés (au choix).
-- Sur un 6-, cela vous dépasse ; cochez 1 PX et le MJ effectue une manœuvre.
+Lorsque vous « Défiez le danger » ou « vous faufilez » en utilisant l'une de ces compétences de Crapule, vous pouvez lancer les dés +INT (au lieu d'une autre caractéristique).
+
+Si vous possédiez déjà l'une de ces compétences, collaborez avec le MJ pour en créer une nouvelle en remplacement de chaque compétence redondante.
+### Artiste en herbe
+
+Vous obtenez la technique de départ « Pratiquer votre art » de la classe du Barde.
+
+Si vous possédez déjà « Pratiquer votre art », vous acquérez une seconde compétence artistique. Lorsque vous pratiquez votre art en combinant vos deux compétences artistiques, vous effectuez un choix supplémentaire (quel que soit le résultat du jet).
 ### Esprit virtuose
 
-Lorsque vous Étalez votre savoir, vous pouvez ignorer les questions et lancer les dés en ajoutant votre INT à la place. Si vous disposez d'une source d'information pertinente, vous bénéficiez de l'avantage sur ce jet.
-- Sur un résultat de 12+, vous pouvez fournir la réponse à la place du MJ.
+Vous pouvez avoir jusqu'à deux sujets de « Savoir bardique » actifs simultanément.
+
+Lorsque vous posez une question au MJ concernant un sujet actif, au lieu qu'il y réponde, vous pouvez choisir d'Étaler votre savoir avec avantage.
+- Sur un résultat de 12+, vous pouvez donner la réponse vous-même (à la place du MJ).
 ## Diplomate
 
 La maîtrise des relations humaines est un art en soi.
@@ -158,28 +163,36 @@ Lorsque vous encaissez votre dette, choisissez l'une des options suivantes :
 - Désignez un objet qu'elle possède ; elle vous le remettra.
 - Dirigez-la vers un ennemi ou un obstacle ; elle agira à son encontre.
 - Dites-lui que vous êtes en difficulté ; elle vous protégera.
+### Cartes sur table
+
+Lorsque vous révélez vos véritables intentions à un adversaire ou à un inconnu, vous pouvez lui poser un nombre de questions tirées de la liste ci-dessous égal à votre valeur de CHA (minimum 1). Il y répondra honnêtement, mais vous posera en retour une question issue de la liste à chaque fois. À la fin de la scène, si vous avez menti dans vos propres réponses, verrouillez un État.
+- Comment pourrais-je vous convaincre de _____ ?
+- Que voulez-vous le plus que je fasse ?
+- De quel levier ou avantage disposez-vous ?
+- Quelle obligation ou vulnérabilité vous limite ?
+- Qui ou quoi servez-vous ?
+### Contre-charme
+
+Lorsque vous tentez d’entraver un effet affectant l’esprit, lancez +CHA.
+- Sur un 10+, l’effet ne vous atteint pas, vous ni vos alliés.
+- Sur un 7-9, vous ou vos alliés êtes épargnés (au choix).
+- Sur un 6-, cela vous dépasse ; cochez 1 PX et le MJ effectue une Manœuvre.
+
+Une fois par scène, lorsqu’un effet extérieur vous amènerait, vous ou un allié, à cocher un État, vous (ou lui) ne le cochez pas.
+
+Une « influence extérieure » peut prendre la forme d'une magie émotionnelle, d'un contrôle mental, d'une aura de terreur paralysante ou de bien d'autres choses encore. En règle générale, cela survient lorsque le MJ vous demande de cocher un État précis en raison de la fiction, plutôt que lorsqu'une Action que vous avez effectuée vous impose d'en cocher un.
 ### Des amis haut placés
 
 Lorsque vous sollicitez l'aide d'un PNJ approprié, lancez +CHA. Si vous lui devez une faveur (à votre discrétion) ou si vous détenez une dette à son encontre, lancez les dés avec avantage.
 - Sur un 10+, il est disponible et en mesure de vous aider
 - Sur un 7-9, il est en difficulté et ne peut vous aider tant que ce problème n'est pas réglé.
 - Sur un 6-, vous ne trouvez que trahison ou tragédie ; cochez 1 PX et le MJ effectue un mouvement.
-### À cœur ouvert
-
-Lorsque vous Percez à jour tout en parlant ouvertement et honnêtement, vous pouvez poser un nombre de questions égal à votre CHA (au lieu de lancer les dés). Si vous effectuez un jet, vous pouvez poser une question supplémentaire, même sur un résultat de 6 ou moins.
-Pour chaque question que vous posez, votre interlocuteur peut vous en poser une en retour. De plus, si vous mentez dans vos réponses, cochez un état pour chaque question que vous avez posée.
 ### Pourparlers !
 
 Lorsque vous demandez une trêve ou un cessez-le-feu, lancez +CHA. Si vous savez ce que toutes les autres parties désirent (ou si vous détenez une Dette à leur encontre), lancez les dés avec avantage.
 - Sur un 10+, les hostilités sont suspendues et vous avez l'occasion de négocier ; vous pouvez également leur poser une question comme si vous aviez Percé à jour.
 - Sur un 7-9, vous avez seulement l'occasion de négocier.
 - Sur un 6-, ils interprètent mal ou exploitent vos intentions ; cochez 1 PX et le MJ effectue un mouvement.
-### La « vérité » est une chose complexe
-
-Lorsque vous proférez un mensonge éhonté, lancez +CHA.
-- Sur un 10+, les PNJ vous croient jusqu’à ce que quelque chose les convainque du contraire.
-- Sur un 7-9, ils sont dupés, mais pas pour longtemps.
-- Sur un 6-, cela se retourne terriblement contre vous ; cochez 1 PX et le MJ effectue une Manœuvre.
 ## Bretteur
 
 Il y a de la beauté en toute chose, même dans le combat !
@@ -191,23 +204,24 @@ Panache
 - [ ] .
 
 Une fois par scène, lorsque vous agissez de manière inutilement théâtrale, cochez un état et réinitialisez votre Panache à une valeur égale à votre CHA.
-Lorsque vous Échangez des coups avec une arme #précis, vous pouvez dépenser 1 point de Panache pour lancer les dés +CHA (au lieu de +DEX).
+
+Tant que vous possédez du Panache, lorsque vous Échangez des coups avec une arme de type #précis, vous pouvez lancer les dés en ajoutant votre CHA (au lieu de la DEX) et dépenser 1 point de Panache pour obtenir l'avantage sur ce jet.
 ### Braver le danger
 
-Lorsque vous bravez le danger en tentant quelque chose que vous n'avez jamais essayé auparavant, vous pouvez dépenser 1 point de Panache pour lancer les dés avec avantage. Sur un résultat de 10+, marquez 1 d'XP.
+Lorsque vous Défiez le danger en tentant quelque chose que vous n'avez jamais essayé auparavant, vous pouvez, après le jet, dépenser 1 point de Panache pour traiter un résultat de 6- comme un 7-9, ou un 7-9 comme un 10+.
 ### Je ne suis pas gaucher !
 
-Lorsque vous échangez des coups, vous pouvez dépenser 1 point de Panache pour effectuer l'une des actions suivantes :
-- **Désarmer** — Sur un résultat de 10+, vous pouvez choisir de faire lâcher à votre adversaire l'objet qu'il tient (au lieu des autres options)
-- **Feinte** — Sur un résultat de 10+, vous pouvez choisir de vous offrir une brève opportunité d'agir sans entrave (au lieu des autres options)
-- **Parade** — Sur un résultat de 6 ou moins, lorsqu'un adversaire vous inflige des dégâts maximaux, vous pouvez bloquer ces dégâts
-- **Riposte** — Lorsqu'un adversaire vous inflige 1 point de dégât (ou moins), vous pouvez lui infliger vos dégâts en retour
+Lorsque vous échangez des coups, après avoir lancé les dés, vous pouvez dépenser 1 point de Panache pour effectuer l'une des actions suivantes :
+
+- Désarmer — Sur un résultat de 10+, vous forcez votre adversaire à lâcher ce qu'il tient en main (au lieu des autres options).
+- Feinter — #percez l'armure de votre adversaire ; ignorez-la pour ce coup.
+- Parer — Réduisez les dégâts subis d'un montant égal à votre CHA (jusqu'à un minimum de 0).
 ### Passé compliqué
 
 Vous pouvez avoir deux Conflits actifs simultanément. Maintenant ou lors de votre prochain campement, supprimez un État verrouillé (si possible) ou passez au niveau supérieur et révélez un Conflit.
 ### Regardez-moi briller
 
-Lorsque vous attirez l’attention en adoptant une attitude inutilement théâtrale, dépensez 1 point de Panache pour lancer les dés +DEX.
+Lorsque vous attirez l’attention en adoptant une attitude inutilement théâtrale, vous pouvez dépenser 1 point de Panache pour lancer les dés +DEX.
 - Sur un 10+, choisissez deux options parmi les suivantes.
 - Sur un 7-9, une seule :
 	- Désamorcer ou envenimer la situation (au choix)
