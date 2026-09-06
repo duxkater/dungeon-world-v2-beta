@@ -118,16 +118,17 @@ Lorsque vous Établissez le camp, vous pouvez consacrer du temps à étudier ou 
 ### Une forme de magie
 
 Vous pouvez Lancer un sort +INT en combinant un verbe et une substance issus des écoles de Magicien suivantes : 
-☐ Enchantement (substance : êtres doués de raison ; verbes : modifier les émotions, charmer temporairement)
-☐ Illusion (substance : vue et/ou sons ; verbes : dissimuler, déguiser).
+- Enchantement (substance : êtres doués de raison ; verbes : modifier les émotions, charmer temporairement)
+- Illusion (substance : vue et/ou sons ; verbes : dissimuler, déguiser).
 
-Pour lancer un sort de cette manière, vous devez effectuer une prestation, et votre option spécifique pour un résultat de 7 à 9 est la suivante :
+Pour lancer un sort de cette manière, vous devez effectuer une prestation, et votre unique option pour un résultat de 7 à 9 est la suivante :
 - Votre magie s'épuise ; oubliez l'une des écoles de magie auxquelles vous avez accès jusqu'à ce que vous établissiez votre prochain campement.
 
 Si vous aviez déjà accès à ces écoles, collaborez avec le MJ pour créer un nouveau verbe pour chaque école faisant doublon.
 ### Une crapule, un vaurien
 
 Vous accédez aux compétences de Crapule suivantes :
+
 - escalader des murs
 - détecter des bruits
 - faire les poches

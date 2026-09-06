@@ -135,7 +135,7 @@ Lorsque vous « Tirez les ficelles », vous avez accès à l'approche suivante :
 - Si vous les implorez de renoncer à la violence, ils pourraient s'en aller sur-le-champ ou changer d'avis plus tard.
 ### Soins de groupe
 
-Lorsque vous proclamez votre foi, effacez 1 point de Profondeur auprès de votre divinité pour restaurer la totalité des PV perdus de vos alliés proches ainsi que les vôtres (arrondi à l'inférieur).
+Lorsque vous proclamez votre foi, effacez 1 point de Profondeur auprès de votre divinité pour restaurer la totalité des PV perdus de vos alliés proches ainsi que les vôtres.
 ## Oracle
 
 Ce qui fut, ce qui est et ce qui pourrait encore advenir
@@ -164,7 +164,7 @@ Lorsque vous sacrifiez rituellement un objet ou un être important, posez à vot
 Une fois par séance, lorsque vous révélez publiquement la vérité sur un secret ou un mystère, vous gagnez 1 point de Profondeur auprès de votre divinité. Si une personne présente ne souhaite pas que cette vérité soit connue, vous bénéficiez également de l'avantage sur votre prochaine action lancée à son encontre.
 ### Vraies couleurs
 
-Lorsque vous utilisez l'action « Percer à jour », vous pouvez également poser l'une des questions suivantes, même sur un résultat de 6 ou moins :
+Lorsque vous Percez à jour, vous pouvez également poser l'une des questions suivantes, même sur un résultat de 6 ou moins :
 - Quels sont tes véritables sentiments à mon égard ?
 - Qu'est-ce que tu ne veux pas admettre (à moi, à quelqu'un d'autre, à toi-même, etc.) ?
 - À qui ou à quoi tiens-tu le plus ?
