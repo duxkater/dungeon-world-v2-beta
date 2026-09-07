@@ -50,7 +50,7 @@ Lorsque vous lancez un sort de cette manière, votre option unique pour un résu
 
 - Choisissez un focalisateur arcanique (ou créez-en un nouveau avec le MJ) :
 	- calotte ornée de joyaux. Ajoutez 1 à votre Armure
-	- grimoire délicat. Une fois par scène, vous pouvez le consulter ou l'étudier pour récupérer 1 Éther
+	- grimoire délicat. Une fois par session, vous pouvez le consulter pour préparer une école de magie instantanément
 	- bâton encombrant (dégâts 1d6) #proche #main #à_deux_mains
 
 - Cochez deux des objets ci-dessous :

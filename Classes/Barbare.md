@@ -30,7 +30,7 @@ Autrefois, j'étais ........
 - Ils m'ont fait découvrir un nouveau confort propre à ces terres ; j'en veux davantage !
 - C'est la seule personne à qui je confierais ma vie
 - Ils ont vu ma terre natale plus récemment que moi
-# Manoeuvre de départ
+# Manœuvre de départ
 ## Rage !
 
 Lorsque vous **entrez en rage**, cochez l'état « En colère ». Lorsque vous vous calmez, vous pouvez cocher un autre état pour effacer « En colère ».
@@ -52,7 +52,7 @@ Tant que vous êtes « En colère », vous bénéficiez des avantages et subisse
 - Choisissez deux des objets ci-dessous :
 	- équipement d'aventure (◯◯◯ utilisations) : cochez pour fouiller et trouver un objet courant utile
 	- festin copieux (◯ utilisation) : cochez pour le partager avec vos alliés ; chacun récupère la moitié de ses PV max (arrondi à l'inférieur)
-	- potion de soin (◯ utilisation) : cochez pour récupérer la moitié de vos PV max ou supprimer un état bloquant
+	- potion de soin (◯ utilisation) : cochez pour récupérer la moitié de vos PV max décocher un État verrouillé
 	- provisions (◯◯◯ utilisations) : cochez une fois en effectuant l'action Réconforter ou Soutenir pour transformer un « Non » en « Oui »
 	- kit de pièges (◯◯ utilisations) : lorsque vous passez du temps à installer un piège, cochez une fois pour créer un danger périlleux et gênant pour quiconque se trouve à sa portée ; il inflige généralement 1d4 dégâts
 
@@ -122,7 +122,7 @@ Lorsque vous libérez la bête qui sommeille en vous alors que vous êtes en col
 - Loup. Augmentez d'un cran la taille de vos dés de dégâts.
 
 Dompter la bête exige un effort considérable ; cochez un état.
-### Quand cela me profite
+### Quand je le dirais
 
 Lorsque vous affrontez la Mort alors que vous êtes en colère, vous pouvez également choisir l'option ci-dessous.
 

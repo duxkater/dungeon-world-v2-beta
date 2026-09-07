@@ -54,7 +54,7 @@ Vous commencez avec les compétences de Crapule suivantes :
 	- bandoulière de fioles alchimiques ○ ○ ○ utilisations. Cochez pour en sortir l'un des types suivants : acide, feu ou fumée
 	- armure de cuir : réduction de dégâts de 1 (réduit tous les dégâts subis de 1, jusqu'à un minimum de 1). Force minimale de +1 requise pour une utilisation optimale
 	- provisions ○ ○ ○ utilisations. Cochez une fois lors d'une action « Réconforter et soutenir » pour transformer un « Non » en « Oui »
-	- outils de voleur ○ ○ ○ utilisations. Cochez cette case au lieu de choisir une option lors d'un résultat de 7 à 9 sur un jet de « Braver le danger » impliquant une compétence de Crapule
+	- outils de voleur ○ ○ ○ utilisations. Cochez une utilisation au lieu de choisir une option lors d'un résultat de 7 à 9 sur un jet de « Défier le danger » impliquant une compétence de Crapule
 
 Pour votre apparence, choisissez un par colonne :
 ☐ cape sombre ☐ costume élégant ☐ visage et tenue banals

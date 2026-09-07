@@ -31,7 +31,7 @@ Autrefois, j'étais ........
 - Ils se sont égarés ; je dois les aider
 - Ils me connaissaient avant que je ne trouve la foi
 # Manoeuvre de départ
-## Invoquer le Divin — Nom (pronom(s)) : _____________
+## Invoquer le Divin — Nom (pronom(s)) : ......................
 
 Vous entretenez un lien étroit avec une divinité qui vous donne le pouvoir de répandre ses idéaux. Donnez-lui un nom et des pronoms, puis choisissez une option par ligne ci-dessous (ou rédigez la vôtre) :
 

@@ -53,7 +53,7 @@ Options :
 
 - Choisissez deux objets parmi :
 	- équipement d'aventure ○ ○ ○ utilisations. Cochez pour fouiller et trouver un objet courant utile
-	- Aperçu de votre art ○ ○ utilisations. Cochez une fois pour les partager avec un PNJ tout en utilisant « Percer à jour » afin de lancer les dés avec avantage
+	- Aperçu de votre art ○ ○ utilisations. Cochez pour Percer à jour un PNJ avec avantage
 	- sac de livres ○ ○ ○ utilisations. Cochez pour trouver une trace d'informations pertinentes
 	- mets délicats ○ utilisation. Cochez pendant l'action « Établir le campement » pour récupérer tous vos PV. Vous pouvez les partager avec n'importe quel nombre de PJ. Tous ceux qui en consomment en bénéficient
 	- provisions ○ ○ ○ utilisations. Cochez une fois pendant l'action « Réconforter et soutenir » pour transformer un « Non » en « Oui »

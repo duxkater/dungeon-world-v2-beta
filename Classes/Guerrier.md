@@ -61,7 +61,7 @@ Enfin, donnez un nom à votre arme. Exemples : Ataraxia, Brise-crypte, Ombre-lun
 - Choisissez deux objets parmi :
 	- équipement d'aventure ○ ○ ○ utilisations. Cochez pour fouiller et trouver un objet courant utile.
 	- cuirasse : réduction de dégâts de 2 (réduit tous les dégâts subis de 2, jusqu'à un minimum de 1). Force min. de +2 pour une utilisation optimale ou ☐ cuir clouté : réduction de dégâts de 1 (réduit tous les dégâts subis de 1, jusqu'à un minimum de 1). Force min. de +1 pour une utilisation optimale
-	- matériel médical ○ ○ utilisations. Soigner une affection ou doubler le prochain soin reçu.
+	- Remède ○ ○ utilisations. Soigner une affection ou doubler le prochain soin reçu.
 	- provisions ○ ○ ○ utilisations. Cochez une fois pendant l'action « Réconforter et soutenir » pour transformer un « Non » en « Oui »
 	- bouclier ○ utilisation. Cochez pour ignorer tous les dégâts d'une attaque
 
