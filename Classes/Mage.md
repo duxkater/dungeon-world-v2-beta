@@ -1,4 +1,6 @@
 *Une vie de sacrifice et de dévouement avec un seul objectif : maîtriser la réalité.*
+
+Au niveau 1, vos PV max sont de 6 et votre Intelligence est de +2. Choisissez d'attribuer +1 à la Dextérité ou au Charisme, puis répartissez +1, 0 et -1 entre les autres caractéristiques.
 # Origines
 ## Ascendance
 
@@ -38,14 +40,14 @@ Vous commencez avec 3 Écoles de magie préparées ; cochez-les dès maintenant.
 - [ ] **Divination** (substance : visions du passé, du présent et du futur ; verbes : transmettre ; discerner)
 - [ ] **Enchantement** (substance : êtres doués de raison ; verbes : modifier les émotions ; charmer temporairement)
 - [ ] **Évocation** (substance : énergies élémentaires ; verbes : sculpter (effet mineur) ; canaliser (effet mineur))
-- [ ] **Illusion** (substance : vue et/ou sons ; verbes : dissimuler ; déguiser)
+- [ ] **Illusion** (substance : images et/ou sons ; verbes : dissimuler ; déguiser)
 - [ ] **Nécromancie** (substance : non-vie ; verbes : conférer brièvement ; irradier)
 - [ ] **Transmutation** (substance : matière ; verbes : altérer momentanément ; réparer)
 
 Vous pouvez « Lancer un sort » (+INT) en combinant un verbe et une substance issus de vos Écoles préparées pour créer un effet, à condition de disposer de votre focaliseur arcanique, d'avoir les deux mains libres et de pouvoir parler à voix haute. Vous pouvez combiner des verbes et des substances provenant d'Écoles préparées différentes.
 
 Lorsque vous lancez un sort de cette manière, votre option unique pour un résultat de 7-9 est :
-- oublier une École préparée jusqu'à ce que vous établissiez à nouveau le campement
+- oubliez une École préparée jusqu'à ce que vous établissiez à nouveau le campement
 # Equipement et apparence
 
 - Choisissez un focalisateur arcanique (ou créez-en un nouveau avec le MJ) :

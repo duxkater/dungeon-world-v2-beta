@@ -26,10 +26,6 @@ Lorsque vous tendez un piège à une créature, décrivez en son fonctionnement,
 Une fois le piège en place, lorsque vous attirez votre cible dedans, lancez +SAG
 - 10+ : La cible est piégée. Choisissez un
 - 7-9 : La cible est piégée. Choisissez deux
-- Options
-- Quelque chose de valeur est détruit
-- La cible n'était pas seule
-- 
 # Equipement et apparence
 
 - Choisissez une arme (ou créez en une avec le MJ) :
