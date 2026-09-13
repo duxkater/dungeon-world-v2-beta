@@ -31,13 +31,30 @@ Autrefois, j'étais ........
 - Ils se sont égarés ; je dois les aider
 - Ils me connaissaient avant que je ne trouve la foi
 # Manoeuvre de départ
-## Invoquer le Divin — Nom (pronom(s)) : ......................
+## Invoquer le Divin
+
+Nom (pronom(s)) : ......................
 
 Vous entretenez un lien étroit avec une divinité qui vous donne le pouvoir de répandre ses idéaux. Donnez-lui un nom et des pronoms, puis choisissez une option par ligne ci-dessous (ou rédigez la vôtre) :
 
-- Domaine : ☐ Artisanat ☐ Lumière ☐ Nature ☐ Loi ☐ Voyage
-- Fidèles : ☐ artistes ☐ explorateurs ☐ agriculteurs ☐ marchands ☐ nobles
-- Ennemis : ☐ bandits ☐ industriels ☐ monstres nocturnes ☐ rebelles ☐ morts-vivants
+- Domaine : 
+	- [ ] Artisanat
+	- [ ] Lumière
+	- [ ] Nature
+	- [ ] Loi
+	- [ ] Voyage
+- Fidèles :
+	- [ ] artistes
+	- [ ] explorateurs
+	- [ ] agriculteurs
+	- [ ] marchands
+	- [ ] nobles
+- Ennemis :
+	- [ ] bandits
+	- [ ] industriels
+	- [ ] monstres nocturnes
+	- [ ] rebelles
+	- [ ] morts-vivants
 
 Vous pouvez Lancer un sort +SAG pour produire tout effet relevant du ou des domaines de votre divinité. Pour lancer un sort, vous devez invoquer le nom de votre divinité à voix haute. Définissez une relation de niveau 2 avec elle.
 
@@ -109,7 +126,9 @@ A partir du niveau 10, vous pouvez également choisir parmi :
 ## Guérisseur
 
 À quoi sert une foi qui ne rend pas le monde entier ?
-### Le plus grand miracle — Nom (pronom(s)) : _____________
+### Le plus grand miracle
+
+Nom (pronom(s)) : ....................
 
 Vous obtenez la capacité de départ du Clerc « Invoquer le divin » si vous ne la possédez pas déjà, mais le domaine de votre divinité est la Vie. Choisissez les fidèles et les ennemis de votre divinité comme indiqué dans la description de la capacité.
 
@@ -139,7 +158,9 @@ Lorsque vous proclamez votre foi, effacez 1 point de Profondeur auprès de votre
 ## Oracle
 
 Ce qui fut, ce qui est et ce qui pourrait encore advenir
-### Visions d’en haut — Nom (pronom(s)) : _____________
+### Visions d’en haut
+
+Nom (pronom(s)) : ...............
 
 Vous obtenez la capacité de départ du Clerc « Invoquer le divin » si vous ne la possédez pas déjà, mais le domaine de votre divinité est le Savoir. Choisissez les fidèles et les ennemis de votre divinité comme indiqué dans la description de la capacité.
 
@@ -171,7 +192,9 @@ Lorsque vous Percez à jour, vous pouvez également poser l'une des questions su
 ## Prêtre de guerre
 
 Le mal ne doit pas pouvoir subsister.
-### Châtiment divin — Nom (pronom) : _____________
+### Châtiment divin
+
+Nom (pronom) : .................
 
 Vous obtenez la capacité de départ du Clerc « Invoquer le divin » si vous ne la possédez pas déjà, mais le domaine de votre divinité est la Guerre. Choisissez les fidèles et les ennemis de votre divinité comme indiqué dans la description de la capacité.
 

@@ -35,14 +35,30 @@ Autrefois, j'étais ........
 
 Vous commencez avec 3 Écoles de magie préparées ; cochez-les dès maintenant. Lorsque vous terminez l'action « Établir le campement », vous pouvez changer les Écoles que vous avez préparées.
 
-- [ ] **Abjuration** (substance : la magie elle-même ; verbes : désactiver temporairement ; protéger de)
-- [ ] **Conjuration** (substance : objets ou entités d'autres plans ; verbes : créer brièvement ; invoquer momentanément)
-- [ ] **Divination** (substance : visions du passé, du présent et du futur ; verbes : transmettre ; discerner)
-- [ ] **Enchantement** (substance : êtres doués de raison ; verbes : modifier les émotions ; charmer temporairement)
-- [ ] **Évocation** (substance : énergies élémentaires ; verbes : sculpter (effet mineur) ; canaliser (effet mineur))
-- [ ] **Illusion** (substance : images et/ou sons ; verbes : dissimuler ; déguiser)
-- [ ] **Nécromancie** (substance : non-vie ; verbes : conférer brièvement ; irradier)
-- [ ] **Transmutation** (substance : matière ; verbes : altérer momentanément ; réparer)
+- [ ] **Abjuration** 
+	- substance : la magie elle-même
+	- verbes : désactiver temporairement ; protéger de
+- [ ] **Conjuration** 
+	- substance : objets ou entités d'autres plans
+	- verbes : créer brièvement ; invoquer momentanément)
+- [ ] **Divination** 
+	- substance : visions du passé, du présent et du futur
+	- verbes : transmettre ; discerner
+- [ ] **Enchantement** 
+	- substance : êtres doués de raison
+	- verbes : modifier les émotions ; charmer temporairement
+- [ ] **Évocation** 
+	- substance : énergies élémentaires
+	- verbes : sculpter (effet mineur) ; canaliser (effet mineur)
+- [ ] **Illusion** 
+	- substance : images et/ou sons
+	- verbes : dissimuler ; déguiser
+- [ ] **Nécromancie** 
+	- substance : non-vie
+	- verbes : conférer brièvement ; irradier
+- [ ] **Transmutation**
+	- substance : matière
+	- verbes : altérer momentanément ; réparer
 
 Vous pouvez « Lancer un sort » (+INT) en combinant un verbe et une substance issus de vos Écoles préparées pour créer un effet, à condition de disposer de votre focaliseur arcanique, d'avoir les deux mains libres et de pouvoir parler à voix haute. Vous pouvez combiner des verbes et des substances provenant d'Écoles préparées différentes.
 

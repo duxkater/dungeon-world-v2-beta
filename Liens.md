@@ -94,7 +94,7 @@ Une fois par séance, lorsque le Mentor donne un conseil ou une orientation au P
 
 - [ ] La forme la plus sincère de flatterie
 Lorsque le Mentor Perçe à jour, il peut toujours poser une question supplémentaire au Protégé, même s'il sonde quelqu'un d'autre.
-Lorsque le Protégé imite un tic ou une capacité du Mentor, il peut cocher un état pour accéder à l'une des techniques (Moves) du Mentor pour le reste de la scène (le choix de la technique lui revient).
+Lorsque le Protégé imite un tic ou une capacité du Mentor, il peut cocher un état pour accéder à l'une des Manoeuvres du Mentor pour le reste de la scène (le choix de la Manoeuvre lui revient).
 
 - [ ] Comme à l'entraînement
 Une fois par séance chacun, le Mentor et le Protégé peuvent Aider l'autre sans coût ni risque.

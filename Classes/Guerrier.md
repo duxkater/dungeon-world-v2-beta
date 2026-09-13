@@ -140,7 +140,7 @@ Lorsqu'une situation de combat commence, choisissez un allié (PJ ou PNJ) #proch
 - Regard vigilant. Vous pouvez toujours apparaître #proche de lui en cas de besoin, peu importe où vous étiez auparavant. Si vous étiez dans une situation délicate, le MJ décrira comment elle a évolué depuis votre départ.
 ### Cri de provocation
 
-Lorsque vous lancez un défi à vos ennemis, désignez-en un en particulier. Pour l'instant, ils ignoreront vos alliés et vous considéreront comme la menace la plus évidente.
+Lorsque vous lancez un défi à vos ennemis, désignez-en un en particulier. Pour l'instant, il ignorera vos alliés et vous considérera comme la menace la plus évidente.
 ## Maître d'armes
 *Un savoir-faire aussi ancien que mortel*
 ### La Lame reforgée
