@@ -75,7 +75,7 @@ Lorsque vous lancez un sort de cette manière, votre option unique pour un résu
 	- équipement d'aventure (○ ○ ​​○ utilisations). Cochez pour fouiller et trouver un objet courant utile
 	- sac de livres (○ ○ ​​○ utilisations). Cochez pour trouver une trace d'information pertinente
 	- dague (dégâts 1d4) #munitions #main #proche #perçant #précis
-	- potion de soin (○ utilisation). Cochez pour récupérer la moitié de vos PV perdus (arrondi à l'inférieur) ou pour effacer un État verrouillé
+	- potion de soin (○ utilisation). Cochez pour récupérer la moitié de vos PV perdus (arrondi à l'inférieur) ou pour décocher un État verrouillé
 	- provisions (○ ○ ​​○ utilisations). Cochez une fois lors d'une action « Réconforter et soutenir » pour transformer un « Non » en « Oui »
 
 - Concernant votre apparence, choisissez-en une (ou une autre) :

@@ -39,9 +39,9 @@ Une fois par séance, après avoir offert réconfort ou soutien à un autre pers
 - L’un de vous a-t-il révélé quelque chose de nouveau concernant son conflit ?
 
 Pour chaque réponse affirmative, la personne réconfortée peut choisir soit
-- d’effacer un état marqué, 
+- de décocher un état marqué, 
 - soit d’augmenter de 1 le niveau de sa relation avec la personne qui a apporté son soutien, 
-- soit de faire effacer un état marqué chez cette dernière. 
+- soit de faire décocher un état marqué chez cette dernière. 
 
 La personne réconfortée peut choisir une même option plusieurs fois.
 
@@ -239,7 +239,7 @@ Lorsque vous cochez votre dernier État, décochez tous vos États cochés, puis
 
 Si votre emportement n'est pas assez extrême, le MJ pourrait vous demander d'aller plus loin. Après cette réaction, verrouillez l'État choisi.
 
->Atteindre vos limites est un excellent moyen d'effacer vos États, à condition d'accepter les conséquences de votre réaction impulsive (ainsi que le fait de vous retrouver avec un État verrouillé par la suite).
+>Atteindre vos limites est un excellent moyen de décocher vos États, à condition d'accepter les conséquences de votre réaction impulsive (ainsi que le fait de vous retrouver avec un État verrouillé par la suite).
 
 >Si votre réaction n'est pas assez extrême (par exemple, si une porte ordinaire n'est pas jugée assez « importante » pour être brisée sous le coup de la colère), le MJ pourrait vous demander d'aller plus loin.
 ## Entreprendre un voyage périlleux

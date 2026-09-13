@@ -26,7 +26,7 @@ Le MJ doit refléter le Conflit d'un PJ dans l'univers en :
 - Mettant en scène ses avantages et inconvénients sans retenue
 - Présentant des opportunités de le résoudre au moment opportun
 
-Une fois votre Conflit résolu, passez au niveau supérieur (sans effacer vos PX), effacez le Conflit et perdez ses avantages (+) et inconvénients (-). Effacez la case d'Avancement « Révéler un Conflit » si elle était cochée ; vous pourrez choisir un nouveau Conflit ultérieurement.
+Une fois votre Conflit résolu, passez au niveau supérieur (sans décocher vos XP), effacez le Conflit et perdez ses avantages (+) et inconvénients (-). Effacez la case d'Avancement « Révéler un Conflit » si elle était cochée ; vous pourrez choisir un nouveau Conflit ultérieurement.
 
 Découvrez les défis liés aux Manœuvres de campagne dans la bêta de DW2 Démarrage rapide.
 # Amnésique
@@ -96,7 +96,7 @@ Une terrible affliction vous coûtera la vie (ou pire), à ​​moins que vous 
 Vous avez autrefois sauvé une humble communauté par vos propres moyens, et certains voient désormais en vous un symbole d'espoir.
 
 - **Questions :** Quel acte héroïque avez-vous accompli au sein de votre communauté ? Qu'avez-vous perdu ? Quelle prophétie concernant votre avenir héroïque avez-vous entendue ?
-- **Présence inspirante (+)** Quiconque n'est ni noble ni détenteur du pouvoir vous traitera comme un membre de sa famille, vous offrant le gîte et toutes les ressources dont il dispose. Lorsque vous échangez des coups pour défendre le commun des mortels, ✴Sur un 10+, vous pouvez permettre à un autre PJ d'effacer un État (au lieu de choisir les autres options).
+- **Présence inspirante (+)** Quiconque n'est ni noble ni détenteur du pouvoir vous traitera comme un membre de sa famille, vous offrant le gîte et toutes les ressources dont il dispose. Lorsque vous échangez des coups pour défendre le commun des mortels, ✴Sur un 10+, vous pouvez permettre à un autre PJ de décocher un État (au lieu de choisir les autres options).
 - **Fardeau (-)** Lorsque vous refusez une occasion de venir en aide au peuple, cochez un État.
 # Romance interdite
 
@@ -112,7 +112,7 @@ Pression O O O
 Une personne ou une organisation puissante vous traque activement.
 
 - **Questions :** Qui mène la traque contre vous ? Comment ont-ils failli vous capturer par le passé ? Qu'avez-vous sacrifié pour leur échapper ?
-- **Attrapez-moi si vous pouvez (+)** Lorsque vous devriez cocher un état, vous pouvez cocher « Pression » à la place. Comment laissez-vous des traces de votre passage ? Lorsque vous profitez d'un temps de repos, vous pouvez dépenser 1 Trésor pour effacer votre Pression.
+- **Attrapez-moi si vous pouvez (+)** Lorsque vous devriez cocher un état, vous pouvez cocher « Pression » à la place. Comment laissez-vous des traces de votre passage ? Lorsque vous profitez d'un temps de repos, vous pouvez dépenser 1 Trésor pour décocher votre Pression.
 - **Règlement de comptes (-)** Lorsque vous atteignez 3 points de Pression, ou que vous établissez un campement avec au moins 1 point de Pression, lancez les dés + Pression puis effacez votre Pression.
 	- Sur un 10+, les chasseurs arrivent en force, ici et maintenant.
 	- Sur un 7-9, les chasseurs arrivent, mais vous avez une chance d'agir avant qu'ils ne vous repèrent.

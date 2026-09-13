@@ -52,7 +52,7 @@ Chaque état est représenté par un cercle sur la fiche de personnage du PJ ; c
 
 - Effacé — Le cercle représentant l'état est vide. L'état est inactif et n'affecte pas votre personnage.
 - Marqué — Le cercle est barré d'un ou deux traits, indiquant que l'état est actif et affecte actuellement votre personnage.
-- Verrouillé — Le cercle est entièrement rempli. Non seulement l'état est actif et affecte votre personnage, mais il ne peut pas être effacé dans des circonstances normales. Seuls certains effets spécifiques permettent d'effacer des états verrouillés, comme « Profiter d'un temps mort » ou « Révéler un conflit ».
+- Verrouillé — Le cercle est entièrement rempli. Non seulement l'état est actif et affecte votre personnage, mais il ne peut pas être effacé dans des circonstances normales. Seuls certains effets spécifiques permettent de décocher des états verrouillés, comme « Profiter d'un temps mort » ou « Révéler un conflit ».
 
 Lorsqu'un PJ doit marquer ou verrouiller un état, son joueur en choisit un et décrit la manière dont son personnage le subit dans la fiction. Tant qu'il subit un état marqué ou verrouillé, le PJ peut s'appuyer sur les questions associées pour orienter son interprétation.
 
@@ -135,7 +135,7 @@ L'armure entrave également son porteur si celui-ci n'est pas assez fort pour en
 - **Armure lourde** (ex. : véritable haubert de mailles, armure de plaques complète) : réduction de dégâts de 2 (réduit tous les dégâts subis de 2, jusqu'à un minimum de 1) ; nécessite une FOR minimale de 2 pour être utilisée correctement.
 ### Boucliers
 
-Les boucliers fonctionnent différemment des armures. Au lieu de réduire légèrement les dégâts à chaque fois que vous en subissez, vous pouvez utiliser votre bouclier une fois pour ignorer tous les dégâts d'une seule attaque. Contrairement aux armures, les boucliers peuvent réduire les dégâts subis à zéro. Vous pouvez utiliser un bouclier de cette façon une fois les dégâts déterminés ; vous savez donc à l'avance s'il sera utile. Lorsque vous utilisez votre bouclier, cochez le cercle adjacent pour indiquer qu'il a été utilisé. Une fois que vous avez terminé l'action « Établir le camp » (p. XX), vous pouvez effacer la marque et récupérer l'usage de votre bouclier.
+Les boucliers fonctionnent différemment des armures. Au lieu de réduire légèrement les dégâts à chaque fois que vous en subissez, vous pouvez utiliser votre bouclier une fois pour ignorer tous les dégâts d'une seule attaque. Contrairement aux armures, les boucliers peuvent réduire les dégâts subis à zéro. Vous pouvez utiliser un bouclier de cette façon une fois les dégâts déterminés ; vous savez donc à l'avance s'il sera utile. Lorsque vous utilisez votre bouclier, cochez le cercle adjacent pour indiquer qu'il a été utilisé. Une fois que vous avez terminé l'action « Établir le camp » (p. XX), vous pouvez décocher la marque et récupérer l'usage de votre bouclier.
 
 Certains petits boucliers, comme les bocles, vous permettent d'ignorer la moitié des dégâts (arrondie à l'inférieur) plutôt que la totalité.
 # XP, Niveau et Avancements

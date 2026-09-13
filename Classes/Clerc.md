@@ -200,7 +200,7 @@ Vous obtenez la capacité de départ du Clerc « Invoquer le divin » si vous ne
 
 Si vous possédez déjà « Invoquer le divin », ajoutez la Guerre aux domaines de votre divinité. S'agit-il d'un nouvel aspect de votre divinité, du fruit de votre lien unique avec elle, ou de tout autre chose ?
 
-- Bouclier divin — Une fois par scène, lorsque vous subissez des dégâts, vous pouvez effacer 1 point de Profondeur avec votre divinité pour les ignorer, même s'ils sont de type #perforant .
+- Bouclier divin — Une fois par scène, lorsque vous subissez des dégâts, vous pouvez décocher 1 point de Profondeur avec votre divinité pour les ignorer, même s'ils sont de type #perforant .
 - Réprimande — Une fois par session, lorsque vous condamnez quelqu'un pour ses agissements maléfiques, vous gagnez 1 point de Profondeur avec votre divinité.
 ### Intuition divine
 
@@ -209,7 +209,7 @@ Lorsque vous rencontrez pour la première fois un ennemi de votre divinité, vou
 
 Lorsque vous condamnez quelqu'un pour ses agissements maléfiques, au lieu de gagner 1 point de Profondeur auprès de votre divinité, vous pouvez faire de la personne condamnée un ennemi de votre divinité (si ce n'est pas déjà le cas).
 
-Lorsque vous implorez votre divinité de nuire à un ennemi collectif ou de le maudire (par exemple une faction, un type de créature, les habitants d'un lieu, etc.), considérez l'action comme « Accomplir un rituel » ; toutefois, une fois que le MJ vous a communiqué les conditions requises, vous pouvez effacer des points de Profondeur auprès de votre divinité (selon un rapport de 1 pour 1) pour les satisfaire miraculeusement.
+Lorsque vous implorez votre divinité de nuire à un ennemi collectif ou de le maudire (par exemple une faction, un type de créature, les habitants d'un lieu, etc.), considérez l'action comme « Accomplir un rituel » ; toutefois, une fois que le MJ vous a communiqué les conditions requises, vous pouvez décocher des points de Profondeur auprès de votre divinité (selon un rapport de 1 pour 1) pour les satisfaire miraculeusement.
 ### Ce n'est pas la fin
 
 Lorsque vous Affrontez la mort, vous pouvez également choisir l'option suivante :

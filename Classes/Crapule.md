@@ -173,9 +173,8 @@ Lorsque vous Défiez le danger ou Échangez des coups,
 Lorsque vous Profitez d'un temps mort , vous pouvez dépenser 1 Trésor pour aider un PNJ et regagner ainsi de la Chance à hauteur de votre Sag (min. 1).
 ### Effraction
 
-Lorsque vous décidez de voler quelque chose, nommez l'objet et posez au MJ un nombre
-de questions égal à votre Sag (min. 1) ; il y répondra honnêtement.
-Une fois l'objet acquis, vous et tous ceux qui vous ont aidé pouvez chacun effacer un État.
+Lorsque vous décidez de voler quelque chose, nommez l'objet et posez au MJ un nombre de questions égal à votre SAG (min. 1) ; il y répondra honnêtement.
+Une fois l'objet acquis, vous et tous ceux qui vous ont aidé pouvez chacun décocher un État.
 
 - Quelle est sa défense la plus puissante ?
 - Quel est le meilleur moyen d'y entrer ou d'en sortir ?

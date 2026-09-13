@@ -113,7 +113,7 @@ Lorsque vous réussissez un exploit impressionnant ou une Manœuvre périlleuse,
 S'il ne l'est pas, soit vous gagnez un avantage sur votre prochain jet, soit vous effacez 1 point de Profondeur avec lui pour prendre l'avantage malgré tout (à vous de choisir).
 
 - [ ] Essayer de suivre le rythme
-Lorsque vous prenez l'avantage, vous pouvez provoquer votre rival pour effacer un État. Si vous le faites, il gagne un avantage sur son prochain jet.
+Lorsque vous prenez l'avantage, vous pouvez provoquer votre rival pour décocher un État. Si vous le faites, il gagne un avantage sur son prochain jet.
 
 - [ ] Ça ne compte quand même que pour un
 Une fois par session, lorsque vous reconnaissez que votre rival s'est surpassé ou a accompli l'impossible, il peut faire un choix parmi les options de Réconfort et Soutien.
@@ -135,7 +135,7 @@ Lorsque vous Réconfortez ou Soutenez votre frère ou sœur, vous pouvez aussi d
 Lorsque votre frère ou sœur meurt, il choisit l'une de ses Capacités avancées ; vous pouvez désormais l'utiliser, même après avoir effacé ce Lien.
 
 - [ ] Appuyer là où ça fait mal
-Lorsque vous tentez de convaincre votre frère ou sœur de faire quelque chose qu'il ne veut pas faire, il peut effacer un État s'il finit par céder à contrecœur, ou cocher un État s'il refuse.
+Lorsque vous tentez de convaincre votre frère ou sœur de faire quelque chose qu'il ne veut pas faire, il peut décocher un État s'il finit par céder à contrecœur, ou cocher un État s'il refuse.
 # Hôte mystique
 
 *Spécial : Ce Lien ne peut être obtenu que via la capacité « Saint vivant » de la Voie de l’Oracle du Clerc. Alors que les autres Liens unissent deux PJ, celui-ci unit un PJ à sa divinité (contrôlée par le MJ).*

@@ -33,7 +33,7 @@ Autrefois, j'étais ........
 # Manœuvre de départ
 ## Rage !
 
-Lorsque vous **entrez en rage**, cochez l'état « En colère ». Lorsque vous vous calmez, vous pouvez cocher un autre état pour effacer « En colère ».
+Lorsque vous **entrez en rage**, cochez l'état « En colère ». Lorsque vous vous calmez, vous pouvez cocher un autre état pour décocher « En colère ».
 
 Tant que vous êtes « En colère », vous bénéficiez des avantages et subissez les pénalités suivants :
 
@@ -186,7 +186,7 @@ Vous souffrez de l'état supplémentaire « Insatisfait ». Cet état peut être
 
 Tant que l'état « Insatisfait » est marqué, vous subissez un désavantage à toutes les Manoeuvre qui ne visent pas à satisfaire votre appétit.
 
-Lorsque vous cherchez à satisfaire votre appétit, demandez au MJ comment y parvenir ici et maintenant ; il vous l'indiquera, généralement en y associant un risque ou un coût. Une fois l'appétit assouvi, effacez l'état « Insatisfait ». S'il est verrouillé, vous ne pouvez l'effacer qu'en cédant à un excès gratuit, impliquant généralement un coût et/ou un risque extrêmes.
+Lorsque vous cherchez à satisfaire votre appétit, demandez au MJ comment y parvenir ici et maintenant ; il vous l'indiquera, généralement en y associant un risque ou un coût. Une fois l'appétit assouvi, effacez l'état « Insatisfait ». S'il est verrouillé, vous ne pouvez le décocher qu'en cédant à un excès gratuit, impliquant généralement un coût et/ou un risque extrêmes.
 ### Savourer la victoire
 
 Lorsque vous assouvissez un appétit à l'extrême (détruire quelque chose de précieux, acquérir une immense renommée, amasser des richesses colossales, etc.), en plus de supprimer l'état « Insatisfait », choisissez deux options :
