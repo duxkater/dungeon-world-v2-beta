@@ -36,7 +36,7 @@ Souvenirs : O O O O O
 Vous n'avez aucun souvenir de votre passé. Vous savez toutefois une chose : peut-être ne voulez-vous pas vous en souvenir.
 
 - **Questions** : Où vous êtes-vous réveillé sans souvenirs ? Quels lieux, comportements ou personnes vous semblent familiers ? Quelle nouvelle identité vous forgez-vous ?
-- **Fragments (+)(-)** Une fois par séance, alors que vous devriez cocher votre dernière condition (atteignant ainsi votre limite), vous pouvez à la place cocher « Souvenirs » et vivre un flash-back. Ce faisant, vous découvrez un aspect important de votre passé ; cochez 1 PX et le MJ fait progresser une Menace.
+- **Fragments (+)(-)** Une fois par séance, alors que vous devriez cocher votre dernier état (atteignant ainsi votre limite), vous pouvez à la place cocher « Souvenirs » et vivre un flash-back. Ce faisant, vous découvrez un aspect important de votre passé ; cochez 1 PX et le MJ fait progresser une Menace.
 
 Lorsque vous avez coché 5 cases « Souvenirs », l'image de votre passé est complète ; ce Conflit est résolu (voir « Révéler un Conflit » pour les détails).
 # Trahi
@@ -135,7 +135,7 @@ Vous découvrez cette vie ; vous apprenez encore à vous connaître et à compre
 
 - **Questions :** Quel autre PJ vous a accueilli en premier ? Qu’acceptez-vous sans discuter ? Qu’est-ce que vous remettez sans cesse en question ?
 - **Regard émerveillé (+)** Une fois par séance, lorsqu’un autre PJ reçoit du Réconfort ou du Soutien à vos côtés, vous pouvez également bénéficier du même nombre d’avantages (tout en effectuant des choix différents).
-- **Impressionnable (-)** Une fois par scène, lorsque vous rejetez les paroles d’un PJ ou d’un PNJ, cochez une condition.
+- **Impressionnable (-)** Une fois par scène, lorsque vous rejetez les paroles d’un PJ ou d’un PNJ, cochez un état.
 # Solitaire
 
 Tu es un marginal incompris qui n’a besoin d’aucun ami... n’est-ce pas ?
@@ -181,7 +181,7 @@ Vous avez commis des actes terribles par le passé et cherchez aujourd'hui à vo
 Les récits de vos exploits se sont répandus au loin. Certains sont vrais, d'autres sont effrontément faux.
 
 - **Questions** : Comment ces histoires vous dépeignent-elles ? Quel aspect est le plus difficile à incarner ? Quel autre personnage-joueur (PJ) apparaît souvent à vos côtés ?
-- **Rumeurs et légendes** (+)(-) Votre Renommée commence à 1. Au début de chaque séance, racontez au groupe une histoire que quelqu'un a entendue à votre sujet. Si votre Renommée est de 2 ou plus, le MJ peut alors ajouter un rebondissement ou une complication dont quelqu'un d'autre a entendu parler. À la fin de la séance, si vous avez fait honneur à l'histoire (décision finale du MJ), gagnez 1 point de Renommée (max. 3). Sinon, perdez 1 point de Renommée (min. -1) et cochez une condition.
+- **Rumeurs et légendes** (+)(-) Votre Renommée commence à 1. Au début de chaque séance, racontez au groupe une histoire que quelqu'un a entendue à votre sujet. Si votre Renommée est de 2 ou plus, le MJ peut alors ajouter un rebondissement ou une complication dont quelqu'un d'autre a entendu parler. À la fin de la séance, si vous avez fait honneur à l'histoire (décision finale du MJ), gagnez 1 point de Renommée (max. 3). Sinon, perdez 1 point de Renommée (min. -1) et cochez un état.
 - **Plus grand que nature** (-) Lorsque vous interagissez avec le public ou tentez de faire honneur à l'histoire de la séance, vous pouvez lancer les dés en ajoutant votre Renommée au lieu d'une autre caractéristique. Si vous le faites, ✴sur un résultat de 9 ou moins, vous réduisez également votre Renommée de 1.
 # Identité secrète
 

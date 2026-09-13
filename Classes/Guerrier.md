@@ -156,7 +156,7 @@ Choisissez-en un parmi les suivants :
 
 - [ ] Puissance martiale. Vous pouvez manier aisément des armes de mêlée à #deux-mains d'une seule main, voire en utiliser une dans chaque main.
 - [ ] À bout portant. Toutes les armes à distance que vous maniez gagnent les mots-clés #main et #proche. Lorsque vous les utilisez à portée #proche ou inférieure, vous infligez +1 dégât.
-- [ ] Brise-sort. Lorsqu'un PNJ à portée #proche tente de créer un effet magique, vous pouvez l'interrompre et l'annuler ; cochez une Condition pour subir le contrecoup.
+- [ ] Brise-sort. Lorsqu'un PNJ à portée #proche tente de créer un effet magique, vous pouvez l'interrompre et l'annuler ; cochez un état pour subir le contrecoup.
 ### Couteau de botte
 
 Toute arme qui n'est pas à #deux-mains peut être facilement #dissimulée par vos soins. Obtenez un équipement d'aventurier (même si vous en possédez déjà un).
@@ -164,10 +164,10 @@ Vous pouvez cocher une utilisation de votre équipement d'aventurier pour en tir
 ### Arme secrète
 
 *La Main qui manie* — Lorsque vous Échangez des coups avec une arme ordinaire ou à mains nues,
-- sur un 10+, vous pouvez choisir d'effacer une Condition
+- sur un 10+, vous pouvez choisir d'effacer un état
 - sur un 6-, de cocher 2 PX au lieu d'1.
 
-Lorsque vous dégainez enfin votre Arme emblématique après avoir tenté de vaincre un adversaire sans elle, et jusqu'à la fin du combat, vous pouvez cocher une Condition après avoir jeté les dés pour Échanger des coups afin d'augmenter le résultat d'un palier (6- → 7-9 → 10+).
+Lorsque vous dégainez enfin votre Arme emblématique après avoir tenté de vaincre un adversaire sans elle, et jusqu'à la fin du combat, vous pouvez cocher un état après avoir jeté les dés pour Échanger des coups afin d'augmenter le résultat d'un palier (6- → 7-9 → 10+).
 ### Briser la lame
 
 Lorsque vous infligez des dégâts avec une arme, après le jet de dégâts, vous pouvez briser temporairement l'arme (si elle n'est pas indestructible) pour infliger à la place les dégâts maximums. L'arme devient pratiquement inutilisable jusqu'à ce qu'elle soit réparée.

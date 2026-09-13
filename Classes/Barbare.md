@@ -103,7 +103,7 @@ Obtenez Rage ! (Manoeuvre de départ du Barbare).
 
 Si vous possédez déjà Rage !, vous bénéficiez des avantages et subissez les inconvénients supplémentaires suivants :
 - Ajoutez votre FOR à votre armure.
-- Lorsque vous vous calmez, cochez une condition supplémentaire.
+- Lorsque vous vous calmez, cochez un état supplémentaire.
 - Lorsque vous Échangez des coups, vous et votre adversaire bénéficiez de l'avantage sur vos jets de dégâts.
 ### Ongles rouges
 

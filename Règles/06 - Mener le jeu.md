@@ -393,9 +393,9 @@ En outre, un PNJ peut posséder tout ou partie des caractéristiques suivantes :
 
 Lorsqu'un PNJ inflige des dégâts (généralement à un PJ) au cours d'un échange de coups, le MJ détermine les dégâts en lançant les dés à la vue de tous. Lorsqu'un PNJ subit des dégâts, réduisez ses PV d'autant (tout comme pour les PJ).
 
-Un PNJ est vaincu lorsqu'il tombe à 0 PV ou qu'il a coché toutes ses conditions (après ou durant sa dernière Escalade). Les PNJ qui ne sont pas résistants au combat n'ont généralement ni PV ni valeur de dégâts ; ils sont donc vaincus après avoir encaissé un seul coup, voire sans même nécessiter de jet de dés.
+Un PNJ est vaincu lorsqu'il tombe à 0 PV ou qu'il a coché tous ses états (après ou durant sa dernière Escalade). Les PNJ qui ne sont pas résistants au combat n'ont généralement ni PV ni valeur de dégâts ; ils sont donc vaincus après avoir encaissé un seul coup, voire sans même nécessiter de jet de dés.
 
-Lorsque du temps s'écoule — par exemple, lorsque les PJ installent leur campement —, les PNJ peuvent récupérer tout ou partie de leurs PV perdus et effacer leurs conditions. Vous pouvez également restaurer des PV ou supprimer des conditions sur le vif si la fiction le justifie (par exemple, grâce à d'incroyables capacités de régénération), mais cela doit rester rare et exceptionnel.
+Lorsque du temps s'écoule — par exemple, lorsque les PJ installent leur campement —, les PNJ peuvent récupérer tout ou partie de leurs PV perdus et effacer leurs états. Vous pouvez également restaurer des PV ou supprimer des états sur le vif si la fiction le justifie (par exemple, grâce à d'incroyables capacités de régénération), mais cela doit rester rare et exceptionnel.
 
 \[Du texte sera ajouté ultérieurement pour aborder les alliés, les mercenaires et la gestion de plusieurs PNJ différents lors d'un combat]
 ## Créer une fiche récapitulative pour un PNJ
