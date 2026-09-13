@@ -73,7 +73,7 @@ Une voix vous révèle des vérités que vous ne pourriez connaître et des mens
 - **Marionnette d’ombre (-)** Lorsque vous tentez de rejeter les paroles de votre Murmureur, lancez les dés + Murmures, puis effacez vos cases « Murmure ».
 	- Sur un résultat de 6 ou moins, vous le faites taire ; cochez 1 case d’XP.
 	- Sur un 7-9, ses paroles résonnent dans votre esprit ; cochez deux états.
-	- Sur un 10+, vous lui obéissez, peut-être sans même vous en rendre compte. Cochez 1 XP et le MJ effectue une manœuvre.
+	- Sur un 10+, vous lui obéissez, peut-être sans même vous en rendre compte. Cochez 1 XP et le MJ effectue une Manœuvre.
 # Désabusé
 
 Vous étiez autrefois un fervent croyant, un champion, un modèle de vertu. Ce n'est plus le cas.
@@ -113,7 +113,7 @@ Une personne ou une organisation puissante vous traque activement.
 
 - **Questions :** Qui mène la traque contre vous ? Comment ont-ils failli vous capturer par le passé ? Qu'avez-vous sacrifié pour leur échapper ?
 - **Attrapez-moi si vous pouvez (+)** Lorsque vous devriez cocher un état, vous pouvez cocher « Pression » à la place. Comment laissez-vous des traces de votre passage ? Lorsque vous profitez d'un temps de repos, vous pouvez dépenser 1 Trésor pour effacer votre Pression.
-- **Règlement de comptes (-)** Lorsque vous atteignez 3 points de Pression, ou que vous établissez un campement avec au moins 1 point de Pression, jetez les dés + Pression puis effacez votre Pression.
+- **Règlement de comptes (-)** Lorsque vous atteignez 3 points de Pression, ou que vous établissez un campement avec au moins 1 point de Pression, lancez les dés + Pression puis effacez votre Pression.
 	- Sur un 10+, les chasseurs arrivent en force, ici et maintenant.
 	- Sur un 7-9, les chasseurs arrivent, mais vous avez une chance d'agir avant qu'ils ne vous repèrent.
 	- Sur un 6-, les chasseurs passent dangereusement près de vous trouver, mais vous vous éclipsez ; cochez 1 PX.

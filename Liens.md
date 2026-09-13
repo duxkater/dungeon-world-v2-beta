@@ -109,7 +109,7 @@ Vous refusez chacun de vous laisser surpasser par l'autre.
 - [ ] Toujours en compétition
 Au début de chaque session, aucun de vous n'a l'avantage.
 À la fin de la session, celui qui détient l'avantage gagne 1 PX. Un seul d'entre vous peut détenir l'avantage à la fois.
-Lorsque vous réussissez un exploit impressionnant ou une manœuvre périlleuse, demandez à votre rival s'il est d'accord. S'il l'est, prenez l'avantage.
+Lorsque vous réussissez un exploit impressionnant ou une Manœuvre périlleuse, demandez à votre rival s'il est d'accord. S'il l'est, prenez l'avantage.
 S'il ne l'est pas, soit vous gagnez un avantage sur votre prochain jet, soit vous effacez 1 point de Profondeur avec lui pour prendre l'avantage malgré tout (à vous de choisir).
 
 - [ ] Essayer de suivre le rythme

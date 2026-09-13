@@ -80,7 +80,7 @@ Les dégâts (dgt) d'une arme ou d'une attaque sont indiqués ainsi : 1d8. Lorsq
 
 Tout comme pour les Manœuvres, les dégâts peuvent bénéficier d'un avantage ou subir un désavantage. Cela signifie que vous lancez un dé supplémentaire ayant le même nombre de faces et que vous retenez le résultat le plus élevé (avantage) ou le plus bas (désavantage). Par exemple, si votre arme inflige 1d8 dégâts et que vous attaquez avec un avantage, vous lancez deux dés à huit faces et conservez le résultat le plus élevé.
 
-Certains effets, notamment « Échanger des coups », stipulent que les dégâts infligés correspondent au minimum (min) ou au maximum (max). Dans ces cas de figure, au lieu d'effectuer un jet, considérez que le résultat obtenu est la valeur minimale ou maximale possible. Cela compte tout de même comme un jet de dégâts pour le déclenchement de certaines manœuvres et de certains effets, même si les dés n'ont pas été lancés physiquement (ou numériquement).
+Certains effets, notamment « Échanger des coups », stipulent que les dégâts infligés correspondent au minimum (min) ou au maximum (max). Dans ces cas de figure, au lieu d'effectuer un jet, considérez que le résultat obtenu est la valeur minimale ou maximale possible. Cela compte tout de même comme un jet de dégâts pour le déclenchement de certaines Manœuvres et de certains effets, même si les dés n'ont pas été lancés physiquement (ou numériquement).
 
 **Combat à deux armes :** lorsque vous infligez des dégâts avec deux armes simultanément, lancez les dés de dégâts pour chacune et ne conservez que le résultat le plus élevé. Par défaut, seules les armes légères (#light) sont conçues pour être maniées de cette façon.
 ### Taille des dés de dégâts

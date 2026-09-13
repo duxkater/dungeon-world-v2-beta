@@ -52,7 +52,7 @@ La personne réconfortée peut choisir une même option plusieurs fois.
 >C'est le principal moyen pour les PJ de se débarrasser de leurs états et de renforcer leurs liens. Chaque PJ ne peut utiliser cette action qu'une seule fois par séance (le réconfort a ses limites), mais plusieurs PJ peuvent réconforter et soutenir un même PJ s'ils le souhaitent, même simultanément.
 ## Défier le danger (+Variable)
 
-Lorsque vous faites face à un risque, une menace ou un obstacle — et qu'aucune autre manœuvre ne convient mieux —, décrivez comment vous vous y prenez, puis le MJ choisit une option :
+Lorsque vous faites face à un risque, une menace ou un obstacle — et qu'aucune autre Manœuvre ne convient mieux —, décrivez comment vous vous y prenez, puis le MJ choisit une option :
 
 - Bonus au jet :
 	- +FOR si vous forcez le passage, encaissez physiquement le choc ou brisez l'obstacle
@@ -66,11 +66,11 @@ Lorsque vous faites face à un risque, une menace ou un obstacle — et qu'aucun
 	- Cela attire une attention indésirable ou aggrave la situation ; le MJ précisera comment après votre choix
 	- L'effort vous épuise ou vous ébranle ; cochez un état
 	- Vous sacrifiez quelque chose pour y parvenir ; dites quoi. Le MJ pourra en demander davantage
-- Sur un 6-, vos efforts sont contrariés ou tournent mal ; cochez 1 PX et le MJ effectue une manœuvre.
+- Sur un 6-, vos efforts sont contrariés ou tournent mal ; cochez 1 PX et le MJ effectue une Manœuvre.
 
->Bien que cette manœuvre soit très ouverte, elle ne doit être utilisée que lorsque vous « faites face à un risque, une menace ou un obstacle ». Si vous vous adonnez à une activité plus détendue comme la pêche, la cuisine, la conversation ou l'exploration — ou si vous vivez une aventure sans pour autant affronter d'obstacle particulier —, cette manœuvre ne se déclenche pas. Dans ces cas-là, si vous souhaitez connaître l'issue de la situation, tournez-vous vers le MJ ; il suivra l'Agenda et les Principes du jeu pour vous dire ce qui se passe.
+>Bien que cette Manœuvre soit très ouverte, elle ne doit être utilisée que lorsque vous « faites face à un risque, une menace ou un obstacle ». Si vous vous adonnez à une activité plus détendue comme la pêche, la cuisine, la conversation ou l'exploration — ou si vous vivez une aventure sans pour autant affronter d'obstacle particulier —, cette Manœuvre ne se déclenche pas. Dans ces cas-là, si vous souhaitez connaître l'issue de la situation, tournez-vous vers le MJ ; il suivra l'Agenda et les Principes du jeu pour vous dire ce qui se passe.
 
->Parfois, pour pouvoir utiliser une autre manœuvre, vous devez d'abord surmonter un ou plusieurs obstacles vous séparant de votre cible. Cela passe généralement par « Braver le danger », mais pas toujours. Exemples de telles situations : s'extirper d'une bagarre le temps de lancer un sort ; forcer le passage devant un garde du corps pour atteindre un chef ennemi ; poursuivre un citoyen pour le convaincre que vous n'êtes pas un monstre ; ou impressionner une reine au point qu'elle vous accorde une audience.
+>Parfois, pour pouvoir utiliser une autre Manœuvre, vous devez d'abord surmonter un ou plusieurs obstacles vous séparant de votre cible. Cela passe généralement par « Braver le danger », mais pas toujours. Exemples de telles situations : s'extirper d'une bagarre le temps de lancer un sort ; forcer le passage devant un garde du corps pour atteindre un chef ennemi ; poursuivre un citoyen pour le convaincre que vous n'êtes pas un monstre ; ou impressionner une reine au point qu'elle vous accorde une audience.
 
 >Le MJ peut estimer que certaines approches sont inappropriées face à certains dangers. La plupart des gens sont incapables de se frayer un chemin en discutant à travers un couloir truffé de pièges à pointes, de cibler avec précision un nuage de gaz toxique invisible ou de braver le souffle incandescent d’un dragon. Si votre approche échoue, le MJ vous le fera savoir. Si vous persistez, il pourrait bien vous en faire subir les conséquences.
 ## Manipuler (+CHA)
@@ -95,7 +95,7 @@ Lorsque vous observez attentivement quelqu’un au cours d’une conversation, l
 - Sur un 10+, vous pouvez poser deux questions à son joueur au cours de la conversation (s’il s’agit d’un PNJ, c’est le MJ qui répond).
 - Sur un 7-9, n’en posez qu’une seule.
 Ces questions peuvent porter sur les pensées, les sentiments ou les motivations d’un personnage. Toutes les réponses doivent être véridiques, même si le ou les personnages ne le sont pas forcément.
-- Sur un 6-, si vous observez un PNJ, vous êtes découvert ou interrompu ; cochez 1 PX et le MJ effectue une manœuvre. Si vous observez un PJ, c’est lui qui vous pose une question en retour.
+- Sur un 6-, si vous observez un PNJ, vous êtes découvert ou interrompu ; cochez 1 PX et le MJ effectue une Manœuvre. Si vous observez un PJ, c’est lui qui vous pose une question en retour.
 
 Voici quelques exemples de questions :
 - Mentez-vous au sujet de .......... ?
@@ -145,13 +145,13 @@ Lorsque vous affrontez un ennemi au combat, lancez les dés +FOR au corps à cor
 	- Vous perdez ou brisez quelque chose. Choisissez quoi ; le MJ peut demander des précisions
 - Sur un 6-, vous infligez les dégâts minimums ou subissez les dégâts maximums (au choix) ; cochez 1 PX et le MJ effectue une Manœuvre.
 
->« Échanger des coups » représente un affrontement où les attaques fusent dans tous les sens. Si, d'un point de vue narratif, il n'est pas logique que des dégâts soient subis ou infligés, vérifiez d'abord si cette manœuvre s'applique réellement. Peut-être devez-vous adopter une autre approche ou vous placer dans une position plus avantageuse.
+>« Échanger des coups » représente un affrontement où les attaques fusent dans tous les sens. Si, d'un point de vue narratif, il n'est pas logique que des dégâts soient subis ou infligés, vérifiez d'abord si cette Manœuvre s'applique réellement. Peut-être devez-vous adopter une autre approche ou vous placer dans une position plus avantageuse.
 
 >Les choix s'effectuent avant le jet de dégâts. Vous ne pouvez pas obtenir un 1 aux dégâts infligés et décider ensuite de passer au maximum possible.
 
->Cette manœuvre ne s'active pas si vous attaquez quelqu'un qui ne peut pas  réellement vous blesser. Si votre adversaire est à votre merci, vous le vainquez aisément (à moins qu'un élément extérieur ne complique la situation). Il est  également possible de se retrouver dans une impasse où aucun des deux camps ne peut blesser l'autre, nécessitant ainsi de résoudre le conflit par un autre moyen.
+>Cette Manœuvre ne s'active pas si vous attaquez quelqu'un qui ne peut pas  réellement vous blesser. Si votre adversaire est à votre merci, vous le vainquez aisément (à moins qu'un élément extérieur ne complique la situation). Il est  également possible de se retrouver dans une impasse où aucun des deux camps ne peut blesser l'autre, nécessitant ainsi de résoudre le conflit par un autre moyen.
 
->Lorsque vous affrontez quelqu'un que vous ne pouvez pas réellement blesser (vous êtes paralysé, l'adversaire est incorporel, ses écailles sont plus résistantes que l'acier, etc.), le MJ peut décider que cette manœuvre ne s'active pas et même imposer des conséquences appropriées en effectuant une manœuvre de MJ.
+>Lorsque vous affrontez quelqu'un que vous ne pouvez pas réellement blesser (vous êtes paralysé, l'adversaire est incorporel, ses écailles sont plus résistantes que l'acier, etc.), le MJ peut décider que cette Manœuvre ne s'active pas et même imposer des conséquences appropriées en effectuant une Manœuvre de MJ.
 ## Découvrir des secrets (+INT)
 
 Lorsque vous enquêtez sur une situation ou un lieu mystérieux, demandez au MJ : « Y a-t-il des secrets à découvrir ici ? » Si la réponse est « Oui », lancez les dés +INT.

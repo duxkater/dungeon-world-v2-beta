@@ -160,7 +160,7 @@ Options :
 - Tous les participants au rituel décochent un état.
 - Recevez une bénédiction proportionnelle à l'offrande faite ; demandez ce que vous voulez, le MJ dira ce que vous obtenez.
 
-- Sur un 6-, choisissez une option, mais les gardiens n'accepteront plus vos sacrifices tant que vous n'aurez pas satisfait une de leurs exigences ; cochez 1 PX et le MJ effectue une manœuvre.
+- Sur un 6-, choisissez une option, mais les gardiens n'accepteront plus vos sacrifices tant que vous n'aurez pas satisfait une de leurs exigences ; cochez 1 PX et le MJ effectue une Manœuvre.
 ### Fouler les trônes sertis de joyaux
 
 Lorsque vous Percez à jour une personne plus puissante que vous (sur le plan politique, physique, économique, etc.), vous pouvez également lui demander : « Comment puis-je le mieux vous ruiner ou vous humilier ? ». Si vous y parvenez, gagnez 1 PX et effacez un État.

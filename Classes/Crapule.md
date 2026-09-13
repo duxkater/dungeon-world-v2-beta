@@ -208,30 +208,31 @@ Ajoutez
 
 Si vous ne possédez pas la Manoeuvre de départ Ficelles du métier, vous l’obtenez, mais uniquement pour ces deux compétences. Pour chaque compétence faisant doublon, travaillez avec le MJ pour en créer une nouvelle.
 
-Opérateur hors pair — Lorsque vous vous déguisez pour incarner quelqu’un d’autre, obtenez une valeur de Masque égale à votre CHA (min. 1). Vous pouvez dépenser des points de Masque, à raison d’un pour un, pour déjouer automatiquement toute suspicion. Lorsque votre Masque tombe à 0,
-
-jetez +CHA. ✴Sur 10+, personne n’y voit que du feu ; gagnez 1 point de Masque. ✴Sur 7-9, quelqu’un a des soupçons ; le MJ précise qui. ✴Sur 6-, votre couverture est grillée ; cochez 1 PX et le MJ effectue une Manœuvre.
+Opérateur hors pair — Lorsque vous vous déguisez pour incarner quelqu’un d’autre, obtenez une valeur de Masque égale à votre CHA (min. 1). Vous pouvez dépenser des points de Masque, à raison d’un pour un, pour déjouer automatiquement toute suspicion. Lorsque votre Masque tombe à 0, lancez +CHA.
+- Sur 10+, personne n’y voit que du feu ; gagnez 1 point de Masque.
+- Sur 7-9, quelqu’un a des soupçons ; le MJ précise qui.
+- Sur 6-, votre couverture est grillée ; cochez 1 PX et le MJ effectue une Manœuvre.
 ### Tour de passe-passe
 
 Lorsque vous quittez une pièce ou un lieu, vous pouvez désigner un petit objet que vous avez aperçu, que personne n’utilisait et auquel personne ne prêtait attention. Vous l’avez emporté avec vous.
-### Saboteur expert
+### Expert en sabotage
 
-Lorsque vous révélez avoir utilisé un déguisement pour saboter ou neutraliser un obstacle ou un mécanisme en amont — au moment précis où cela devient pertinent —, jetez +CHA. 
+Lorsque vous révélez avoir utilisé un déguisement pour saboter ou neutraliser un obstacle ou un mécanisme en amont — au moment précis où cela devient pertinent —, lancez +CHA. 
 - Sur 10+, le sabotage se déclenche avec fracas, créant l’occasion idéale.
 - Sur 7-9, l’occasion est éphémère : agissez immédiatement ou il sera trop tard.
 - Sur 6-, un détail infime qui vous a échappé devient un problème majeur ; cochez 1 PX et le MJ effectue une Manoeuvre.
 ### Contacts dans la pègre
 
-Lorsque vous faites savoir que vous recherchez quelque chose, jetez +CHA. Quoi qu’il arrive, quelqu’un vous apporte une piste.
+Lorsque vous faites savoir que vous recherchez quelque chose, lancez +CHA. Quoi qu’il arrive, quelqu’un vous apporte une piste.
 - Sur 10+, choisissez une complication parmi celles ci-dessous.
 - Sur 7-9, choisissez-en deux :
 	- Ce n’est pas tout à fait ce qu’il vous faut ; le MJ précisera en quoi après votre choix
 	- L’objet est entre les mains de quelqu’un qui ne vous connaît pas ou ne vous apprécie pas
-	- Vous devrez une lourde dette à quelqu’un pour l’obtenir. Tant que vous ne les avez pas remboursés, vous subissez un malus sur cette manœuvre et ne pouvez plus choisir cette option.
-- Sur un résultat de 6 ou moins, la piste pourrait être un leurre, un piège ou déjà occupée par un ennemi ; cochez 1 PX et le MJ effectue une manœuvre.
+	- Vous devrez une lourde dette à quelqu’un pour l’obtenir. Tant que vous ne les avez pas remboursés, vous subissez un malus sur cette Manœuvre et ne pouvez plus choisir cette option.
+- Sur un résultat de 6 ou moins, la piste pourrait être un leurre, un piège ou déjà occupée par un ennemi ; cochez 1 PX et le MJ effectue une Manœuvre.
 ### Vous connaissez mon nom
 
-Lorsque vous rencontrez pour la première fois quelqu’un qui a entendu parler de vous (à vous de décider), jetez les dés +Cha.
+Lorsque vous rencontrez pour la première fois quelqu’un qui a entendu parler de vous (à vous de décider), lancez +CHA.
 - Sur un 10+, dites au MJ deux choses qu’il a entendues à votre sujet.
 - Sur un 7-9, dites au MJ une chose, et le MJ vous en dit une autre.
-- Sur un 6 ou moins, la personne n’apprécie pas ce qu’elle a entendu ; cochez 1 PX et le MJ effectue une manœuvre.
+- Sur un 6 ou moins, la personne n’apprécie pas ce qu’elle a entendu ; cochez 1 PX et le MJ effectue une Manœuvre.
