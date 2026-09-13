@@ -36,7 +36,7 @@ Souvenirs : O O O O O
 Vous n'avez aucun souvenir de votre passé. Vous savez toutefois une chose : peut-être ne voulez-vous pas vous en souvenir.
 
 - **Questions** : Où vous êtes-vous réveillé sans souvenirs ? Quels lieux, comportements ou personnes vous semblent familiers ? Quelle nouvelle identité vous forgez-vous ?
-- **Fragments (+)(-)** Une fois par séance, alors que vous devriez cocher votre dernier état (atteignant ainsi votre limite), vous pouvez à la place cocher « Souvenirs » et vivre un flash-back. Ce faisant, vous découvrez un aspect important de votre passé ; cochez 1 PX et le MJ fait progresser une Menace.
+- **Fragments (+)(-)** Une fois par séance, alors que vous devriez cocher votre dernier état (atteignant ainsi votre limite), vous pouvez à la place cocher « Souvenirs » et vivre un flash-back. Ce faisant, vous découvrez un aspect important de votre passé ; cochez 1 XP et le MJ fait progresser une Menace.
 
 Lorsque vous avez coché 5 cases « Souvenirs », l'image de votre passé est complète ; ce Conflit est résolu (voir « Révéler un Conflit » pour les détails).
 # Trahi
@@ -52,14 +52,14 @@ Vous voyagez avec un PNJ qui dépend de vous pour obtenir aide ou conseils.
 
 - **Questions** : Pourquoi cette personne dépend-elle autant de vous ? Sait-elle tout ce que vous faites pour elle ? Comment met-elle votre patience à l’épreuve ?
 - **Plus grand fan (+)** Lorsque vous offrez ou recevez du Réconfort ou du Soutien aux côtés de la personne dont vous avez la charge, considérez un « Non » comme un « Oui ».
-- **Gardien (+)** Lorsque vous vous inquiétez pour la personne dont vous avez la charge, vous pouvez cocher un état pour poser une question au MJ concernant sa localisation, ses activités ou son bien-être ; il y répondra honnêtement. Lorsque vous terminez la séance, si vous estimez que cette personne a globalement agi comme vous le souhaitiez, gagnez 1 PX.
+- **Gardien (+)** Lorsque vous vous inquiétez pour la personne dont vous avez la charge, vous pouvez cocher un état pour poser une question au MJ concernant sa localisation, ses activités ou son bien-être ; il y répondra honnêtement. Lorsque vous terminez la séance, si vous estimez que cette personne a globalement agi comme vous le souhaitiez, gagnez 1 XP.
 - **Source de problèmes (-)** Lorsque vous la blessez ou échouez à la protéger (au jugement du MJ), cochez un état.
 # Lâche
 
 La plupart des aventuriers sont habitués aux dangers fréquents et aux expériences frôlant la mort. Ce n'est pas votre cas.
 
 - **Questions** : Qui avez-vous abandonné par le passé ? Comment tentez-vous de combattre vos peurs ? Comment les compensez-vous (ou les surcompensez-vous) ?
-- **Frileux (+)** Lorsque vous êtes Effrayé, vous bénéficiez d'un avantage sur les jets effectués pour fuir ou vous cacher face au danger, et vous cochez 1 PX lorsque vous effectuez un tel jet.
+- **Frileux (+)** Lorsque vous êtes Effrayé, vous bénéficiez d'un avantage sur les jets effectués pour fuir ou vous cacher face au danger, et vous cochez 1 XP lorsque vous effectuez un tel jet.
 - **Faire bonne figure (+)** Vous pouvez dissiper l'état Effrayé en portant le coup de grâce à un ennemi, ou en vous attribuant le mérite d'un tel coup.
 - **Terrifié (-)** Lorsque vous cochez l'état Effrayé, et lorsque vous cochez un état alors que vous êtes déjà Effrayé (pour une autre raison que cet effet), cochez un état supplémentaire.
 # Murmureur des ténèbres
@@ -88,7 +88,7 @@ Fatalité O O O O O
 Une terrible affliction vous coûtera la vie (ou pire), à ​​moins que vous ne parveniez à trouver un remède.
 
 - **Questions :** Comment avez-vous contracté cette affliction ? Quels en sont les symptômes à ce jour ? Quelle piste incertaine suivez-vous pour trouver un remède ?
-- **Bons jours (+)** Lorsque vous terminez la séance, demandez au groupe : « Ai-je appris quelque chose sur mon affliction ou réalisé des progrès notables vers un remède ? » Si la réponse est « Oui », notez 1 PX, décochez un État et retirez 1 point de Fatalité.
+- **Bons jours (+)** Lorsque vous terminez la séance, demandez au groupe : « Ai-je appris quelque chose sur mon affliction ou réalisé des progrès notables vers un remède ? » Si la réponse est « Oui », cochez 1 XP, décochez un État et retirez 1 point de Fatalité.
 - **Mauvais jours (-)** Si la réponse à la question précédente est « Non », notez 1 point de Fatalité et un État. La Fatalité commence à 0 et représente la progression de votre affliction. À 5 points de Fatalité, il est trop tard pour un remède ; votre affliction aura raison de vous lors de la prochaine séance.
 - **Pas comme ça (+)** Lorsque vous devriez Affronter la mort, vous pouvez choisir d'Invoquer votre Fatalité : expliquez comment votre affliction (ou la façon dont les autres la perçoivent) vous aide à survivre, puis notez 1 point de Fatalité et récupérez 1 PV.
 # Héros populaire
@@ -116,7 +116,7 @@ Une personne ou une organisation puissante vous traque activement.
 - **Règlement de comptes (-)** Lorsque vous atteignez 3 points de Pression, ou que vous établissez un campement avec au moins 1 point de Pression, lancez les dés + Pression puis décochez votre Pression.
 	- Sur un 10+, les chasseurs arrivent en force, ici et maintenant.
 	- Sur un 7-9, les chasseurs arrivent, mais vous avez une chance d'agir avant qu'ils ne vous repèrent.
-	- Sur un 6-, les chasseurs passent dangereusement près de vous trouver, mais vous vous éclipsez ; cochez 1 PX.
+	- Sur un 6-, les chasseurs passent dangereusement près de vous trouver, mais vous vous éclipsez ; cochez 1 XP.
 # Endetté
 
 Dette O O O O O
@@ -138,17 +138,17 @@ Vous découvrez cette vie ; vous apprenez encore à vous connaître et à compre
 - **Impressionnable (-)** Une fois par scène, lorsque vous rejetez les paroles d’un PJ ou d’un PNJ, cochez un état.
 # Solitaire
 
-Tu es un marginal incompris qui n’a besoin d’aucun ami... n’est-ce pas ?
+Vous êtes un marginal incompris qui n’a besoin d’aucun ami... n’est-ce pas ?
 
-- **Questions :** Quel est ton passé (probablement tragique) ? Comment la dernière personne à s’être rapprochée de toi a-t-elle souffert ou t’a-t-elle trahi ?
-- **Réservé (+)** Lorsque tu utilises ou reçois du Réconfort ou du Soutien, tu peux aussi répondre à la question : « Ai-je montré que je tenais vraiment à l’autre ? » Si la réponse est « Oui », la personne réconfortée obtient un avantage, tout comme pour les autres questions. Si la réponse est « Non », tu marques 1 PX.
-- **Distant (-)** L’action Tisser un lien nécessite 1 point de Profondeur supplémentaire, tant de ta part que de celle de l’autre PJ.
+- **Questions :** Quel est votre passé (probablement tragique) ? Comment la dernière personne à s’être rapprochée de vous a-t-elle souffert ou vous a-t-elle trahi ?
+- **Réservé (+)** Lorsque vous utilisez ou reçevez du Réconfort ou du Soutien, vous pouvez aussi répondre à la question : « Ai-je montré que je tenais vraiment à l’autre ? » Si la réponse est « Oui », la personne réconfortée obtient un avantage, tout comme pour les autres questions. Si la réponse est « Non », cochez 1 XP.
+- **Distant (-)** L’action Tisser un lien nécessite 1 point de Profondeur supplémentaire, tant de votre part que de celle de l’autre PJ.
 # Héritage perdu
 
 Vous recherchez votre peuple (ou ce qu'il en reste), perdu il y a longtemps suite à une conquête ou une catastrophe.
 
 - **Questions :** Qui ou quoi a emporté votre peuple ? Comment avez-vous réussi à vous échapper et/ou à survivre ? Qui ou quoi vous empêche d'en apprendre davantage ?
-- **Chercheur (+)** Lorsque vous « Déterrez des secrets » ou vous « Faufilez » à la poursuite de quelque chose ou de quelqu'un lié à votre peuple, lancez les dés avec avantage. Une fois par séance, lorsque vous trouvez et étudiez une relique de votre peuple, dites au groupe ce que vous avez appris et cochez 1 PX.
+- **Chercheur (+)** Lorsque vous « Déterrez des secrets » ou vous « Faufilez » à la poursuite de quelque chose ou de quelqu'un lié à votre peuple, lancez les dés avec avantage. Une fois par séance, lorsque vous trouvez et étudiez une relique de votre peuple, dites au groupe ce que vous avez appris et cochez 1 XP.
 - **Plaie ouverte (-)** Lorsque vous tombez sur un élément incomplet ou perdu de la culture de votre peuple, ou sur une relique volée, cochez un État.
 # Rêves funestes
 
@@ -215,4 +215,4 @@ Il n’y a de justice en ce monde que celle que vous créez vous-même.
 
 - Questions : Qui est votre ennemi juré ? Que vous a-t-il pris ? Qu’est-ce qui se dresse entre vous et votre satisfaction ?
 - Inébranlable (+) Lorsque vous échangez des coups avec votre ennemi juré (ou toute personne liée à lui), lancez les dégâts avec avantage. Une fois par séance, alors que vous traquez votre ennemi juré, si vous deviez Affronter la mort, vous conservez 1 PV à la place.
-- Obsédé (-) Si vous deviez entreprendre une action qui vous éloigne de la vengeance contre votre ennemi juré, cochez une Condition.
+- Obsédé (-) Si vous deviez entreprendre une action qui vous éloigne de la vengeance contre votre ennemi juré, cochez une état.

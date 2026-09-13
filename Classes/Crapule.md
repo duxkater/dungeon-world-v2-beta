@@ -117,7 +117,7 @@ Attaque sournoise — Lorsque vous Échangez des coups +Dex, si votre adversaire
 Lorsque vous êtes dans une situation critique et que vous cherchez une issue, lancez +DEX. 
 - Sur un 10+, vous et vos alliés parvenez à vous échapper.
 - Sur un 7-9, vous devez laisser quelque chose derrière vous ; le MJ dira quoi.
-- Sur un 6-, c’était une ruse ou un piège ; cochez 1 PX et le MJ effectue une Manoeuvre.
+- Sur un 6-, c’était une ruse ou un piège ; cochez 1 XP et le MJ effectue une Manoeuvre.
 ### Embuscade
 
 Lorsque vous prenez en embuscade un adversaire surpris ou sans défense avec une arme #précise, vous pouvez lancer les dégâts normalement ou, à la place, lancer +DEX.
@@ -126,7 +126,7 @@ Lorsque vous prenez en embuscade un adversaire surpris ou sans défense avec une
 	- Réduisez la réduction de dégâts de son armure de 1 jusqu’à ce qu’elle soit réparée
 	- Neutralisez une arme ou une autre forme d’attaque jusqu’à ce qu’il la récupère
 	- Infligez vos dégâts +1d6
-- Sur un 6-, il était prêt ; cochez 1 PX et le MJ effectue une Manœuvre.
+- Sur un 6-, il était prêt ; cochez 1 XP et le MJ effectue une Manœuvre.
 ### Maîtrise des poisons
 
 Vous bénéficiez d’un avantage pour Défier le danger face aux poisons et vous disposez d’un kit d’empoisonneur (3 utilisations). Cochez une case pour fabriquer un poison sur-le-champ ; énoncez son effet, puis choisissez-en deux parmi les options suivantes :
@@ -210,7 +210,7 @@ Si vous ne possédez pas la Manoeuvre de départ Ficelles du métier, vous l’o
 Opérateur hors pair — Lorsque vous vous déguisez pour incarner quelqu’un d’autre, obtenez une valeur de Masque égale à votre CHA (min. 1). Vous pouvez dépenser des points de Masque, à raison d’un pour un, pour déjouer automatiquement toute suspicion. Lorsque votre Masque tombe à 0, lancez +CHA.
 - Sur 10+, personne n’y voit que du feu ; gagnez 1 point de Masque.
 - Sur 7-9, quelqu’un a des soupçons ; le MJ précise qui.
-- Sur 6-, votre couverture est grillée ; cochez 1 PX et le MJ effectue une Manœuvre.
+- Sur 6-, votre couverture est grillée ; cochez 1 XP et le MJ effectue une Manœuvre.
 ### Tour de passe-passe
 
 Lorsque vous quittez une pièce ou un lieu, vous pouvez désigner un petit objet que vous avez aperçu, que personne n’utilisait et auquel personne ne prêtait attention. Vous l’avez emporté avec vous.
@@ -219,7 +219,7 @@ Lorsque vous quittez une pièce ou un lieu, vous pouvez désigner un petit objet
 Lorsque vous révélez avoir utilisé un déguisement pour saboter ou neutraliser un obstacle ou un mécanisme en amont — au moment précis où cela devient pertinent —, lancez +CHA. 
 - Sur 10+, le sabotage se déclenche avec fracas, créant l’occasion idéale.
 - Sur 7-9, l’occasion est éphémère : agissez immédiatement ou il sera trop tard.
-- Sur 6-, un détail infime qui vous a échappé devient un problème majeur ; cochez 1 PX et le MJ effectue une Manoeuvre.
+- Sur 6-, un détail infime qui vous a échappé devient un problème majeur ; cochez 1 XP et le MJ effectue une Manoeuvre.
 ### Contacts dans la pègre
 
 Lorsque vous faites savoir que vous recherchez quelque chose, lancez +CHA. Quoi qu’il arrive, quelqu’un vous apporte une piste.
@@ -228,10 +228,10 @@ Lorsque vous faites savoir que vous recherchez quelque chose, lancez +CHA. Quoi 
 	- Ce n’est pas tout à fait ce qu’il vous faut ; le MJ précisera en quoi après votre choix
 	- L’objet est entre les mains de quelqu’un qui ne vous connaît pas ou ne vous apprécie pas
 	- Vous devrez une lourde dette à quelqu’un pour l’obtenir. Tant que vous ne les avez pas remboursés, vous subissez un malus sur cette Manœuvre et ne pouvez plus choisir cette option.
-- Sur un résultat de 6 ou moins, la piste pourrait être un leurre, un piège ou déjà occupée par un ennemi ; cochez 1 PX et le MJ effectue une Manœuvre.
+- Sur un résultat de 6 ou moins, la piste pourrait être un leurre, un piège ou déjà occupée par un ennemi ; cochez 1 XP et le MJ effectue une Manœuvre.
 ### Vous connaissez mon nom
 
 Lorsque vous rencontrez pour la première fois quelqu’un qui a entendu parler de vous (à vous de décider), lancez +CHA.
 - Sur un 10+, dites au MJ deux choses qu’il a entendues à votre sujet.
 - Sur un 7-9, dites au MJ une chose, et le MJ vous en dit une autre.
-- Sur un 6 ou moins, la personne n’apprécie pas ce qu’elle a entendu ; cochez 1 PX et le MJ effectue une Manœuvre.
+- Sur un 6 ou moins, la personne n’apprécie pas ce qu’elle a entendu ; cochez 1 XP et le MJ effectue une Manœuvre.

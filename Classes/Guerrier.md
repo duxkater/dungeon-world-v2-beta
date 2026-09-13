@@ -165,7 +165,7 @@ Vous pouvez cocher une utilisation de votre équipement d'aventurier pour en tir
 
 *La Main qui manie* — Lorsque vous Échangez des coups avec une arme ordinaire ou à mains nues,
 - sur un 10+, vous pouvez choisir de décocher un état
-- sur un 6-, de cocher 2 PX au lieu d'1.
+- sur un 6-, de cocher 2 XP au lieu d'1.
 
 Lorsque vous dégainez enfin votre Arme emblématique après avoir tenté de vaincre un adversaire sans elle, et jusqu'à la fin du combat, vous pouvez cocher un état après avoir jeté les dés pour Échanger des coups afin d'augmenter le résultat d'un palier (6- → 7-9 → 10+).
 ### Briser la lame

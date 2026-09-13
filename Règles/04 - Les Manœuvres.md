@@ -9,18 +9,18 @@ Lorsque vous aidez un autre personnage-joueur, celui-ci bénéficie de l'avantag
 >« S'exposer aux mêmes risques et conséquences » signifie que ces conséquences s'appliquent intégralement aux deux PJ (celui qui aide et celui qui est aidé), plutôt que d'être partagées entre eux. Par exemple, si le PJ aidé subit des dégâts, le PJ qui l'aide en subit autant. Si l'un est pris et capturé, l'autre l'est aussi.
 ## Lancer un sort (+Variable)
 
-Lorsque vous invoquez la magie, décrivez l'effet souhaité ; le MJ vous indiquera la puissance (Mag) de cet effet, que vous comparerez ensuite à votre caractéristique d'Incantation (voir la Classe ou la Voie correspondant à la source de votre magie).
+Lorsque vous invoquez la magie, décrivez l'effet souhaité ; le MJ vous indiquera la Magnitude (Mag) de cet effet, que vous comparerez ensuite à votre caractéristique d'Incantation (voir la Classe ou la Voie correspondant à la source de votre magie).
 
-- Si la puissance dépasse votre caractéristique d'Incantation, le sort vous dépasse : négociez un effet moindre ou accomplissez un rituel pour y parvenir.
-- Si la puissance est égale à votre caractéristique d'Incantation, lancez les dés + caractéristique d'Incantation avec un désavantage.
-- Si la puissance est inférieure à votre caractéristique d'Incantation, lancez les dés + caractéristique d'Incantation.
+- Si la Mag dépasse votre caractéristique d'Incantation, le sort vous dépasse : négociez un effet moindre ou accomplissez un rituel pour y parvenir.
+- Si la Mag est égale à votre caractéristique d'Incantation, lancez les dés + caractéristique d'Incantation avec un désavantage.
+- Si la Mag est inférieure à votre caractéristique d'Incantation, lancez les dés + caractéristique d'Incantation.
 
 - Sur un 10+, l'effet se produit comme prévu.
 - Sur un 7-9, l'effet se produit, mais choisissez une option :
 	- Une option unique liée à la source de votre magie
-	- L'effort est épuisant ; cochez une Condition
+	- L'effort est épuisant ; cochez un état
 	- Il y a un imprévu ; le MJ ajoute un « et » ou un « mais » à l'effet
-- Sur un 6-, les choses tournent très mal ; cochez 1 PX et le MJ effectue une Manœuvre.
+- Sur un 6-, les choses tournent très mal ; cochez 1 XP et le MJ effectue une Manœuvre.
 
 >La « magie que vous maîtrisez » provient généralement d'une Manœuvre de départ de Classe ou d'une Manœuvre de Voie, mais certains objets magiques ou artefacts peuvent également vous permettre de Lancer un sort. Ces options (et d'autres) préciseront toujours clairement que vous avez la possibilité de Lancer un sort.
 ### Magnitude (MAG)
@@ -66,7 +66,7 @@ Lorsque vous faites face à un risque, une menace ou un obstacle — et qu'aucun
 	- Cela attire une attention indésirable ou aggrave la situation ; le MJ précisera comment après votre choix
 	- L'effort vous épuise ou vous ébranle ; cochez un état
 	- Vous sacrifiez quelque chose pour y parvenir ; dites quoi. Le MJ pourra en demander davantage
-- Sur un 6-, vos efforts sont contrariés ou tournent mal ; cochez 1 PX et le MJ effectue une Manœuvre.
+- Sur un 6-, vos efforts sont contrariés ou tournent mal ; cochez 1 XP et le MJ effectue une Manœuvre.
 
 >Bien que cette Manœuvre soit très ouverte, elle ne doit être utilisée que lorsque vous « faites face à un risque, une menace ou un obstacle ». Si vous vous adonnez à une activité plus détendue comme la pêche, la cuisine, la conversation ou l'exploration — ou si vous vivez une aventure sans pour autant affronter d'obstacle particulier —, cette Manœuvre ne se déclenche pas. Dans ces cas-là, si vous souhaitez connaître l'issue de la situation, tournez-vous vers le MJ ; il suivra l'Agenda et les Principes du jeu pour vous dire ce qui se passe.
 
@@ -84,7 +84,7 @@ Lorsque vous amenez un PNJ à agir selon vos désirs, choisissez une approche pa
 
 - Sur un 10+, il s'exécute du mieux qu'il peut.
 - Sur un 7-9, il essaie, mais le MJ ajoute une complication liée à votre approche.
-- Sur un 6-, il aggrave la situation ; cochez 1 PX et le MJ effectue une Manœuvre.
+- Sur un 6-, il aggrave la situation ; cochez 1 XP et le MJ effectue une Manœuvre.
 
 >Cette Manœuvre ne constitue pas un contrôle mental. Les PNJ ont leurs propres désirs et motivations ; il est difficile de les amener à agir à l'encontre de ceux-ci. La persuasion présente généralement le moins de risques, mais elle ne fonctionne que si le PNJ est sensible à vos arguments dès le départ. L'intimidation ou la tromperie fonctionnent sur un plus grand nombre de PNJ, mais en cas d'échec, les conséquences sont souvent plus hostiles.
 
@@ -95,7 +95,7 @@ Lorsque vous observez attentivement quelqu’un au cours d’une conversation, l
 - Sur un 10+, vous pouvez poser deux questions à son joueur au cours de la conversation (s’il s’agit d’un PNJ, c’est le MJ qui répond).
 - Sur un 7-9, n’en posez qu’une seule.
 Ces questions peuvent porter sur les pensées, les sentiments ou les motivations d’un personnage. Toutes les réponses doivent être véridiques, même si le ou les personnages ne le sont pas forcément.
-- Sur un 6-, si vous observez un PNJ, vous êtes découvert ou interrompu ; cochez 1 PX et le MJ effectue une Manœuvre. Si vous observez un PJ, c’est lui qui vous pose une question en retour.
+- Sur un 6-, si vous observez un PNJ, vous êtes découvert ou interrompu ; cochez 1 XP et le MJ effectue une Manœuvre. Si vous observez un PJ, c’est lui qui vous pose une question en retour.
 
 Voici quelques exemples de questions :
 - Mentez-vous au sujet de .......... ?
@@ -114,7 +114,7 @@ Lorsque vous tentez de passer inaperçu, lancez +DEX.
 	- Quelqu’un commence à se méfier ; vous subissez un désavantage à « Se faufiler » tant que la situation n’a pas changé
 	- Vous l’avez fait de justesse ; cochez un état
 	- Vous manquez de temps ; agissez vite avant que l’occasion ne vous échappe
-- Sur un 6-, vous êtes repéré ou attendu ; cochez 1 PX et le MJ effectue une action.
+- Sur un 6-, vous êtes repéré ou attendu ; cochez 1 XP et le MJ effectue une action.
 
 >Préparer une embuscade, crocheter une serrure, faire les poches ou se fondre dans la foule : voilà quelques façons d’utiliser cette action. Elle ne se déclenche généralement que si vous n’avez pas encore été repéré. Si vous l’avez été, vous devrez d’abord trouver une bonne cachette.
 ## Étaler son savoir (+Questions)
@@ -128,7 +128,7 @@ Lorsque vous fouillez votre mémoire pour obtenir des informations sur un sujet 
 
 - Sur un 10+, le MJ répond généreusement, et vous ou un allié bénéficiez également d'un avantage la première fois que quelqu'un agit en fonction de cette réponse.
 - Sur un 7-9, le MJ répond simplement de manière généreuse.
-- Sur un 6-, le MJ répond en évoquant un danger ou une vérité désagréable ; cochez 1 PX et le MJ effectue une Manœuvre.
+- Sur un 6-, le MJ répond en évoquant un danger ou une vérité désagréable ; cochez 1 XP et le MJ effectue une Manœuvre.
 
 >Chacun possède son propre vécu vis-à-vis du monde. Alors que de nombreux autres jeux de rôle fantastiques vous demandent de vous fier à votre Intelligence (ou une caractéristique similaire) pour vous remémorer des informations, ici, nous nous intéressons surtout à la place centrale qu'occupe ce sujet pour votre personnage. Si vous n'avez jamais connu de Conflit (p. 77), la réponse à la troisième question est toujours « Non ». Si le sujet est pertinent pour un Conflit déjà résolu, la réponse peut toutefois être « Oui ».
 ## Échanger des coups (+FOR ou +DEX)
@@ -143,7 +143,7 @@ Lorsque vous affrontez un ennemi au combat, lancez les dés +FOR au corps à cor
 	- Quelque chose vous contrarie ou vous provoque ; cochez un état
 	- Vous offrez une opportunité fugace à votre adversaire
 	- Vous perdez ou brisez quelque chose. Choisissez quoi ; le MJ peut demander des précisions
-- Sur un 6-, vous infligez les dégâts minimums ou subissez les dégâts maximums (au choix) ; cochez 1 PX et le MJ effectue une Manœuvre.
+- Sur un 6-, vous infligez les dégâts minimums ou subissez les dégâts maximums (au choix) ; cochez 1 XP et le MJ effectue une Manœuvre.
 
 >« Échanger des coups » représente un affrontement où les attaques fusent dans tous les sens. Si, d'un point de vue narratif, il n'est pas logique que des dégâts soient subis ou infligés, vérifiez d'abord si cette Manœuvre s'applique réellement. Peut-être devez-vous adopter une autre approche ou vous placer dans une position plus avantageuse.
 
@@ -163,7 +163,7 @@ Quel que soit le résultat, vous découvrez toujours quelque chose ; le MJ vous 
 	- C’est un indice important, mais pas une réponse claire
 	- La découverte vous met en danger ; le MJ précisera comment une fois que vous aurez choisi cette option
 	- La découverte vous ébranle ; cochez un état
-- Sur un 6-, la découverte est dangereuse ; cochez 1 PX et le MJ effectue une Manœuvre.
+- Sur un 6-, la découverte est dangereuse ; cochez 1 XP et le MJ effectue une Manœuvre.
 
 >Vous ne devriez effectuer ce jet que si le MJ répond « Oui » à la question initiale. S’il n’y a rien à découvrir, le MJ répond simplement « Non » et la conversation se poursuit normalement.
 
@@ -256,7 +256,7 @@ Ensuite, le meneur effectue le jet avec le modificateur correspondant.
 	- Quelqu'un vous suit ; laissez-le faire, ou tout le monde coche un État pour le semer
 	- Quelque chose de désagréable vous attend à destination
 	- Vous rencontrez un danger en chemin, mais vous avez l'avantage de la surprise
-- Sur un 6-, un danger vous surprend ; tout le monde coche 1 PX et le MJ effectue une Manœuvre.
+- Sur un 6-, un danger vous surprend ; tout le monde coche 1 XP et le MJ effectue une Manœuvre.
 
 >Vous devez avoir une destination précise en tête pour déclencher cette Manœuvre. Si vous ne faites qu'errer, explorer ou reconnaître le terrain, une autre Manœuvre pourrait se déclencher (peut-être *Découvrir des secrets*) ou le MJ effectuera simplement une Manœuvre et décrira la situation.
 

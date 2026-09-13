@@ -3,7 +3,7 @@
 Lorsque vous passez quelques jours à vous reposer dans un lieu sûr, vous pouvez effectuer autant d'actions parmi les suivantes que vous le souhaitez :
 
 - **Faire la fête.** Dépensez 1 Trésor pour que tous les PJ récupèrent tous leurs PV.
-- **Renforcer les liens.** Dépensez 1 Trésor pour supprimer un État verrouillé ou gagner 1 point de Profondeur avec un autre PJ.
+- **Renforcer les liens.** Dépensez 1 Trésor pour décocher un État verrouillé ou gagner 1 point de Profondeur avec un autre PJ.
 - **Se ravitailler.** Dépensez 1 Trésor pour recharger toutes les utilisations des objets d'un PJ.
 - **Faire des emplettes.** Dépensez 1 Trésor pour réparer de l'équipement, acheter des objets ou s'offrir des services ; vous dépensez 1 Trésor par bien ou service.
 - **S'entraîner.** Une fois par période de repos, chaque PJ peut dépenser 1 Trésor pour marquer de l'XP.
@@ -12,9 +12,9 @@ Lorsque vous passez quelques jours à vous reposer dans un lieu sûr, vous pouve
 # Forger un lien
 
 Lorsque deux personnages-joueurs atteignent un niveau de Profondeur de 3 l'un envers l'autre, effacez les deux pistes ainsi que les Relations, puis choisissez l'une des options suivantes :
-- **Établir un nouveau lien.** Choisissez un lien ; inscrivez-le sur les deux fiches de personnage à la place des Relations. Si vous partagiez un autre lien, supprimez-le ; chacun de vous coche 1 PX pour chaque maneouvre avancée de lien qu'il avait débloqué.
+- **Établir un nouveau lien.** Choisissez un lien ; inscrivez-le sur les deux fiches de personnage à la place des Relations. Si vous partagiez un autre lien, supprimez-le ; chacun de vous coche 1 XP pour chaque maneouvre avancée de lien qu'il avait débloqué.
 - **Renforcer un lien existant.** Débloquez une nouvelle Manœuvre avancée associée à ce lien.
--  **« Comment te sens-tu vraiment ? »** Posez-vous mutuellement au moins une question sur les pensées, les sentiments ou les motivations de votre personnage. Si vous répondez tous deux avec sincérité, chacun coche 1 PX ou décoche 1 État verrouillé.
+-  **« Comment te sens-tu vraiment ? »** Posez-vous mutuellement au moins une question sur les pensées, les sentiments ou les motivations de votre personnage. Si vous répondez tous deux avec sincérité, chacun coche 1 XP ou décoche 1 État verrouillé.
 
 >Si un PJ a déjà un niveau de Profondeur de 3 avec un autre, ils ne déclencheront pas cette action tant que ce niveau de 3 n'aura pas été égalé par l'autre partie. S'ils devaient atteindre un niveau de Profondeur de 4 avec ce PJ, il ne se passe rien. N'oubliez pas que vous pouvez dépenser de la Profondeur pour porter assistance à un PJ.
 # Révéler un Conflit

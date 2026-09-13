@@ -146,7 +146,7 @@ Lorsque vous façonnez une énergie élémentaire sous la forme d'une arme, coch
 - Sur un 7-9, une seule :
 	- #contact,
 	- #perforant .
-- Sur un 6-, l'élément se libère ; cochez 1 PX et le MJ effectue une Manoeuvre.
+- Sur un 6-, l'élément se libère ; cochez 1 XP et le MJ effectue une Manoeuvre.
 
 Par défaut, l'arme inflige 1d6 dégâts, possède l'étiquette #main et dispose de OOO utilisations. Lorsque vous échangez des coups avec cette arme, lancez les dés +Int (au lieu de +For ou +Dex) et cochez une utilisation.
 ## Illusionniste

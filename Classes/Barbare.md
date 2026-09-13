@@ -126,14 +126,14 @@ Dompter la bête exige un effort considérable ; cochez un état.
 
 Lorsque vous affrontez la Mort alors que vous êtes en colère, vous pouvez également choisir l'option ci-dessous.
 
-- Cracher au visage de la Mort. Récupérez tous vos PV ; vous ne devenez pas Sans défense et ne subissez aucun état permanent.
+- Cracher au visage de la Mort. Récupérez tous vos PV ; vous ne devenez pas Sans défense et ne verrouillez aucun état.
 
 Une fois cela fait, vous perdez l'accès à cette Manoeuvre jusqu'à ce que vous la choisissiez à nouveau comme progression.
 ## Étranger
 *On ne peut pas arracher la terre natale du…*
 ### D'où je viens…
 
-Lorsque vous racontez à quelqu'un une histoire inédite au sujet de votre terre natale (ou de ses coutumes, récits, traditions, etc.), cochez une question ci-dessous, répondez-y et décochez un état. Une fois les cinq questions cochées, gagnez 1 PX et décochez toutes les questions.
+Lorsque vous racontez à quelqu'un une histoire inédite au sujet de votre terre natale (ou de ses coutumes, récits, traditions, etc.), cochez une question ci-dessous, répondez-y et décochez un état. Une fois les cinq questions cochées, gagnez 1 XP et décochez toutes les questions.
 
 - [ ] Quel défaut ou échec de votre terre natale vous préoccupe encore ?
 - [ ] Quels héros ou monstres figurent dans les récits de votre terre natale ?
@@ -160,16 +160,16 @@ Options :
 - Tous les participants au rituel décochent un état.
 - Recevez une bénédiction proportionnelle à l'offrande faite ; demandez ce que vous voulez, le MJ dira ce que vous obtenez.
 
-- Sur un 6-, choisissez une option, mais les gardiens n'accepteront plus vos sacrifices tant que vous n'aurez pas satisfait une de leurs exigences ; cochez 1 PX et le MJ effectue une Manœuvre.
+- Sur un 6-, choisissez une option, mais les gardiens n'accepteront plus vos sacrifices tant que vous n'aurez pas satisfait une de leurs exigences ; cochez 1 XP et le MJ effectue une Manœuvre.
 ### Fouler les trônes sertis de joyaux
 
-Lorsque vous Percez à jour une personne plus puissante que vous (sur le plan politique, physique, économique, etc.), vous pouvez également lui demander : « Comment puis-je le mieux vous ruiner ou vous humilier ? ». Si vous y parvenez, gagnez 1 PX et décochez un État.
+Lorsque vous Percez à jour une personne plus puissante que vous (sur le plan politique, physique, économique, etc.), vous pouvez également lui demander : « Comment puis-je le mieux vous ruiner ou vous humilier ? ». Si vous y parvenez, gagnez 1 XP et décochez un État.
 ### Intuition infaillible
 
 Lorsque vous arrivez dans un lieu que vous n’avez jamais visité, votre instinct vous en dit bien plus que vos sens ne le pourraient ; lancez +SAG.
 - Sur un 10+, le MJ vous révèle ce qui ne va pas du tout ici ; posez une question supplémentaire et bénéficiez d’un avantage sur la première Manœuvre que vous effectuerez en agissant en fonction de la réponse.
 - Sur un 7-9, comme pour le 10+, mais la réponse vous trouble ou vous déstabilise ; cochez un État.
-- Sur un 6-, vous recevez un indice énigmatique… et rien de plus ; cochez 1 PX et le MJ effectue une Manœuvre.
+- Sur un 6-, vous recevez un indice énigmatique… et rien de plus ; cochez 1 XP et le MJ effectue une Manœuvre.
 ## Hédoniste
 *Tu sais ce qu'il y a de mieux dans la vie, et comment l'obtenir.*
 ### Appétit herculéen
@@ -182,31 +182,33 @@ Vous éprouvez un besoin immense et redoutable qui vous pousse vers des sommets 
 
 *Exemples : la gloire et la renommée, les plaisirs charnels, le pouvoir sur autrui, les richesses et les biens, la fierté de mes ancêtres, le frisson du chaos, la destruction totale.*
 
-Vous souffrez de l'état supplémentaire « Insatisfait ». Cet état peut être marqué, verrouillé ou effacé comme n'importe quel autre état ; la règle « Atteindre vos limites » ne s'applique que lorsqu'il est marqué.
+Vous souffrez de l'état supplémentaire « Insatisfait ». Cet état peut être coché, verrouillé ou décoché comme n'importe quel autre état ; la Manœuvre « Atteindre vos limites » ne s'applique que lorsqu'il est coché.
 
-Tant que l'état « Insatisfait » est marqué, vous subissez un désavantage à toutes les Manoeuvre qui ne visent pas à satisfaire votre appétit.
+Tant que l'état « Insatisfait » est coché, vous subissez un désavantage à toutes les Manoeuvres qui ne visent pas à satisfaire votre appétit.
 
 Lorsque vous cherchez à satisfaire votre appétit, demandez au MJ comment y parvenir ici et maintenant ; il vous l'indiquera, généralement en y associant un risque ou un coût. Une fois l'appétit assouvi, décochez l'état « Insatisfait ». S'il est verrouillé, vous ne pouvez le décocher qu'en cédant à un excès gratuit, impliquant généralement un coût et/ou un risque extrêmes.
 ### Savourer la victoire
 
-Lorsque vous assouvissez un appétit à l'extrême (détruire quelque chose de précieux, acquérir une immense renommée, amasser des richesses colossales, etc.), en plus de supprimer l'état « Insatisfait », choisissez deux options :
+Lorsque vous assouvissez un appétit à l'extrême (détruire quelque chose de précieux, acquérir une immense renommée, amasser des richesses colossales, etc.), en plus de décocher l'état « Insatisfait », choisissez deux options :
 
 - Décocher un état supplémentaire
 - Gagner 1 point de Profondeur avec un PJ qui vous a aidé à l'assouvir
-- Marquer 1 point d'expérience (PX)
+- Marquer 1 point d'expérience (XP)
 - Réécrire l'un de vos appétits
 ### Parler franc
 
 Lorsque vous brisez les conventions sociales pour appeler les choses par leur vrai nom, lancez +CHA.
 - Sur un 10+, désignez une personne présente qui est d'accord et prête à vous aider, puis décochez un État.
 - Sur un 7-9, trouvez un allié ou décochez un État (au choix).
-- Sur un 6-, vous regretterez votre franchise ; cochez 1 PX et le MJ effectue une Manœuvre.
+- Sur un 6-, vous regretterez votre franchise ; cochez 1 XP et le MJ effectue une Manœuvre.
 ### Insatiable
 
 - Appétit ................
 
 Vous avez un second appétit. Quel est-il ? L'avez-vous toujours eu, ou l'avez-vous développé au fil du temps ?
+
 Tant que vous êtes Insatisfait, il vous suffit de satisfaire l'un de vos appétits pour éviter d'en subir la pénalité.
+
 Lorsque vous cherchez à satisfaire votre appétit, précisez au MJ de quel appétit il s'agit avant qu'il ne vous indique comment vous y prendre.
 ### Fort comme un taureau
 

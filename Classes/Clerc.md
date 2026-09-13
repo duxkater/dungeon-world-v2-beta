@@ -173,13 +173,13 @@ Lorsque vous vous exposez volontairement à une attaque ennemie, lancez +CHA ; s
 
 - Sur un 10+, ils se vantent et jacassent ; vous pouvez poser deux questions à leur sujet ou au sujet de leurs supérieurs.
 - Sur un 7-9, vous pouvez poser une question, mais après avoir répondu, ils passeront à l'attaque.
-- Sur un 6-, ils sont bien plus rusés ou puissants qu'ils n'en ont l'air (au choix du MJ) ; cochez 1 PX et le MJ effectue une Manœuvre.
+- Sur un 6-, ils sont bien plus rusés ou puissants qu'ils n'en ont l'air (au choix du MJ) ; cochez 1 XP et le MJ effectue une Manœuvre.
 ### Haruspicine
 
 Lorsque vous sacrifiez rituellement un objet ou un être important, posez à votre divinité une question concernant ce sacrifice ou un élément qui y est lié (propriétaires, proches, histoire, etc.) et lancez +SAG.
 - Sur un 10+, votre divinité vous montre une vision saisissante qui répond pleinement à votre question.
 - Sur un 7-9, la vision est énigmatique et devra être déchiffrée
-- Sur un 6-, votre vision contient un présage funeste ; cochez 1 PX et le MJ effectue une Manœuvre.
+- Sur un 6-, votre vision contient un présage funeste ; cochez 1 XP et le MJ effectue une Manœuvre.
 ### Vérité sacrée
 
 Une fois par séance, lorsque vous révélez publiquement la vérité sur un secret ou un mystère, vous gagnez 1 point de Profondeur auprès de votre divinité. Si une personne présente ne souhaite pas que cette vérité soit connue, vous bénéficiez également de l'avantage sur votre prochaine action lancée à son encontre.

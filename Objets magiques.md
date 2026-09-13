@@ -81,7 +81,7 @@ jeter +SAG pour établir un lien télépathique avec une bête aquatique.
 
 - Sur un 10+, vous prenez le contrôle total des actions de la créature jusqu'à la fin de la scène.
 - Sur un 7-9, vous pouvez donner à la créature un ordre unique et simple qu'elle exécutera au mieux de ses capacités.
-- Sur un 6-, la créature vous perçoit comme une menace ; cochez 1 PX et le MJ effectue une Manœuvre.
+- Sur un 6-, la créature vous perçoit comme une menace ; cochez 1 XP et le MJ effectue une Manœuvre.
 ## Arme redoutable
 
 Une arme dotée d'une garde-panier en or ouvragé et d'une longue lame d'acier fine.

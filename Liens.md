@@ -20,13 +20,13 @@ Vous vous soutenez mutuellement lors des combats et de leurs conséquences.
 	-> Au lieu d'accorder un avantage à son jet, vous pouvez ajouter vos dégâts aux siens. Ces dégâts restent soumis aux choix de minimum et de maximum.
 
 - [ ] Se défouler
-	Lorsque vous « Réconfortez ou Soutenez » votre partenaire en le défiant en duel, en vous battant ou en l'affrontant, il peut soit choisir une option supplémentaire, soit cocher 1 PX (au choix).
+	Lorsque vous « Réconfortez ou Soutenez » votre partenaire en le défiant en duel, en vous battant ou en l'affrontant, il peut soit choisir une option supplémentaire, soit cocher 1 XP (au choix).
 
 - [ ] Combo dévastateur
 	Lorsque vous « Échangez des coups » avec l'assistance de votre partenaire, sur un résultat de 12+, faites un choix supplémentaire parmi la liste du 10+.
 
 - [ ] Exercice d'entraînement
-	Lorsque vous « Établissez le camp », votre partenaire et vous pouvez choisir la même Condition. Jusqu'au prochain campement, vous ignorez tous deux les pénalités liées à cette Condition.
+	Lorsque vous « Établissez le camp », votre partenaire et vous pouvez choisir la même état. Jusqu'au prochain campement, vous ignorez tous deux les pénalités liées à cette état.
 # Champions
 
 Vous partagez tous deux un ensemble de croyances, de principes moraux, de valeurs   ou peut-être une foi.
@@ -34,7 +34,7 @@ Vous partagez tous deux un ensemble de croyances, de principes moraux, de valeur
 Votre Cause : (*ex. : pas de monarques, protéger les innocents, répandre votre foi.*)
 
 - [ ] Une Vision unique
-À la fin de la séance, demandez-vous : « Avons-nous soutenu notre cause de manière significative ? » Si la réponse est « Oui », vous gagnez chacun 1 PX.
+À la fin de la séance, demandez-vous : « Avons-nous soutenu notre cause de manière significative ? » Si la réponse est « Oui », vous gagnez chacun 1 XP.
 
 - [ ] Renvoyer l'ascenseur
 Lorsque vous aidez ou sauvez un PNJ pertinent, celui-ci soutient désormais votre Cause. Une fois par campagne et par PNJ aidé ou sauvé, vous pouvez solliciter son aide ; il apparaîtra dès que possible pour vous aider à surmonter la situation critique dans laquelle vous vous trouvez.
@@ -90,7 +90,7 @@ L'un protège et guide l'autre à travers la vie et ses dangers.
 Je suis le ☐ Mentor ☐ Protégé
 
 - [ ] Paroles de sagesse
-Une fois par séance, lorsque le Mentor donne un conseil ou une orientation au Protégé, il lui indique ce qu'il devrait faire. Si le Protégé accepte, son premier jet pour accomplir cette action bénéficie d'un avantage. S'il refuse, le Mentor coche un état mais le Protégé en efface un. Dans les deux cas, si le Protégé finit par réussir l'action, il gagne 1 PX et le Mentor efface un état.
+Une fois par séance, lorsque le Mentor donne un conseil ou une orientation au Protégé, il lui indique ce qu'il devrait faire. Si le Protégé accepte, son premier jet pour accomplir cette action bénéficie d'un avantage. S'il refuse, le Mentor coche un état mais le Protégé en efface un. Dans les deux cas, si le Protégé finit par réussir l'action, il gagne 1 XP et le Mentor efface un état.
 
 - [ ] La forme la plus sincère de flatterie
 Lorsque le Mentor Perçe à jour, il peut toujours poser une question supplémentaire au Protégé, même s'il sonde quelqu'un d'autre.
@@ -101,14 +101,14 @@ Une fois par séance chacun, le Mentor et le Protégé peuvent Aider l'autre san
 
 - [ ] Sacrifice héroïque
 Lorsque le Protégé Affronte la mort, le Mentor peut prendre sa place, effaçant ainsi un état (et rejoignant la scène s'il en était absent).
-Si le Mentor meurt, il peut offrir au Protégé un ultime conseil, sur le moment ou en se référant à leur dernière conversation. Dès lors et jusqu'à ce qu'il revoie le Mentor (si cela arrive un jour), si le Protégé termine la séance en ayant suivi ce conseil, il gagne 1 PX.
+Si le Mentor meurt, il peut offrir au Protégé un ultime conseil, sur le moment ou en se référant à leur dernière conversation. Dès lors et jusqu'à ce qu'il revoie le Mentor (si cela arrive un jour), si le Protégé termine la séance en ayant suivi ce conseil, il gagne 1 XP.
 # Rivaux
 
 Vous refusez chacun de vous laisser surpasser par l'autre.
 
 - [ ] Toujours en compétition
 Au début de chaque session, aucun de vous n'a l'avantage.
-À la fin de la session, celui qui détient l'avantage gagne 1 PX. Un seul d'entre vous peut détenir l'avantage à la fois.
+À la fin de la session, celui qui détient l'avantage gagne 1 XP. Un seul d'entre vous peut détenir l'avantage à la fois.
 Lorsque vous réussissez un exploit impressionnant ou une Manœuvre périlleuse, demandez à votre rival s'il est d'accord. S'il l'est, prenez l'avantage.
 S'il ne l'est pas, soit vous gagnez un avantage sur votre prochain jet, soit vous décochez 1 point de Profondeur avec lui pour prendre l'avantage malgré tout (à vous de choisir).
 
