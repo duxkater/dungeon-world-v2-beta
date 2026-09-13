@@ -28,7 +28,7 @@ Le MJ doit refléter le Conflit d'un PJ dans l'univers en :
 
 Une fois votre Conflit résolu, passez au niveau supérieur (sans effacer vos PX), effacez le Conflit et perdez ses avantages (+) et inconvénients (-). Effacez la case d'Avancement « Révéler un Conflit » si elle était cochée ; vous pourrez choisir un nouveau Conflit ultérieurement.
 
-Découvrez les défis liés aux mouvements de campagne dans la bêta de DW2 Démarrage rapide.
+Découvrez les défis liés aux Manœuvres de campagne dans la bêta de DW2 Démarrage rapide.
 # Amnésique
 
 Souvenirs : O O O O O

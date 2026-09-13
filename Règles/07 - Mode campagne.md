@@ -12,7 +12,7 @@ Lorsque vous passez quelques jours à vous reposer dans un lieu sûr, vous pouve
 # Forger un lien
 
 Lorsque deux personnages-joueurs atteignent un niveau de Profondeur de 3 l'un envers l'autre, effacez les deux pistes ainsi que les Relations, puis choisissez l'une des options suivantes :
-- **Établir un nouveau lien.** Choisissez un lien ; inscrivez-le sur les deux fiches de personnage à la place des Relations. Si vous partagiez un autre lien, effacez-le ; chacun de vous coche 1 PX pour chaque mouvement avancé de lien qu'il avait débloqué.
+- **Établir un nouveau lien.** Choisissez un lien ; inscrivez-le sur les deux fiches de personnage à la place des Relations. Si vous partagiez un autre lien, effacez-le ; chacun de vous coche 1 PX pour chaque maneouvre avancée de lien qu'il avait débloqué.
 - **Renforcer un lien existant.** Débloquez une nouvelle Manœuvre avancée associée à ce lien.
 -  **« Comment te sens-tu vraiment ? »** Posez-vous mutuellement au moins une question sur les pensées, les sentiments ou les motivations de votre personnage. Si vous répondez tous deux avec sincérité, chacun coche 1 PX ou efface 1 État verrouillé.
 

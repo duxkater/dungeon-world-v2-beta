@@ -109,7 +109,7 @@ Les éléments sabotés affectent les Développements et les Réactions
 - [ ] Sacrifier sa propre force vitale (celle de La Fileuse) pour achever le rituel ; elle se retrouve ensuite mortellement affaiblie jusqu'au retour du printemps
 ## Réactions
 
-À activer comme des manoeuvres de MJ
+À activer comme des Manœuvres de MJ
 - [ ] Modifier la configuration de Sleuth Wood pour égarer magiquement les PJ
 - [ ] Ordonner aux Arbres Éveillés de détruire Glen-kar
 - [ ] Envoyer Wildheart et la Garde de la Haie traquer les PJ

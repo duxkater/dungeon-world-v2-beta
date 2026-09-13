@@ -179,6 +179,7 @@ Audacieux et rusé dans la planification, ferme et persévérant dans l'exécuti
 ### Plans dans les plans
 
 Lorsque vous entrez en situation de combat, gagnez des points de Préparation égaux à votre valeur d'Intelligence (minimum 1). Lorsque le combat prend fin, vous perdez toute votre Préparation. Durant le combat, vous pouvez dépenser 1 point de Préparation pour exécuter l'un des stratagèmes suivants :
+
 - Charge ! — Vous et des alliés consentants foncez sur des ennemis différents ; tous ceux qui chargent ou sont chargés bénéficient de l'avantage sur leur prochain jet de dégâts.
 - Manœuvre coordonnée — Aidez un PJ sans coût ni risque ; à quoi cela ressemble-t-il ?
 - Marteau et enclume — Attirez l'attention d'un ennemi ; subissez 1 point de dégâts (perçants) et conférez l'avantage à un allié pour son prochain « Échange de coups » contre cet ennemi.

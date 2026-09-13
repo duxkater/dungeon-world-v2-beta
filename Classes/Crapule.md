@@ -114,19 +114,19 @@ Attaque sournoise — Lorsque vous Échangez des coups +Dex, si votre adversaire
 - Sur un 7-9, vous subissez les dégâts minimums.
 ### Toujours une échappatoire
 
-Lorsque vous êtes dans une situation critique et que vous cherchez une issue, lancez +Dex. 
+Lorsque vous êtes dans une situation critique et que vous cherchez une issue, lancez +DEX. 
 - Sur un 10+, vous et vos alliés parvenez à vous échapper.
 - Sur un 7-9, vous devez laisser quelque chose derrière vous ; le MJ dira quoi.
 - Sur un 6-, c’était une ruse ou un piège ; cochez 1 PX et le MJ effectue une Manoeuvre.
 ### Embuscade
 
-Lorsque vous prenez en embuscade un adversaire surpris ou sans défense avec une arme #précise, vous pouvez lancer les dégâts normalement ou, à la place, lancer +Dex.
+Lorsque vous prenez en embuscade un adversaire surpris ou sans défense avec une arme #précise, vous pouvez lancer les dégâts normalement ou, à la place, lancer +DEX.
 - Sur un 10+, choisissez deux options parmi les suivantes.
 - Sur un 7-9, une seule :
 	- Réduisez la réduction de dégâts de son armure de 1 jusqu’à ce qu’elle soit réparée
 	- Neutralisez une arme ou une autre forme d’attaque jusqu’à ce qu’il la récupère
 	- Infligez vos dégâts +1d6
-- Sur un 6-, il était prêt ; cochez 1 PX et le MJ effectue un mouvement.
+- Sur un 6-, il était prêt ; cochez 1 PX et le MJ effectue une Manœuvre.
 ### Maîtrise des poisons
 
 Vous bénéficiez d’un avantage pour Défier le danger face aux poisons et vous disposez d’un kit d’empoisonneur (3 utilisations). Cochez une case pour fabriquer un poison sur-le-champ ; énoncez son effet, puis choisissez-en deux parmi les options suivantes :
@@ -210,7 +210,7 @@ Si vous ne possédez pas la Manoeuvre de départ Ficelles du métier, vous l’o
 
 Opérateur hors pair — Lorsque vous vous déguisez pour incarner quelqu’un d’autre, obtenez une valeur de Masque égale à votre CHA (min. 1). Vous pouvez dépenser des points de Masque, à raison d’un pour un, pour déjouer automatiquement toute suspicion. Lorsque votre Masque tombe à 0,
 
-jetez +CHA. ✴Sur 10+, personne n’y voit que du feu ; gagnez 1 point de Masque. ✴Sur 7-9, quelqu’un a des soupçons ; le MJ précise qui. ✴Sur 6-, votre couverture est grillée ; cochez 1 PX et le MJ effectue un mouvement.
+jetez +CHA. ✴Sur 10+, personne n’y voit que du feu ; gagnez 1 point de Masque. ✴Sur 7-9, quelqu’un a des soupçons ; le MJ précise qui. ✴Sur 6-, votre couverture est grillée ; cochez 1 PX et le MJ effectue une Manœuvre.
 ### Tour de passe-passe
 
 Lorsque vous quittez une pièce ou un lieu, vous pouvez désigner un petit objet que vous avez aperçu, que personne n’utilisait et auquel personne ne prêtait attention. Vous l’avez emporté avec vous.

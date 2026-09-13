@@ -142,7 +142,7 @@ Certains petits boucliers, comme les bocles, vous permettent d'ignorer la moiti�
 
 ## Expérience (XP)
 
-Au fil du temps, les personnages-joueurs (PJ) gagnent en puissance, ce qui se traduit par l'accumulation de points d'expérience (XP). Le total d'XP est suivi individuellement pour chaque PJ. Il commence à 0 ; les joueurs le mettent à jour chaque fois qu'une capacité (ou « mouvement ») indique de « marquer 1 XP », le plus souvent lors d'un résultat de 6 ou moins aux dés ou en répondant aux questions de fin de séance.
+Au fil du temps, les personnages-joueurs (PJ) gagnent en puissance, ce qui se traduit par l'accumulation de points d'expérience (XP). Le total d'XP est suivi individuellement pour chaque PJ. Il commence à 0 ; les joueurs le mettent à jour chaque fois qu'une Manœuvre indique de « marquer 1 XP », le plus souvent lors d'un résultat de 6 ou moins aux dés ou en répondant aux questions de fin de séance.
 ## Niveau
 
 Le niveau représente la progression globale d'un PJ ; il commence à 1.

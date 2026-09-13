@@ -161,4 +161,4 @@ Utilisations O
 
 *Cette potion bleue bouillonne et dégage de la vapeur comme si elle était en ébullition.*
 
-Lorsque vous buvez cette potion, vous bénéficiez d'un bonus de +1d4 à votre prochain jet de mouvement et à votre prochain jet de dégâts. De plus, la prochaine fois que vous affrontez la mort, si vous choisissez de tenter votre chance face à elle, vous bénéficiez de l'avantage.
+Lorsque vous buvez cette potion, vous bénéficiez d'un bonus de +1d4 à votre prochaine Manœuvre et à votre prochain jet de dégâts. De plus, la prochaine fois que vous affrontez la mort, si vous choisissez de tenter votre chance face à elle, vous bénéficiez de l'avantage.

@@ -187,13 +187,13 @@ Une « influence extérieure » peut prendre la forme d'une magie émotionnelle,
 Lorsque vous sollicitez l'aide d'un PNJ approprié, lancez +CHA. Si vous lui devez une faveur (à votre discrétion) ou si vous détenez une dette à son encontre, lancez les dés avec avantage.
 - Sur un 10+, il est disponible et en mesure de vous aider
 - Sur un 7-9, il est en difficulté et ne peut vous aider tant que ce problème n'est pas réglé.
-- Sur un 6-, vous ne trouvez que trahison ou tragédie ; cochez 1 PX et le MJ effectue un mouvement.
+- Sur un 6-, vous ne trouvez que trahison ou tragédie ; cochez 1 PX et le MJ effectue une Manœuvre.
 ### Pourparlers !
 
 Lorsque vous demandez une trêve ou un cessez-le-feu, lancez +CHA. Si vous savez ce que toutes les autres parties désirent (ou si vous détenez une Dette à leur encontre), lancez les dés avec avantage.
 - Sur un 10+, les hostilités sont suspendues et vous avez l'occasion de négocier ; vous pouvez également leur poser une question comme si vous aviez Percé à jour.
 - Sur un 7-9, vous avez seulement l'occasion de négocier.
-- Sur un 6-, ils interprètent mal ou exploitent vos intentions ; cochez 1 PX et le MJ effectue un mouvement.
+- Sur un 6-, ils interprètent mal ou exploitent vos intentions ; cochez 1 PX et le MJ effectue une Manœuvre.
 ## Bretteur
 
 Il y a de la beauté en toute chose, même dans le combat !
