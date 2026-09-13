@@ -189,7 +189,7 @@ Lorsque vous entrez en situation de combat, gagnez des points de Préparation é
 Lorsque vous décidez de détruire quelque chose (bâtiment, obstacle, artefact magique, etc.), traitez l'action comme « Accomplir un rituel ». Si cela se produit durant un combat, vous pouvez dépenser de la Préparation (taux de 1 pour 1) pour annuler une exigence, sauf la dernière.
 ### Instincts aiguisés
 
-Lorsque vous avez un mauvais pressentiment concernant une situation à venir (à votre discrétion), cochez un État, puis demandez au MJ comment l'éviter ou vous y préparer. Que votre intuition soit juste ou non, le MJ vous donnera un conseil ; effacez un État si vous le suivez.
+Lorsque vous avez un mauvais pressentiment concernant une situation à venir (à votre discrétion), cochez un État, puis demandez au MJ comment l'éviter ou vous y préparer. Que votre intuition soit juste ou non, le MJ vous donnera un conseil ; décochez un État si vous le suivez.
 ### Anciens compagnons et ex-ennemis
 
 Lorsque vous partez à la recherche d'une personne croisée lors d'une bataille passée (allié ou ennemi), choisissez une option dans la liste suivante — ou deux si vous avez une dette envers elle ou si vous l'avez mise en danger (à votre discrétion) :

@@ -69,7 +69,7 @@ Intérêt commun : ( *ex. : cuisine, histoire secrète, magie, combats d'arène,
 
 - [ ] Joie de la découverte
 Une fois par session, lorsque vous découvrez quelque chose de nouveau lié à
-votre intérêt, effacez un état. Si votre partenaire est présent lors de
+votre intérêt, décochez un état. Si votre partenaire est présent lors de
 la découverte, ou lorsque vous lui en parlez ou la lui montrez plus tard,
 choisissez une option de Réconforter et Soutenir.
 
@@ -110,7 +110,7 @@ Vous refusez chacun de vous laisser surpasser par l'autre.
 Au début de chaque session, aucun de vous n'a l'avantage.
 À la fin de la session, celui qui détient l'avantage gagne 1 PX. Un seul d'entre vous peut détenir l'avantage à la fois.
 Lorsque vous réussissez un exploit impressionnant ou une Manœuvre périlleuse, demandez à votre rival s'il est d'accord. S'il l'est, prenez l'avantage.
-S'il ne l'est pas, soit vous gagnez un avantage sur votre prochain jet, soit vous effacez 1 point de Profondeur avec lui pour prendre l'avantage malgré tout (à vous de choisir).
+S'il ne l'est pas, soit vous gagnez un avantage sur votre prochain jet, soit vous décochez 1 point de Profondeur avec lui pour prendre l'avantage malgré tout (à vous de choisir).
 
 - [ ] Essayer de suivre le rythme
 Lorsque vous prenez l'avantage, vous pouvez provoquer votre rival pour décocher un État. Si vous le faites, il gagne un avantage sur son prochain jet.
@@ -156,5 +156,5 @@ Vous découvrez le plus grand secret de votre divinité ainsi que la manière de
 -> Cela détruira ou emprisonnera votre divinité.
 -> Vous accéderez au rang de divinité ; votre personnage prendra sa retraite.
 -> Vous pourrez altérer fondamentalement le monde d’une manière liée aux domaines de votre divinité.
-Une fois ce secret libéré, effacez ce Lien. Vous ne pourrez plus jamais le former avec cette divinité.
+Une fois ce secret libéré, supprimez ce Lien. Vous ne pourrez plus jamais le former avec cette divinité.
 Comment cela affecte-t-il votre perception de votre divinité ? Sait-elle que vous connaissez son secret ?

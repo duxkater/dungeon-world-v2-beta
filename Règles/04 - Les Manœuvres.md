@@ -4,7 +4,7 @@
 Lorsque vous aidez un autre personnage-joueur, celui-ci bénéficie de l'avantage sur ses jets. Avant qu'il ne lance les dés, vous devez choisir l'une des options suivantes :
 - C'est risqué : toutes les conséquences qui en découlent vous affectent également.
 - C'est éprouvant : cochez un état.
-- Ils vous frustrent : effacez 1 point de Profondeur avec eux.
+- Ils vous frustrent : décochez 1 point de Profondeur avec eux.
 
 >« S'exposer aux mêmes risques et conséquences » signifie que ces conséquences s'appliquent intégralement aux deux PJ (celui qui aide et celui qui est aidé), plutôt que d'être partagées entre eux. Par exemple, si le PJ aidé subit des dégâts, le PJ qui l'aide en subit autant. Si l'un est pris et capturé, l'autre l'est aussi.
 ## Lancer un sort (+Variable)

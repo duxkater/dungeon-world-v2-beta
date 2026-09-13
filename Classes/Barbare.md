@@ -133,7 +133,7 @@ Une fois cela fait, vous perdez l'accès à cette Manoeuvre jusqu'à ce que vous
 *On ne peut pas arracher la terre natale du…*
 ### D'où je viens…
 
-Lorsque vous racontez à quelqu'un une histoire inédite au sujet de votre terre natale (ou de ses coutumes, récits, traditions, etc.), cochez une question ci-dessous, répondez-y et effacez un état. Une fois les cinq questions cochées, gagnez 1 PX et effacez toutes les questions.
+Lorsque vous racontez à quelqu'un une histoire inédite au sujet de votre terre natale (ou de ses coutumes, récits, traditions, etc.), cochez une question ci-dessous, répondez-y et décochez un état. Une fois les cinq questions cochées, gagnez 1 PX et décochez toutes les questions.
 
 - [ ] Quel défaut ou échec de votre terre natale vous préoccupe encore ?
 - [ ] Quels héros ou monstres figurent dans les récits de votre terre natale ?
@@ -163,7 +163,7 @@ Options :
 - Sur un 6-, choisissez une option, mais les gardiens n'accepteront plus vos sacrifices tant que vous n'aurez pas satisfait une de leurs exigences ; cochez 1 PX et le MJ effectue une Manœuvre.
 ### Fouler les trônes sertis de joyaux
 
-Lorsque vous Percez à jour une personne plus puissante que vous (sur le plan politique, physique, économique, etc.), vous pouvez également lui demander : « Comment puis-je le mieux vous ruiner ou vous humilier ? ». Si vous y parvenez, gagnez 1 PX et effacez un État.
+Lorsque vous Percez à jour une personne plus puissante que vous (sur le plan politique, physique, économique, etc.), vous pouvez également lui demander : « Comment puis-je le mieux vous ruiner ou vous humilier ? ». Si vous y parvenez, gagnez 1 PX et décochez un État.
 ### Intuition infaillible
 
 Lorsque vous arrivez dans un lieu que vous n’avez jamais visité, votre instinct vous en dit bien plus que vos sens ne le pourraient ; lancez +SAG.
@@ -186,7 +186,7 @@ Vous souffrez de l'état supplémentaire « Insatisfait ». Cet état peut être
 
 Tant que l'état « Insatisfait » est marqué, vous subissez un désavantage à toutes les Manoeuvre qui ne visent pas à satisfaire votre appétit.
 
-Lorsque vous cherchez à satisfaire votre appétit, demandez au MJ comment y parvenir ici et maintenant ; il vous l'indiquera, généralement en y associant un risque ou un coût. Une fois l'appétit assouvi, effacez l'état « Insatisfait ». S'il est verrouillé, vous ne pouvez le décocher qu'en cédant à un excès gratuit, impliquant généralement un coût et/ou un risque extrêmes.
+Lorsque vous cherchez à satisfaire votre appétit, demandez au MJ comment y parvenir ici et maintenant ; il vous l'indiquera, généralement en y associant un risque ou un coût. Une fois l'appétit assouvi, décochez l'état « Insatisfait ». S'il est verrouillé, vous ne pouvez le décocher qu'en cédant à un excès gratuit, impliquant généralement un coût et/ou un risque extrêmes.
 ### Savourer la victoire
 
 Lorsque vous assouvissez un appétit à l'extrême (détruire quelque chose de précieux, acquérir une immense renommée, amasser des richesses colossales, etc.), en plus de supprimer l'état « Insatisfait », choisissez deux options :

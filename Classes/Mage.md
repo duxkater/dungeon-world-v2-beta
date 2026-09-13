@@ -157,7 +157,7 @@ Vous gagnez la Manoeuvre de départ du Mage Tisser les arcanes, mais vous n'avez
 
 Si vous possédez déjà cette capacité, ajoutez plutôt les verbes « rendre permanent » et « matérialiser » au répertoire de l'école d'Illusion ; de plus, lorsque vous « Établissez le camp », vous pouvez toujours cocher Illusion en plus de vos écoles préparées habituelles.
 
-Farceur — Une fois par scène, lorsqu'une personne croit à un mensonge dû à l'une de vos illusions, effacez un État.
+Farceur — Une fois par scène, lorsqu'une personne croit à un mensonge dû à l'une de vos illusions, décochez un État.
 ### Altération de la perception
 
 Lorsque vous touchez quelqu'un ou quelque chose, vous pouvez modifier l'un de ses aspects perceptibles sans lancer de sort ; cochez un État si la cible s'y oppose. Par exemple, vous pouvez changer l'ascendance, la tenue ou l'accent perçus d'une personne, ou faire paraître un objet magique, flambant neuf ou composé d'une autre matière. Cet effet dure jusqu'à ce que vous y mettiez fin ou jusqu'à la fin de la scène.

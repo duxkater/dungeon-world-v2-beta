@@ -165,12 +165,12 @@ Chance :
 - [ ] .
 - [ ] .
 
-Lorsque vous choisissez cette capacité, vous gagnez un score de Chance égal à votre Sag (min. 1).
+Lorsque vous choisissez cette capacité, vous gagnez un score de Chance égal à votre SAG (min. 1).
 
 Lorsque vous Défiez le danger ou Échangez des coups,
 - Sur un 7-9, vous pouvez cocher une case de Chance au lieu de choisir les autres options.
 
-Lorsque vous Profitez d'un temps mort , vous pouvez dépenser 1 Trésor pour aider un PNJ et regagner ainsi de la Chance à hauteur de votre Sag (min. 1).
+Lorsque vous Profitez d'un temps mort , vous pouvez dépenser 1 Trésor pour aider un PNJ et regagner ainsi de la Chance à hauteur de votre SAG (min. 1).
 ### Effraction
 
 Lorsque vous décidez de voler quelque chose, nommez l'objet et posez au MJ un nombre de questions égal à votre SAG (min. 1) ; il y répondra honnêtement.

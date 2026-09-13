@@ -26,7 +26,7 @@ Le MJ doit refléter le Conflit d'un PJ dans l'univers en :
 - Mettant en scène ses avantages et inconvénients sans retenue
 - Présentant des opportunités de le résoudre au moment opportun
 
-Une fois votre Conflit résolu, passez au niveau supérieur (sans décocher vos XP), effacez le Conflit et perdez ses avantages (+) et inconvénients (-). Effacez la case d'Avancement « Révéler un Conflit » si elle était cochée ; vous pourrez choisir un nouveau Conflit ultérieurement.
+Une fois votre Conflit résolu, passez au niveau supérieur (sans décocher vos XP), supprimez le Conflit et perdez ses avantages (+) et inconvénients (-). Effacez la case d'Avancement « Révéler un Conflit » si elle était cochée ; vous pourrez choisir un nouveau Conflit ultérieurement.
 
 Découvrez les défis liés aux Manœuvres de campagne dans la bêta de DW2 Démarrage rapide.
 # Amnésique
@@ -70,7 +70,7 @@ Une voix vous révèle des vérités que vous ne pourriez connaître et des mens
 
 - **Questions** : Comment la voix communique-t-elle avec vous ? Au sujet de quel autre PJ vous a-t-elle mis en garde ? Comment vous a-t-elle aidé alors que personne d’autre ne le pouvait ?
 - **Diablotin sur l’épaule (+)** Votre Murmureur des ténèbres est un PNJ que personne d’autre ne peut percevoir et contre lequel vous ne pouvez pas utiliser l’action Percer à jour. Lorsque vous posez une question à votre Murmureur, il vous dit généralement la vérité ou ce qu’il souhaite que vous fassiez ensuite. Si vous acceptez ses paroles, vous obtenez l’avantage sur votre prochain jet, mais vous devez cocher une case « Murmure » (maximum 5).
-- **Marionnette d’ombre (-)** Lorsque vous tentez de rejeter les paroles de votre Murmureur, lancez les dés + Murmures, puis effacez vos cases « Murmure ».
+- **Marionnette d’ombre (-)** Lorsque vous tentez de rejeter les paroles de votre Murmureur, lancez les dés + Murmures, puis décochez vos cases « Murmure ».
 	- Sur un résultat de 6 ou moins, vous le faites taire ; cochez 1 case d’XP.
 	- Sur un 7-9, ses paroles résonnent dans votre esprit ; cochez deux états.
 	- Sur un 10+, vous lui obéissez, peut-être sans même vous en rendre compte. Cochez 1 XP et le MJ effectue une Manœuvre.
@@ -88,7 +88,7 @@ Fatalité O O O O O
 Une terrible affliction vous coûtera la vie (ou pire), à ​​moins que vous ne parveniez à trouver un remède.
 
 - **Questions :** Comment avez-vous contracté cette affliction ? Quels en sont les symptômes à ce jour ? Quelle piste incertaine suivez-vous pour trouver un remède ?
-- **Bons jours (+)** Lorsque vous terminez la séance, demandez au groupe : « Ai-je appris quelque chose sur mon affliction ou réalisé des progrès notables vers un remède ? » Si la réponse est « Oui », notez 1 PX, effacez un État et retirez 1 point de Fatalité.
+- **Bons jours (+)** Lorsque vous terminez la séance, demandez au groupe : « Ai-je appris quelque chose sur mon affliction ou réalisé des progrès notables vers un remède ? » Si la réponse est « Oui », notez 1 PX, décochez un État et retirez 1 point de Fatalité.
 - **Mauvais jours (-)** Si la réponse à la question précédente est « Non », notez 1 point de Fatalité et un État. La Fatalité commence à 0 et représente la progression de votre affliction. À 5 points de Fatalité, il est trop tard pour un remède ; votre affliction aura raison de vous lors de la prochaine séance.
 - **Pas comme ça (+)** Lorsque vous devriez Affronter la mort, vous pouvez choisir d'Invoquer votre Fatalité : expliquez comment votre affliction (ou la façon dont les autres la perçoivent) vous aide à survivre, puis notez 1 point de Fatalité et récupérez 1 PV.
 # Héros populaire
@@ -103,7 +103,7 @@ Vous avez autrefois sauvé une humble communauté par vos propres moyens, et cer
 Vous et un PNJ êtes éperdument amoureux, mais vous devez rester séparés.
 
 - **Questions :** Qui est l’être aimé ? Quel obstacle insurmontable se dresse entre vous ? Quelle solution improbable pourrait vous réunir ?
-- **Le pouvoir de l’amour (+)** Une fois par séance, lorsque vous partagez un souvenir de l’être aimé avec un autre PJ, effacez un nombre d’États égal à votre niveau de Profondeur avec lui (min. 1).
+- **Le pouvoir de l’amour (+)** Une fois par séance, lorsque vous partagez un souvenir de l’être aimé avec un autre PJ, décochez un nombre d’États égal à votre niveau de Profondeur avec lui (min. 1).
 - **Point faible (-)** Lorsque vous apprenez que l’être aimé est en danger, cochez un État, plus un autre si vous n’abandonnez pas immédiatement tout le reste pour tenter de le sauver.
 # Traqué
 
@@ -113,7 +113,7 @@ Une personne ou une organisation puissante vous traque activement.
 
 - **Questions :** Qui mène la traque contre vous ? Comment ont-ils failli vous capturer par le passé ? Qu'avez-vous sacrifié pour leur échapper ?
 - **Attrapez-moi si vous pouvez (+)** Lorsque vous devriez cocher un état, vous pouvez cocher « Pression » à la place. Comment laissez-vous des traces de votre passage ? Lorsque vous profitez d'un temps de repos, vous pouvez dépenser 1 Trésor pour décocher votre Pression.
-- **Règlement de comptes (-)** Lorsque vous atteignez 3 points de Pression, ou que vous établissez un campement avec au moins 1 point de Pression, lancez les dés + Pression puis effacez votre Pression.
+- **Règlement de comptes (-)** Lorsque vous atteignez 3 points de Pression, ou que vous établissez un campement avec au moins 1 point de Pression, lancez les dés + Pression puis décochez votre Pression.
 	- Sur un 10+, les chasseurs arrivent en force, ici et maintenant.
 	- Sur un 7-9, les chasseurs arrivent, mais vous avez une chance d'agir avant qu'ils ne vous repèrent.
 	- Sur un 6-, les chasseurs passent dangereusement près de vous trouver, mais vous vous éclipsez ; cochez 1 PX.
@@ -174,7 +174,7 @@ Vous avez commis des actes terribles par le passé et cherchez aujourd'hui à vo
 
 - **Questions :** Quel PJ était autrefois votre ennemi ? Qui ne croit pas que vous avez changé ? Que regrettez-vous le plus ?
 - **Tourmenté (+)(-)** Vous commencez avec 2 points de Culpabilité ; notez-les dès maintenant. Lorsque vous agissez par égoïsme, vous pouvez cocher un point de Culpabilité pour obtenir l'avantage sur un jet. Si vous avez moins d'états cochés et verrouillés que de points de Culpabilité — y compris lorsque vous adoptez ce Conflit pour la première fois —, cochez immédiatement des états jusqu'à ce que les deux valeurs correspondent.
-- **Réparations (+)** Une fois par séance, lorsque vous apportez une aide significative à un PNJ (à l'appréciation du MJ), effacez 1 point de Culpabilité et un état.
+- **Réparations (+)** Une fois par séance, lorsque vous apportez une aide significative à un PNJ (à l'appréciation du MJ), décochez 1 point de Culpabilité et un état.
 - **Châtiment (-)** Lorsque vous échangez des coups avec une personne issue de votre sombre passé, ajoutez votre valeur de Culpabilité à tous les dégâts que vous lui infligez.
 # Renommé
 
@@ -188,7 +188,7 @@ Les récits de vos exploits se sont répandus au loin. Certains sont vrais, d'au
 Vous avez gardé votre véritable identité secrète jusqu’ici, et les mauvaises personnes sont à votre recherche.
 
 - **Questions :** Quels sont votre véritable nom et votre apparence ? Qui sont ces « mauvaises personnes » ? Pour quel sinistre projet vous recherchent-elles ?
-- **Héritier (+)** Une fois par séance, vous pouvez cocher l’une des cases suivantes pour obtenir un accès temporaire à : ☐savoir ancestral ☐ressources abondantes ☐trésor emblématique ☐alliés puissants ☐source de magie unique. Lorsque vous reprenez votre véritable identité, effacez l’une des cases.
+- **Héritier (+)** Une fois par séance, vous pouvez cocher l’une des cases suivantes pour obtenir un accès temporaire à : ☐savoir ancestral ☐ressources abondantes ☐trésor emblématique ☐alliés puissants ☐source de magie unique. Lorsque vous reprenez votre véritable identité, décochez l’une des cases.
 - **Démasqué (-)** Lorsque votre véritable identité est révélée, le MJ peut faire en sorte que les mauvaises personnes apprennent votre existence ou faire progresser une Menace (au choix du MJ).
 # Traumatisé
 

@@ -12,9 +12,9 @@ Lorsque vous passez quelques jours à vous reposer dans un lieu sûr, vous pouve
 # Forger un lien
 
 Lorsque deux personnages-joueurs atteignent un niveau de Profondeur de 3 l'un envers l'autre, effacez les deux pistes ainsi que les Relations, puis choisissez l'une des options suivantes :
-- **Établir un nouveau lien.** Choisissez un lien ; inscrivez-le sur les deux fiches de personnage à la place des Relations. Si vous partagiez un autre lien, effacez-le ; chacun de vous coche 1 PX pour chaque maneouvre avancée de lien qu'il avait débloqué.
+- **Établir un nouveau lien.** Choisissez un lien ; inscrivez-le sur les deux fiches de personnage à la place des Relations. Si vous partagiez un autre lien, supprimez-le ; chacun de vous coche 1 PX pour chaque maneouvre avancée de lien qu'il avait débloqué.
 - **Renforcer un lien existant.** Débloquez une nouvelle Manœuvre avancée associée à ce lien.
--  **« Comment te sens-tu vraiment ? »** Posez-vous mutuellement au moins une question sur les pensées, les sentiments ou les motivations de votre personnage. Si vous répondez tous deux avec sincérité, chacun coche 1 PX ou efface 1 État verrouillé.
+-  **« Comment te sens-tu vraiment ? »** Posez-vous mutuellement au moins une question sur les pensées, les sentiments ou les motivations de votre personnage. Si vous répondez tous deux avec sincérité, chacun coche 1 PX ou décoche 1 État verrouillé.
 
 >Si un PJ a déjà un niveau de Profondeur de 3 avec un autre, ils ne déclencheront pas cette action tant que ce niveau de 3 n'aura pas été égalé par l'autre partie. S'ils devaient atteindre un niveau de Profondeur de 4 avec ce PJ, il ne se passe rien. N'oubliez pas que vous pouvez dépenser de la Profondeur pour porter assistance à un PJ.
 # Révéler un Conflit
@@ -23,7 +23,7 @@ Lorsque vous installez votre campement alors qu'un Etat est verrouillé, ou lors
 
 Vous ne pouvez avoir qu'un seul Conflit révélé à la fois.
 
-Une fois votre Conflit révélé résolu, montez de niveau (en conservant l'XP marquée), effacez le Conflit et perdez à la fois son Avantage (+) et son Inconvénient (-). Effacez la case de Progression si elle est cochée ; vous pourrez choisir un nouveau Conflit ultérieurement.
+Une fois votre Conflit révélé résolu, montez de niveau (en conservant l'XP marquée), suprimez le Conflit et perdez à la fois son Avantage (+) et son Inconvénient (-). Effacez la case de Progression si elle est cochée ; vous pourrez choisir un nouveau Conflit ultérieurement.
 
 >C’est à vous de choisir la terrible vérité que vous souhaitez avouer au sujet de votre Conflit, mais voici quelques exemples :
 >- Un ennemi puissant connaît tout de votre Conflit et sait comment l’exploiter

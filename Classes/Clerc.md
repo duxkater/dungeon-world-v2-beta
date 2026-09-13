@@ -59,7 +59,7 @@ Vous entretenez un lien étroit avec une divinité qui vous donne le pouvoir de 
 Vous pouvez Lancer un sort +SAG pour produire tout effet relevant du ou des domaines de votre divinité. Pour lancer un sort, vous devez invoquer le nom de votre divinité à voix haute. Définissez une relation de niveau 2 avec elle.
 
 Lorsque vous lancez un sort de cette manière, votre option unique pour un résultat de 7 à 9 est :
-- votre divinité désapprouve ; effacez 1 point de Profondeur avec elle.
+- votre divinité désapprouve ; décochez 1 point de Profondeur avec elle.
 
 Vous pouvez accroître votre Profondeur auprès de votre divinité en protégeant ses fidèles, en propageant sa foi et en terrassant ses ennemis (à la discrétion du MJ).
 
@@ -154,7 +154,7 @@ Lorsque vous « Tirez les ficelles », vous avez accès à l'approche suivante :
 - Si vous les implorez de renoncer à la violence, ils pourraient s'en aller sur-le-champ ou changer d'avis plus tard.
 ### Soins de groupe
 
-Lorsque vous proclamez votre foi, effacez 1 point de Profondeur auprès de votre divinité pour restaurer la totalité des PV perdus de vos alliés proches ainsi que les vôtres.
+Lorsque vous proclamez votre foi, décochez 1 point de Profondeur auprès de votre divinité pour restaurer la totalité des PV perdus de vos alliés proches ainsi que les vôtres.
 ## Oracle
 
 Ce qui fut, ce qui est et ce qui pourrait encore advenir
@@ -216,9 +216,8 @@ Lorsque vous Affrontez la mort, vous pouvez également choisir l'option suivante
 - Intervention divine. Votre divinité vous sauve miraculeusement la vie, écarte un danger, un ennemi ou un obstacle, puis restaure tous vos PV. Vous n'êtes plus sans défense. Vous subissez tout de même un État après avoir Affronté la mort.
 ### Arme spirituelle
 
-Lorsque vous hurlez le nom de votre divinité comme un cri de guerre, sa puissance
-imprègne l'arme que vous maniez jusqu'à la fin de la scène. Choisissez une
-bénédiction ci-dessous, ou effacez 1 point de Profondeur auprès de votre divinité pour en choisir deux.
+Lorsque vous hurlez le nom de votre divinité comme un cri de guerre, sa puissance imprègne l'arme que vous maniez jusqu'à la fin de la scène. Choisissez une bénédiction ci-dessous, ou décochez 1 point de Profondeur auprès de votre divinité pour en choisir deux.
+
 - Ajoutez +1 aux dégâts qu'elle inflige
 - Elle #perforant  l'armure des ennemis de votre divinité
 - Elle peut léviter et combattre seule, tel un prolongement de votre volonté ; considérez-la comme un PNJ loyal. Si elle subit des dégâts, elle perd cet avantage à moins que vous ne l'alimentiez avec votre propre force vitale pour la maintenir active (perdez 1 PV).
