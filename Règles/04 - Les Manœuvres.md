@@ -39,9 +39,9 @@ Une fois par séance, après avoir offert réconfort ou soutien à un autre pers
 - L’un de vous a-t-il révélé quelque chose de nouveau concernant son conflit ?
 
 Pour chaque réponse affirmative, la personne réconfortée peut choisir soit
-- de décocher un état marqué, 
-- soit d’augmenter de 1 le niveau de sa relation avec la personne qui a apporté son soutien, 
-- soit de faire décocher un état marqué chez cette dernière. 
+- de décocher un état 
+- d’augmenter de 1 le niveau de sa relation avec la personne qui a apporté son soutien
+- de faire décocher un état marqué chez cette dernière. 
 
 La personne réconfortée peut choisir une même option plusieurs fois.
 
