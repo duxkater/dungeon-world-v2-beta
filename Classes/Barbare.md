@@ -1,6 +1,6 @@
 *Un puissant étranger venu d'une terre encore plus étrange*
 
-Votre Force est de +2. Choisissez la Dextérité ou la Sagesse pour avoir +1, puis attribuez +1, 0 et -1 aux autres caractéristiques. Vous démarrez avec 12 PV.
+Votre Force est de +2. Choisissez la Sagesse ou le Charisme pour avoir également +2, puis attribuez 0, 0 et -1 aux autres caractéristiques. Vous démarrez avec 12 PV.
 # Origines
 ## Ascendance
 
@@ -47,7 +47,7 @@ Tant que vous êtes « En colère », vous bénéficiez des avantages et subisse
 - Choisissez une arme (ou créez-en une nouvelle avec le MJ) :
 	- épée longue ancestrale (dégâts 1d6, #contact, + bouclier ◯ utilisation) : cochez pour ignorer tous les dégâts d'une attaque
 	- grande hache tachée de sang (dégâts 1d8, #contact, #à_deux_mains , #percutant )
-	- marteaux jumelés (dégâts 1d6, #contact, avantage aux jets de dégâts)
+	- marteaux jumelés (dégâts 1d6, #contact, #léger avantage aux jets de dégâts)
 
 - Choisissez deux des objets ci-dessous :
 	- équipement d'aventure (◯◯◯ utilisations) : cochez pour fouiller et trouver un objet courant utile

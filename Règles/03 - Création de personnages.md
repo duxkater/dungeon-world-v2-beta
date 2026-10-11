@@ -17,6 +17,16 @@
 # Classe
 
 Pour cette version de démarrage rapide, seules les classes du Barde (p. 31), du Clerc (p. 36), du Guerrier (p. 41), du Voleur (p. 46) et du Magicien (p. 51) sont disponibles. D'autres seront ajoutées plus tard durant la phase de bêta ; vous trouverez toujours la version la plus récente sur dungeon-world.com.
+## Changement de classe
+
+Lorsque votre personnage a considérablement évolué — par choix, par les conséquences de ses actes ou en raison des circonstances — il est peut-être temps de changer de classe. Ce changement marque généralement un nouveau chapitre dans la vie du personnage : sans pour autant oublier le passé ou ses anciennes habitudes, il a laissé une part importante de cette vie derrière lui. Vous pouvez changer de classe lorsque vous gagnez un niveau.
+
+1. **Choisissez votre nouvelle classe.** Par exemple, Erinyette, une Crapule de niveau 5, a résolu son « Conflit : Rédemption » et décide d'adopter la classe de Paladin pour refléter sa détermination à combattre pour la justice.
+2. **Répartissez vos caractéristiques** comme si vous créiez un nouveau personnage. Vous pouvez vous inspirer de vos anciennes statistiques ou les ignorer totalement pour repartir sur de nouvelles bases.
+3. **Obtenez la Manœuvre de départ de votre nouvelle classe** et perdez celle de votre ancienne classe.
+4. **Réattribuez vos avancements.** Comptez le nombre d'avancements acquises avec votre ancienne classe et obtenez-en autant pour la nouvelle. Erinyette possédait 4 améliorations en tant que Crapule. Sa joueuse décide de conserver la Voie du Cambrioleur et sa Manœuvre de départ (« Expert en chasse au trésor ») via le multiclassage, mais utilise les 3 autres avancements pour augmenter sa Sagesse, débloquer la Voie de l'Inquisiteur (leur némésis compte des adeptes cachés partout) et révéler un nouveau conflit : « Vindicatif ».
+5. Vos points d'expérience (XP), votre niveau et votre piste de Richesse restent inchangés.
+6. Vos PV maximums sont ajustés selon les valeurs de votre nouvelle classe, modifiées par votre bonus par niveau (+1 par niveau au-delà du niveau 1, jusqu'à un maximum de +10). Vos PV actuels augmentent ou diminuent de la même valeur (sans toutefois pouvoir descendre en dessous de 1).
 # Origines
 
 Les trois aspects qui constituent vos Origines sont :
@@ -113,6 +123,7 @@ Voici la liste des Étiquettes pouvant figurer sur l'équipement de Classe :
 - #dissimulé — facile à cacher aux autres, à moins qu'ils ne vous fouillent minutieusement.
 - #distinctif — se caractérise par une sonorité ou une apparence marquante qui attire l'attention
 - #éloigné — destiné à une cible assez proche pour lui parler, même s'il faut hausser la voix.
+- #lancé — Vous pouvez utiliser la Force (FOR) au lieu de la Dextérité (DEX) pour l'attaque « Trade Blows » lorsque vous utilisez cette arme à distance.
 - #léger — peut être facilement manié en duo avec des armes similaires (lancez les dés de dégâts pour les deux et conservez le résultat le plus élevé)
 - #main — destiné à une cible assez proche pour être saisie.
 - #munitions — nécessite des munitions pour fonctionner. Par défaut, vous en avez toujours assez, mais vous pouvez en manquer suite à une action du MJ.

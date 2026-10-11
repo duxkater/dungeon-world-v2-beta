@@ -474,6 +474,6 @@ Lorsque du temps s'écoule — par exemple, lorsque les PJ installent leur campe
 - Résiste aux attaques individuelles et au fait de rester bloqué longtemps
 - Dégâts 1d8 (portée : contact/proche/à portée) | PV 11 | Armure 4 (cuirs et pièces de métal de récupération) contre les attaques visant la horde entière
 - États et Escalades
-	- Irrité — Sauter sur le dos de quelqu'un et commencer à mordre
-	- Audacieux — Renforcer les rangs avec des montures insectes
-	- Terrifié — Battre en retraite sous terre
+	- [ ] Irrité — Sauter sur le dos de quelqu'un et commencer à mordre
+	- [ ] Audacieux — Renforcer les rangs avec des montures insectes
+	- [ ] Terrifié — Battre en retraite sous terre

@@ -130,7 +130,14 @@ Lorsque vous fouillez votre mémoire pour obtenir des informations sur un sujet 
 - Sur un 7-9, le MJ répond simplement de manière généreuse.
 - Sur un 6-, le MJ répond en évoquant un danger ou une vérité désagréable ; cochez 1 XP et le MJ effectue une Manœuvre.
 
->Chacun possède son propre vécu vis-à-vis du monde. Alors que de nombreux autres jeux de rôle fantastiques vous demandent de vous fier à votre Intelligence (ou une caractéristique similaire) pour vous remémorer des informations, ici, nous nous intéressons surtout à la place centrale qu'occupe ce sujet pour votre personnage. Si vous n'avez jamais connu de Conflit (p. 77), la réponse à la troisième question est toujours « Non ». Si le sujet est pertinent pour un Conflit déjà résolu, la réponse peut toutefois être « Oui ».
+>Chacun possède son propre vécu vis-à-vis du monde. Alors que de nombreux autres jeux de rôle fantastiques vous demandent de vous fier à votre Intelligence (ou une caractéristique similaire) pour vous remémorer des informations, ici, nous nous intéressons surtout à la place centrale qu'occupe ce sujet pour votre personnage. Si vous n'avez jamais connu de Conflit, la réponse à la troisième question est toujours « Non ». Si le sujet est pertinent pour un Conflit déjà résolu, la réponse peut toutefois être « Oui ».
+
+>Voici quelques exemples de questions :
+  Où se trouve _______ ?
+  Qu'est-ce qui a pu causer _______ ?
+  Quelle serait la meilleure façon d'accomplir _______ ?
+  Qu'ai-je entendu ou lu à propos de _______ ?
+  Comment pourrais-je accéder à _______ ?
 ## Échanger des coups (+FOR ou +DEX)
 
 Lorsque vous affrontez un ennemi au combat, lancez les dés +FOR au corps à corps ou +DEX à distance (ou avec des armes \#précises), puis infligez vos dégâts et subissez les siens.
